@@ -30,5 +30,16 @@ class RolesAndAdminSeeder extends Seeder
             ['name' => 'Admin', 'password' => $password, 'email_verified_at' => now()],
         );
         $admin->syncRoles(['Admin']);
+
+        // Test accounts for checking Editor/Sales access; only created when their passwords are in .env.
+        foreach (['Editor' => 'EDITOR_PASSWORD', 'Sales' => 'SALES_PASSWORD'] as $role => $env) {
+            if ($pw = env($env)) {
+                $user = User::updateOrCreate(
+                    ['email' => strtolower($role).'@wearemorocco.local'],
+                    ['name' => $role.' (test)', 'password' => $pw, 'email_verified_at' => now()],
+                );
+                $user->syncRoles([$role]);
+            }
+        }
     }
 }

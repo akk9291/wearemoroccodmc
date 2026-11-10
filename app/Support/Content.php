@@ -42,6 +42,33 @@ class Content
         }, $html);
     }
 
+    /** Image column value -> URL. Full URLs (e.g. Pexels) pass through; anything else is a public-disk path. */
+    public static function img(?string $value): string
+    {
+        if ($value === null || $value === '') {
+            return '';
+        }
+        if (preg_match('#^(https?:)?//#i', $value)) {
+            return $value;
+        }
+        if (str_starts_with($value, '/')) {
+            return url($value);
+        }
+
+        return \Illuminate\Support\Facades\Storage::disk('public')->url($value);
+    }
+
+    /** Rich-text output used inside an existing <p>/<h3>: drops one wrapping <div> or <p> added by the editor. */
+    public static function inline(?string $html): string
+    {
+        $html = trim((string) $html);
+        if (preg_match('#^<(div|p)>(.*)</\1>$#s', $html, $m) && ! preg_match('#</?(div|p)[ >]#', $m[2])) {
+            return $m[2];
+        }
+
+        return $html;
+    }
+
     /** Breadcrumb <li> items from [{label, url|null}]. */
     public static function crumbs(?array $crumbs): string
     {

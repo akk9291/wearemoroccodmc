@@ -1,6 +1,6 @@
 {{-- Page hero from the hero_* columns. $extra (optional HTML) replaces hero_extra. --}}
 <section class="phero grain{{ $m->hero_variant ? ' '.$m->hero_variant : '' }}">
-  <div class="media"><img src="{{ $m->hero_image }}" alt="{{ $m->hero_image_alt }}" class="kenburns" fetchpriority="high" decoding="async"></div><div class="ov"></div>
+  <div class="media"><img src="{{ \App\Support\Content::img($m->hero_image) }}" alt="{{ $m->hero_image_alt }}" class="kenburns" fetchpriority="high" decoding="async"></div><div class="ov"></div>
   <span class="orb orb-gold" aria-hidden="true"></span>
   <div class="container hero-content rise">
     @if($m->hero_crumbs)<ol class="crumbs">{!! \App\Support\Content::crumbs($m->hero_crumbs) !!}</ol>@endif<p class="eyebrow">{!! $m->hero_eyebrow !!}</p>

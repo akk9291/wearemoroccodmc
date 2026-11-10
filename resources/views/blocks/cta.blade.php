@@ -1,5 +1,5 @@
 <section class="final grain">
-  <div class="media"><img src="{{ $b['image'] }}" alt="{{ $b['image_alt'] }}" loading="lazy" decoding="async"></div><div class="ov"></div>
+  <div class="media"><img src="{{ \App\Support\Content::img($b['image']) }}" alt="{{ $b['image_alt'] }}" loading="lazy" decoding="async"></div><div class="ov"></div>
   <span class="orb orb-gold" aria-hidden="true" style="left:50%;top:10%"></span>
   <div class="container narrow reveal">
     <div class="star-rule" aria-hidden="true">{!! \App\Support\Content::icon('star') !!}</div>

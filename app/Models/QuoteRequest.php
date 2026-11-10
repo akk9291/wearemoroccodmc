@@ -12,5 +12,5 @@ class QuoteRequest extends Model
     public const STATUSES = ['new', 'contacted', 'quoted', 'won', 'lost'];
 
     protected $fillable = ['name', 'email', 'intent', 'party', 'travelers', 'dates', 'length', 'pace', 'mood', 'stays', 'prio',
-        'lead', 'note', 'status', 'source_page', 'ip'];
+        'lead', 'note', 'status', 'admin_notes', 'source_page', 'ip'];
 }

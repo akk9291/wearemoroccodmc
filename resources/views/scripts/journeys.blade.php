@@ -1,6 +1,6 @@
 @php($journeys = \App\Models\Itinerary::published()->signature()->ordered()->get()->map(fn ($it) => [
     'name' => $it->title,
-    'img' => $it->card_image,
+    'img' => \App\Support\Content::img($it->card_image),
     'route' => html_entity_decode((string) $it->card_route, ENT_QUOTES | ENT_HTML5),
     'summary' => html_entity_decode((string) $it->summary, ENT_QUOTES | ENT_HTML5),
     'includes' => $it->highlights ?? [],

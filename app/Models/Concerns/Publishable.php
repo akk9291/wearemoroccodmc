@@ -20,9 +20,10 @@ trait Publishable
         return $query->orderBy($this->qualifyColumn('sort_order'))->orderBy($this->getQualifiedKeyName());
     }
 
+    /** slug when the model has one (pages, itineraries...), id otherwise (FAQs, testimonials, partners). */
     public function getRouteKeyName(): string
     {
-        return 'slug';
+        return in_array('slug', $this->getFillable(), true) ? 'slug' : $this->getKeyName();
     }
 
     public function resolveRouteBinding($value, $field = null)

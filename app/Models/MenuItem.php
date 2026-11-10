@@ -15,6 +15,11 @@ class MenuItem extends Model
         return $this->belongsTo(Menu::class);
     }
 
+    public function parent(): BelongsTo
+    {
+        return $this->belongsTo(MenuItem::class, 'parent_id');
+    }
+
     public function children(): HasMany
     {
         return $this->hasMany(MenuItem::class, 'parent_id')->orderBy('sort_order');

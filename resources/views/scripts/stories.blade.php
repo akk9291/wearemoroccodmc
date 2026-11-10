@@ -1,5 +1,5 @@
 @php($stories = \App\Models\Testimonial::published()->where('placement', $placement ?? 'guests')->ordered()->get()->map(fn ($t) => [
-    'img' => $t->image,
+    'img' => \App\Support\Content::img($t->image),
     'name' => $t->name,
     'role' => $t->role,
     'trip' => $t->trip,

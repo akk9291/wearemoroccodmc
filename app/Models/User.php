@@ -13,11 +13,10 @@ use Spatie\Permission\Traits\HasRoles;
 
 class User extends Authenticatable implements FilamentUser
 {
-    /** Only staff accounts may open the /admin panel (enforced in production). */
+    /** Only staff with a role (Admin, Editor, Sales) may open the /admin panel. */
     public function canAccessPanel(Panel $panel): bool
     {
-        return str_ends_with($this->email, '@wearemorocco.local')
-            || str_ends_with($this->email, '@wearemoroccotravel.com');
+        return $this->hasAnyRole(['Admin', 'Editor', 'Sales']);
     }
 
     /** @use HasFactory<UserFactory> */
