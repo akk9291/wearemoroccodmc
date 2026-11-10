@@ -1,0 +1,187 @@
+[
+ {
+  "slug": "marrakech",
+  "name": "Marrakech",
+  "best_for": "First visits, celebrations, incentives",
+  "summary": "Palaces, souks and rooftop nights, with the Atlas on the horizon.",
+  "card_image": "https://images.pexels.com/photos/15260622/pexels-photo-15260622.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "card_image_alt": "Marrakech palace interior",
+  "has_page": true,
+  "sort_order": 1,
+  "is_featured": true,
+  "featured_order": 1,
+  "featured_name": "Marrakech",
+  "tagline": "The Red City",
+  "intro": "Palaces, hidden riads, and the pulse of Jemaa el-Fna — then silence behind a cedar door.",
+  "featured_image": "https://images.pexels.com/photos/15260622/pexels-photo-15260622.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "featured_image_alt": "Marrakech palace interior",
+  "meta_title": "Marrakech | We Are Morocco",
+  "meta_description": "Marrakech with a local atelier: palaces, hidden riads, rooftop nights and the Agafay desert 40 minutes away.",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_variant": null,
+  "hero_image": "https://images.pexels.com/photos/15260622/pexels-photo-15260622.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "hero_image_alt": "Marrakech palace interior",
+  "hero_crumb": "Marrakech",
+  "hero_crumbs": [
+   {
+    "label": "Home",
+    "url": "/"
+   },
+   {
+    "label": "Destinations",
+    "url": "/destinations"
+   },
+   {
+    "label": "Marrakech",
+    "url": null
+   }
+  ],
+  "hero_eyebrow": "The Red City",
+  "hero_title": "Marrakech",
+  "hero_subtitle": "Palaces, hidden riads and the pulse of Jemaa el-Fna — then silence behind a cedar door.",
+  "hero_extra": "<div class=\"ctas\"><button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Plan a stay in Marrakech</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button></div><dl class=\"facts\"><div><span>Best for</span><b>First visits, celebrations</b></div><div><span>Best season</span><b>Mar–May · Sep–Nov</b></div><div><span>From New York</span><b>≈ 9 hours via CMN</b></div></dl>",
+  "sections": [
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-parch\"><div class=\"container cols c-1-1 items-center\">\n  <div class=\"feature reveal-left\"><span class=\"ring\" aria-hidden=\"true\"></span><div class=\"frame img-zoom\"><img src=\"https://images.pexels.com/photos/50630/pexels-photo-50630.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"A guest looking out over Marrakech at dusk from a private terrace\" loading=\"lazy\" decoding=\"async\"></div><div class=\"badge\"><b>40 min</b><span>From the medina to the Agafay desert.</span></div></div>\n  <div><p class=\"eyebrow\">Why Marrakech</p><h2 class=\"h2 big\">Easy to reach. <span class=\"it\">Hard to forget.</span></h2><p class=\"lead\">Marrakech has the widest choice of palace hotels and private riads in the country, and the desert and the Atlas within an hour. It is where most of our journeys begin — and where our atelier is.</p>\n  <ol class=\"nlist\"><li class=\"reveal\" style=\"transition-delay:0ms\"><span class=\"n\">01</span><div><h3>The medina and the souks.</h3><p>Explored privately, or after hours with an artisan guide.</p></div></li><li class=\"reveal\" style=\"transition-delay:80ms\"><span class=\"n\">02</span><div><h3>Palaces and gardens.</h3><p>Historic venues available for private dinners and receptions.</p></div></li><li class=\"reveal\" style=\"transition-delay:160ms\"><span class=\"n\">03</span><div><h3>Rooftops at dusk.</h3><p>Terraces with views to the Koutoubia and the mountains.</p></div></li><li class=\"reveal\" style=\"transition-delay:240ms\"><span class=\"n\">04</span><div><h3>The Palmeraie and Agafay.</h3><p>Balloon flights and desert camps on the city’s edge.</p></div></li></ol></div>\n</div></section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ivory\"><div class=\"container\"><div class=\"head-row\"><div class=\"reveal\"><p class=\"eyebrow\">Houses we use</p><h2 class=\"h2 big\">Where to <span class=\"it\">stay.</span></h2></div></div><div class=\"grid mt-14\" style=\"gap:1.5rem\"><article class=\"scard lift reveal\" style=\"transition-delay:0ms\"><div class=\"pic img-zoom\"><img src=\"https://images.pexels.com/photos/7391720/pexels-photo-7391720.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Riad lounge with carved plaster and lantern light\" loading=\"lazy\" decoding=\"async\"></div><div class=\"txt\"><span class=\"kicker\">Marrakech</span><h3>Royal Mansour Marrakech</h3><p>A city of private riads inside the walls — commissioned for heads of state, now yours for a week.</p></div></article><article class=\"scard lift reveal\" style=\"transition-delay:80ms\"><div class=\"pic img-zoom\"><img src=\"https://images.pexels.com/photos/27945049/pexels-photo-27945049.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Palace courtyard with fountain and arches\" loading=\"lazy\" decoding=\"async\"></div><div class=\"txt\"><span class=\"kicker\">Marrakech</span><h3>La Mamounia</h3><p>The legendary palace garden. Churchill painted here. You will understand why by the second breakfast.</p></div></article></div></div></section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ink\"><div class=\"container\"><div class=\"head-row\"><div class=\"reveal\"><p class=\"eyebrow\">Only in Marrakech</p><h2 class=\"h2 big\">Experiences <span class=\"it\">here.</span></h2></div><p class=\"lead reveal\" style=\"transition-delay:120ms\"><a class=\"link\" href=\"/experiences\">All experiences <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></a></p></div>\n  <div class=\"grid g-3 mt-14\"><a class=\"dcard reveal\" href=\"/experiences\"><img src=\"https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Golden Sahara dunes at sunset in Merzouga\" loading=\"lazy\" decoding=\"async\"><div class=\"cap\"><span class=\"kicker\" style=\"color:var(--gold-light)\">Agafay · 40 min</span><h3>Private dinner in the desert</h3><p class=\"more\">Long tables, lanterns and a stone desert to yourselves.</p></div></a><a class=\"dcard reveal\" href=\"/experiences\"><img src=\"https://images.pexels.com/photos/22711555/pexels-photo-22711555.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Craft stalls in the Fès medina\" loading=\"lazy\" decoding=\"async\"><div class=\"cap\"><span class=\"kicker\" style=\"color:var(--gold-light)\">Medina</span><h3>After-hours souk</h3><p class=\"more\">The medina after the crowds leave, with an artisan guide.</p></div></a><a class=\"dcard reveal\" href=\"/experiences\"><img src=\"https://images.pexels.com/photos/29976840/pexels-photo-29976840.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Kasbah in the Atlas foothills\" loading=\"lazy\" decoding=\"async\"><div class=\"cap\"><span class=\"kicker\" style=\"color:var(--gold-light)\">Palmeraie</span><h3>Balloon at sunrise</h3><p class=\"more\">Over the palm groves with the Atlas on the horizon.</p></div></a></div></div></section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-parch\"><div class=\"container\"><div class=\"head-row\"><div class=\"reveal\"><p class=\"eyebrow\">Journeys through Marrakech</p><h2 class=\"h2 big\">Start <span class=\"it\">here.</span></h2></div></div><div class=\"grid mt-14\" style=\"gap:1.5rem\"><!--wam:itinerary-scards signature=\"1\"--></div></div></section>"
+   },
+   {
+    "type": "cta",
+    "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Golden Sahara dunes at sunset in Merzouga",
+    "label": "We live here",
+    "title": "Planning something in Marrakech? <span class=\"it block\">Ask the people who live here.</span>",
+    "lead": "Share your dates and who is traveling, and we will send houses and a first sketch within days.",
+    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+   }
+  ],
+  "region": "Marrakech-Safi",
+  "best_season": "Mar–May · Sep–Nov"
+ },
+ {
+  "slug": "agafay",
+  "name": "Agafay Desert",
+  "best_for": "Gala dinners, short desert escapes",
+  "summary": "Stone desert 40 minutes from Marrakech, made for dinners under the stars.",
+  "card_image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "card_image_alt": "Golden Sahara dunes at sunset in Merzouga",
+  "has_page": false,
+  "sort_order": 2,
+  "is_featured": false,
+  "sections": []
+ },
+ {
+  "slug": "fes",
+  "name": "Fès",
+  "best_for": "Culture, artisan ateliers",
+  "summary": "The world’s largest car-free medina and a thousand years of craft.",
+  "card_image": "https://images.pexels.com/photos/22711555/pexels-photo-22711555.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "card_image_alt": "Craft stalls in the Fès medina",
+  "has_page": false,
+  "sort_order": 3,
+  "is_featured": true,
+  "featured_order": 6,
+  "featured_name": "Fès",
+  "tagline": "The living medina",
+  "intro": "Nine thousand alleys, the oldest university, and crafts still made the way they were.",
+  "featured_image": "https://images.pexels.com/photos/22711555/pexels-photo-22711555.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "featured_image_alt": "Craft stalls in the Fès medina",
+  "sections": []
+ },
+ {
+  "slug": "sahara",
+  "name": "Sahara (Merzouga)",
+  "best_for": "Bucket-list journeys, celebrations",
+  "summary": "Golden dunes, camel treks and private camps on the erg.",
+  "card_image": "https://images.pexels.com/photos/998631/pexels-photo-998631.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+  "card_image_alt": "Sahara dunes",
+  "has_page": false,
+  "sort_order": 4,
+  "is_featured": true,
+  "featured_order": 2,
+  "featured_name": "Sahara",
+  "tagline": "Merzouga & Agafay",
+  "intro": "Private camps on the erg, a sky with no light pollution, and a silence you can hear.",
+  "featured_image": "https://images.pexels.com/photos/998631/pexels-photo-998631.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+  "featured_image_alt": "Sahara dunes",
+  "sections": []
+ },
+ {
+  "slug": "atlas",
+  "name": "Atlas & Aït Benhaddou",
+  "best_for": "Retreats, walking, slower days",
+  "summary": "Berber villages, kasbahs and fresh mountain air.",
+  "card_image": "https://images.pexels.com/photos/29976840/pexels-photo-29976840.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "card_image_alt": "Kasbah in the Atlas foothills",
+  "has_page": false,
+  "sort_order": 5,
+  "is_featured": true,
+  "featured_order": 4,
+  "featured_name": "Aït Benhaddou",
+  "tagline": "Kasbahs & Atlas",
+  "intro": "Earthen citadels, Tizi n'Tichka, and lunches in villages that do not appear on maps.",
+  "featured_image": "https://images.pexels.com/photos/37684084/pexels-photo-37684084.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+  "featured_image_alt": "The earthen kasbah of Aït Benhaddou",
+  "sections": []
+ },
+ {
+  "slug": "essaouira",
+  "name": "Essaouira",
+  "best_for": "Add-on days, cooking",
+  "summary": "Windswept port town with seafood and a relaxed pace.",
+  "card_image": "https://images.pexels.com/photos/31070248/pexels-photo-31070248.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "card_image_alt": "Blue boats in the harbour at Essaouira",
+  "has_page": false,
+  "sort_order": 6,
+  "is_featured": true,
+  "featured_order": 5,
+  "featured_name": "Essaouira",
+  "tagline": "Atlantic light",
+  "intro": "Ramparts, blue boats, and oysters with a wind that resets the nervous system.",
+  "featured_image": "https://images.pexels.com/photos/31070248/pexels-photo-31070248.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "featured_image_alt": "Blue boats in the harbour at Essaouira",
+  "sections": []
+ },
+ {
+  "slug": "skoura",
+  "name": "Skoura & the oases",
+  "best_for": "Rest between desert and city",
+  "summary": "Palm groves and kasbah houses on the Road of a Thousand Kasbahs.",
+  "card_image": "https://images.pexels.com/photos/37441764/pexels-photo-37441764.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "card_image_alt": "Palm oasis and kasbah walls",
+  "has_page": false,
+  "sort_order": 7,
+  "is_featured": false,
+  "sections": []
+ },
+ {
+  "slug": "north",
+  "name": "Chefchaouen & the north",
+  "best_for": "Photography, northern circuits",
+  "summary": "The blue city and the gateway to Europe.",
+  "card_image": "https://images.pexels.com/photos/25070537/pexels-photo-25070537.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "card_image_alt": "Blue alleys of Chefchaouen",
+  "has_page": false,
+  "sort_order": 8,
+  "is_featured": true,
+  "featured_order": 3,
+  "featured_name": "Chefchaouen",
+  "tagline": "The Blue Pearl",
+  "intro": "Washed indigo alleys, mountain air, and a slower north that most itineraries rush past.",
+  "featured_image": "https://images.pexels.com/photos/25070537/pexels-photo-25070537.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "featured_image_alt": "Blue alleys of Chefchaouen",
+  "sections": []
+ }
+]

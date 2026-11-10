@@ -19,7 +19,7 @@
       <p class="small" style="margin-top:1rem;text-align:center;color:var(--stone)">We reply as people. No newsletter, no CRM sequence.</p>
     </form>
     <div id="inq-done" hidden>
-      <p class="lead" style="color:rgba(239,230,214,.78)">A producer will reply within one business day — usually sooner. If your dates are close, write us at <a href="mailto:info@wearemoroccotravel.com" style="color:var(--gold-light)">info@wearemoroccotravel.com</a> or WhatsApp <a href="tel:+212653051512" style="color:var(--gold-light)">+212 653 051 512</a>.</p>
+      <p class="lead" style="color:rgba(239,230,214,.78)">A producer will reply within one business day — usually sooner. If your dates are close, write us at <a href="mailto:{{ $site['email'] }}" style="color:var(--gold-light)">{{ $site['email'] }}</a> or WhatsApp <a href="tel:{{ $site['phone'] }}" style="color:var(--gold-light)">{{ $site['phone_display'] }}</a>.</p>
       <button type="button" class="btn btn-ghost" data-close style="margin-top:1.75rem">Return to the page</button>
     </div>
   </div>

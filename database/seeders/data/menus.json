@@ -1,0 +1,244 @@
+[
+ {
+  "name": "main",
+  "items": [
+   {
+    "label": "Journeys",
+    "route": "itineraries.index",
+    "route_param": null,
+    "active_routes": "itineraries.*",
+    "sort_order": 1
+   },
+   {
+    "label": "Destinations",
+    "route": "destinations.index",
+    "route_param": null,
+    "active_routes": "destinations.*",
+    "sort_order": 2
+   },
+   {
+    "label": "Experiences",
+    "route": "experiences",
+    "route_param": null,
+    "active_routes": "experiences",
+    "sort_order": 3
+   },
+   {
+    "label": "Services",
+    "route": "services.index",
+    "route_param": null,
+    "active_routes": "services.*,case-studies.*",
+    "sort_order": 4
+   },
+   {
+    "label": "The Atelier",
+    "route": "about",
+    "route_param": null,
+    "active_routes": "about,why-us,sustainability",
+    "sort_order": 5
+   },
+   {
+    "label": "Journal",
+    "route": "journal.index",
+    "route_param": null,
+    "active_routes": "journal.*",
+    "sort_order": 6
+   },
+   {
+    "label": "FAQ",
+    "route": "faq",
+    "route_param": null,
+    "active_routes": "faq",
+    "sort_order": 7
+   }
+  ]
+ },
+ {
+  "name": "mobile",
+  "items": [
+   {
+    "label": "Home",
+    "route": "home",
+    "route_param": null,
+    "active_routes": null,
+    "sort_order": 1
+   },
+   {
+    "label": "Journeys",
+    "route": "itineraries.index",
+    "route_param": null,
+    "active_routes": "itineraries.*",
+    "sort_order": 2
+   },
+   {
+    "label": "Destinations",
+    "route": "destinations.index",
+    "route_param": null,
+    "active_routes": "destinations.*",
+    "sort_order": 3
+   },
+   {
+    "label": "Experiences",
+    "route": "experiences",
+    "route_param": null,
+    "active_routes": "experiences",
+    "sort_order": 4
+   },
+   {
+    "label": "Services",
+    "route": "services.index",
+    "route_param": null,
+    "active_routes": "services.*,case-studies.*",
+    "sort_order": 5
+   },
+   {
+    "label": "The Atelier",
+    "route": "about",
+    "route_param": null,
+    "active_routes": "about,why-us,sustainability",
+    "sort_order": 6
+   },
+   {
+    "label": "Journal",
+    "route": "journal.index",
+    "route_param": null,
+    "active_routes": "journal.*",
+    "sort_order": 7
+   },
+   {
+    "label": "FAQ",
+    "route": "faq",
+    "route_param": null,
+    "active_routes": "faq",
+    "sort_order": 8
+   },
+   {
+    "label": "Contact",
+    "route": "contact",
+    "route_param": null,
+    "active_routes": null,
+    "sort_order": 9
+   }
+  ]
+ },
+ {
+  "name": "footer-explore",
+  "items": [
+   {
+    "label": "Signature journeys",
+    "route": "itineraries.index",
+    "route_param": null,
+    "active_routes": null,
+    "sort_order": 1
+   },
+   {
+    "label": "Destinations",
+    "route": "destinations.index",
+    "route_param": null,
+    "active_routes": null,
+    "sort_order": 2
+   },
+   {
+    "label": "Experiences",
+    "route": "experiences",
+    "route_param": null,
+    "active_routes": null,
+    "sort_order": 3
+   },
+   {
+    "label": "Design your stay",
+    "route": "quote",
+    "route_param": null,
+    "active_routes": null,
+    "sort_order": 4
+   },
+   {
+    "label": "Journal",
+    "route": "journal.index",
+    "route_param": null,
+    "active_routes": null,
+    "sort_order": 5
+   }
+  ]
+ },
+ {
+  "name": "footer-services",
+  "items": [
+   {
+    "label": "Tailor-made journeys",
+    "route": "services.show",
+    "route_param": "tailor-made",
+    "active_routes": null,
+    "sort_order": 1
+   },
+   {
+    "label": "Incentives & groups",
+    "route": "services.show",
+    "route_param": "incentives",
+    "active_routes": null,
+    "sort_order": 2
+   },
+   {
+    "label": "Events & weddings",
+    "route": "services.show",
+    "route_param": "events",
+    "active_routes": null,
+    "sort_order": 3
+   },
+   {
+    "label": "For travel advisors",
+    "route": "services.show",
+    "route_param": "ground-handling",
+    "active_routes": null,
+    "sort_order": 4
+   },
+   {
+    "label": "Case studies",
+    "route": "case-studies.index",
+    "route_param": null,
+    "active_routes": null,
+    "sort_order": 5
+   }
+  ]
+ },
+ {
+  "name": "legal",
+  "items": [
+   {
+    "label": "About",
+    "route": "about",
+    "route_param": null,
+    "active_routes": null,
+    "sort_order": 1
+   },
+   {
+    "label": "Contact",
+    "route": "contact",
+    "route_param": null,
+    "active_routes": null,
+    "sort_order": 2
+   },
+   {
+    "label": "Privacy",
+    "route": "privacy",
+    "route_param": null,
+    "active_routes": null,
+    "sort_order": 3
+   },
+   {
+    "label": "Terms",
+    "route": "terms",
+    "route_param": null,
+    "active_routes": null,
+    "sort_order": 4
+   },
+   {
+    "label": "Cookies",
+    "route": "cookies",
+    "route_param": null,
+    "active_routes": null,
+    "sort_order": 5
+   }
+  ]
+ }
+]

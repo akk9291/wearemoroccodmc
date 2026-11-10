@@ -1,0 +1,47 @@
+[
+ {
+  "placement": "services",
+  "image": "https://images.pexels.com/photos/20511251/pexels-photo-20511251.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=600",
+  "name": "[Name]",
+  "role": "[Role] · [Company]",
+  "trip": "Sample · replace with a real client",
+  "quote": "“Our 120 guests landed in Marrakech and never saw a single hitch. The Agafay gala is still the trip everyone mentions.”",
+  "sort_order": 1
+ },
+ {
+  "placement": "guests",
+  "image": "https://images.pexels.com/photos/8556576/pexels-photo-8556576.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=600",
+  "name": "Claire M.",
+  "role": "Collector & traveler · New York, NY",
+  "trip": "Imperial & Sahara · 10 nights",
+  "quote": "“I have done Aman, Singita, and a very serious Bhutan. Morocco with this team is the first time a country felt privately edited. We never waited. We never felt handled. We just… arrived at the right hour.”",
+  "sort_order": 1
+ },
+ {
+  "placement": "guests",
+  "image": "https://images.pexels.com/photos/37678070/pexels-photo-37678070.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=600",
+  "name": "David & Priya R.",
+  "role": "Family journey · Palo Alto, CA",
+  "trip": "The Grand Private · 14 nights",
+  "quote": "“Our producer built the trip around our boys — 8 and 11 — without turning it into a theme park. Camel at dusk, a blacksmith in Fès, and a riad they still talk about. Logistics were invisible. That is the luxury.”",
+  "sort_order": 2
+ },
+ {
+  "placement": "guests",
+  "image": "https://images.pexels.com/photos/21622176/pexels-photo-21622176.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=600",
+  "name": "Elena V.",
+  "role": "Design director · Chicago, IL",
+  "trip": "The Atlas Edit · 7 nights",
+  "quote": "“I travel alone and I am particular. They understood both. A table at the right place, a guide who could talk textiles for two hours, and the option to cancel a morning without a production. I am already sketching a return.”",
+  "sort_order": 3
+ },
+ {
+  "placement": "guests",
+  "image": "https://images.pexels.com/photos/20511251/pexels-photo-20511251.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=600",
+  "name": "Marcus Hale",
+  "role": "Managing partner · Austin, TX",
+  "trip": "Events & Agafay · 5 nights",
+  "quote": "“We host clients. This was a board retreat that needed to feel like a gift. Desert dinner, no speeches, cars that were never late. Our CFO asked for the producer’s name. That is the review.”",
+  "sort_order": 4
+ }
+]

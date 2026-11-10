@@ -1,0 +1,736 @@
+[
+ {
+  "meta_title": "We Are Morocco — Luxury Private Journeys",
+  "meta_description": "Tailor-made luxury travel in Morocco. Private riads, Sahara camps and exclusive access — designed by local experts in Marrakech with fifty years of combined experience.",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "sections": [
+   {
+    "type": "html",
+    "html": "<section class=\"hero grain\" id=\"top\">\n  <div class=\"media\"><img src=\"https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400\" alt=\"Lantern-lit Moroccan riad courtyard with carved arches and a still reflecting pool\" class=\"kenburns\" fetchpriority=\"high\" decoding=\"async\"></div><div class=\"ov\"></div>\n  <span class=\"orb orb-gold\" aria-hidden=\"true\"></span><span class=\"orb orb-terra\" aria-hidden=\"true\"></span>\n  <div class=\"container hero-content rise\">\n    <p class=\"hero-eyebrow\"><svg viewBox=\"0 0 32 32\" aria-hidden=\"true\" class=\"star\"><path fill=\"currentColor\" d=\"M16 2.5 18.4 12.2 28.5 14.5 18.4 16.8 16 26.5 13.6 16.8 3.5 14.5 13.6 12.2Z\"/></svg>Private journeys · Morocco</p>\n    <h1 class=\"h1\">There is a Morocco <span class=\"it block\">that never appears</span> on an itinerary.</h1>\n    <p class=\"lead\">Private journeys, designed and run by a small atelier in Marrakech. Palaces after hours, camps that are genuinely quiet, and a country edited around the way you travel.</p>\n    <div class=\"ctas\"><button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Begin a private conversation</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"/itineraries\">Explore journeys</a></div>\n    <div class=\"trust\"><span>Marrakech atelier</span><span class=\"sep\"></span><span>Local roots · Global standards</span><span class=\"sep\"></span><span>No groups. Ever.</span></div>\n  </div>\n  <span class=\"scroll-cue\" aria-hidden=\"true\">Scroll</span>\n</section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"bg-ivory proof\" id=\"proof\">\n  <div class=\"container\">\n    <div class=\"stats\">\n      <div class=\"stat reveal\"><b>50+</b><span>Years of combined experience</span></div>\n      <div class=\"stat reveal\" style=\"transition-delay:80ms\"><b>1,800+</b><span>Private guests hosted</span></div>\n      <div class=\"stat reveal\" style=\"transition-delay:160ms\"><b>4.98</b><span>Average guest rating</span></div>\n      <div class=\"stat reveal\" style=\"transition-delay:240ms\"><b>62%</b><span>Return or refer</span></div>\n    </div>\n    <p class=\"proof-cap\">Trusted by private travelers and the desks that advise them</p>\n  </div>\n  <div class=\"marquee\" aria-label=\"Press and partners\"><div class=\"marquee-track\"><span>ILTM Cannes</span><span>Condé Nast Traveler</span><span>Pure Life Experiences</span><span>Virtuoso</span><span>Travel + Leisure</span><span>Afar</span><span>Andrew Harper</span><span>Indagare</span><span>ILTM Cannes</span><span>Condé Nast Traveler</span><span>Pure Life Experiences</span><span>Virtuoso</span><span>Travel + Leisure</span><span>Afar</span><span>Andrew Harper</span><span>Indagare</span></div></div>\n</section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-parch\" id=\"atelier\">\n  <div class=\"container\">\n    <div class=\"head-row\"><div class=\"reveal\"><p class=\"eyebrow\">The atelier</p><h2 class=\"h2 big\">Local roots. <span class=\"it\">Global standards.</span></h2></div><p class=\"lead reveal\" style=\"transition-delay:120ms\">We are a Marrakech atelier for travelers who would rather not be handled. Every journey is designed, held and run by people who live here — so the country opens the right doors, at the right hour.</p></div>\n    <div class=\"mt-14\"><div class=\"grid g-3 xl3\"><article class=\"vcard lift reveal\" style=\"transition-delay:0ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"8\" cy=\"15\" r=\"4\"/><path d=\"m11 12 9-9M16 7l3 3M18 5l2 2\"/></svg></span><h3>Private by default</h3><p>No groups. No flags. A driver who knows your name, a guide who knows when to disappear, and a pace that belongs only to you.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:80ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 21V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16M3 21h18\"/><path d=\"M9 3c0 3 0 6 3 6s3-3 3-6\"/><circle cx=\"15\" cy=\"13\" r=\".6\"/></svg></span><h3>Doors that stay closed</h3><p>After-hours palaces, artisan ateliers, and tables that are not listed. Access is the quiet luxury most itineraries cannot buy.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:160ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 21h18M5 21V10l7-6 7 6v11\"/><path d=\"M10 21v-5a2 2 0 0 1 4 0v5M8 12h.01M16 12h.01\"/></svg></span><h3>Stays with a sense of place</h3><p>Royal Mansour, La Mamounia, Dar Ahlam, and the Sahara camps we actually sleep-test. Character first. Service always.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:240ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"m15.5 8.5-2 5-5 2 2-5z\"/></svg></span><h3>A Marrakech atelier, not a call center</h3><p>Your journey is designed and run by people who live here. When something shifts, we are already in the medina — not in another time zone.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:320ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 7v5l3 2\"/></svg></span><h3>American hours, Moroccan ground</h3><p>Planning calls on Eastern and Pacific time. Clear USD pricing. Direct-flight logic from JFK, EWR, IAD, BOS, MIA, and the West Coast.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:400ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M6 16V11a6 6 0 0 1 12 0v5l1.5 2h-15z\"/><path d=\"M10 20a2 2 0 0 0 4 0M12 3v2\"/></svg></span><h3>Concierge that never clocks out</h3><p>A single WhatsApp thread from first sketch to last transfer. Last-minute table, earlier balloon, a doctor at 2 a.m. — handled.</p></article></div></div>\n    <div class=\"mt-24\">\n      <div class=\"reveal\"><p class=\"eyebrow\">How a journey begins</p><h3 class=\"h3\">Four movements. <span class=\"it\">Then you arrive.</span></h3></div>\n      <div class=\"mt-14\"><ol class=\"steps\"><li class=\"step reveal\" style=\"transition-delay:0ms\"><span class=\"n\">01</span><h3>A conversation, not a form.</h3><p>We start with how you travel — not a checkbox of cities. Pace, privacy, who is in the car, what you refuse to miss.</p></li><li class=\"step reveal\" style=\"transition-delay:90ms\"><span class=\"n\">02</span><h3>A private itinerary.</h3><p>Within days, a designed journey: stays held, routes timed for light, reservations that are actually honored.</p></li><li class=\"step reveal\" style=\"transition-delay:180ms\"><span class=\"n\">03</span><h3>Refinement until it feels inevitable.</h3><p>You push back. We adjust. The draft becomes a document you stop editing because it already sounds like you.</p></li><li class=\"step reveal\" style=\"transition-delay:270ms\"><span class=\"n\">04</span><h3>You simply arrive.</h3><p>Meet-and-greet, the right SIM, the right car. From that moment the country is handled. You are free to be in it.</p></li></ol></div>\n    </div>\n  </div>\n</section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ink\" id=\"journeys\">\n  <div class=\"container\">\n    <div class=\"head-row\"><div class=\"reveal\"><p class=\"eyebrow\">Signature journeys</p><h2 class=\"h2 big\">Designed around you.<span class=\"it block\">Never around a bus.</span></h2></div><p class=\"lead reveal\" style=\"transition-delay:120ms\">Three starting compositions from our collection. Every one is rewritten — stays, pacing, the hour you see the dunes — until it feels inevitable.</p></div>\n    <div class=\"cols c-5-7 mt-14 items-start\">\n      <div class=\"jsel reveal-left\" role=\"tablist\" aria-label=\"Signature journeys\"><!--wam:journey-tabs--></div>\n      <!--wam:journey-detail-->\n    </div>\n    <div class=\"mt-24\">\n      <div class=\"head-row\"><div class=\"reveal\"><p class=\"eyebrow\">The country, edited</p><h3 class=\"h3\">Destinations <span class=\"it\">we return to.</span></h3></div><p class=\"lead reveal\"><a class=\"link\" href=\"/destinations\">All destinations <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></a></p></div>\n      <div class=\"grid g-3 mt-14\"><!--wam:destination-dcards--></div>\n    </div>\n  </div>\n</section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ink\" id=\"builder-sec\" style=\"padding-top:0\">\n  <div class=\"container\">\n    <div class=\"head-row\"><div class=\"reveal\"><p class=\"eyebrow\">Customize your own stay</p><h2 class=\"h2 big\">Tell us how you like to travel.<span class=\"it block\">We build the country around it.</span></h2></div><p class=\"lead reveal\" style=\"transition-delay:120ms\">Six short questions, sent to your producer in Marrakech. The brief becomes the spine of your itinerary — pace, mood, doors you want opened, doors you want closed.</p></div>\n    <div class=\"mt-14\"><div class=\"builder reveal\" id=\"builder\">\n  <div class=\"b-head\"><span class=\"b-count\" id=\"b-count\">Step 01 / 06</span><div class=\"b-prog\" aria-hidden=\"true\"><i></i><i></i><i></i><i></i><i></i><i></i></div><span class=\"kicker\" style=\"color:var(--stone)\">Sent to a producer in Marrakech</span></div>\n  <div class=\"b-body\">\n    <div class=\"b-main\"><div class=\"b-step\"><span class=\"kicker\">The first question</span><h3 style=\"margin-top:.75rem\">What pace feels right?</h3><p>How fast do you want the country to move?</p><div class=\"b-opts\"><label class=\"b-opt\"><input type=\"radio\" name=\"pace\" value=\"Slow\"><span><b>Slow</b><small>One place, one mood, one morning after another.</small></span></label><label class=\"b-opt\"><input type=\"radio\" name=\"pace\" value=\"Balanced\" checked><span><b>Balanced</b><small>A handful of cities, intentionally timed.</small></span></label><label class=\"b-opt\"><input type=\"radio\" name=\"pace\" value=\"Ambitious\"><span><b>Ambitious</b><small>North to south, with private days in between.</small></span></label></div></div><div class=\"b-step\" hidden><span class=\"kicker\">The mood</span><h3 style=\"margin-top:.75rem\">What should Morocco feel like?</h3><p>Pick one. We will weave the rest in quietly.</p><div class=\"b-opts two\"><label class=\"b-opt\"><input type=\"radio\" name=\"mood\" value=\"Private\" checked><span><b>Private</b><small>Hidden doors, after-hours, just us.</small></span></label><label class=\"b-opt\"><input type=\"radio\" name=\"mood\" value=\"Cultural\"><span><b>Cultural</b><small>Artisans, medinas, stories in the walls.</small></span></label><label class=\"b-opt\"><input type=\"radio\" name=\"mood\" value=\"Gastronomy\"><span><b>Gastronomy</b><small>Markets, tables, the chef in the kitchen.</small></span></label><label class=\"b-opt\"><input type=\"radio\" name=\"mood\" value=\"Wellness\"><span><b>Wellness</b><small>Hammam, spa, slower mornings.</small></span></label><label class=\"b-opt\"><input type=\"radio\" name=\"mood\" value=\"Family\"><span><b>Family</b><small>For the children — without the theme park.</small></span></label><label class=\"b-opt\"><input type=\"radio\" name=\"mood\" value=\"Celebration\"><span><b>Celebration</b><small>Anniversary, milestone, a moment.</small></span></label></div></div><div class=\"b-step\" hidden><span class=\"kicker\">The travelers</span><h3 style=\"margin-top:.75rem\">Who is in the car?</h3><p>And for how long?</p><p class=\"kicker\" style=\"margin-top:1.5rem\">Party size</p><div class=\"chips\"><label class=\"chip\"><input type=\"radio\" name=\"party\" value=\"Just two\"><span>Just two</span></label><label class=\"chip\"><input type=\"radio\" name=\"party\" value=\"Three — five\" checked><span>Three — five</span></label><label class=\"chip\"><input type=\"radio\" name=\"party\" value=\"Six — ten\"><span>Six — ten</span></label><label class=\"chip\"><input type=\"radio\" name=\"party\" value=\"Ten or more\"><span>Ten or more</span></label></div><p class=\"kicker\" style=\"margin-top:1.75rem\">Trip length</p><div class=\"chips\"><label class=\"chip\"><input type=\"radio\" name=\"length\" value=\"5 — 6 nights\"><span>5 — 6 nights</span></label><label class=\"chip\"><input type=\"radio\" name=\"length\" value=\"7 — 9 nights\" checked><span>7 — 9 nights</span></label><label class=\"chip\"><input type=\"radio\" name=\"length\" value=\"10 — 12 nights\"><span>10 — 12 nights</span></label><label class=\"chip\"><input type=\"radio\" name=\"length\" value=\"Two weeks or longer\"><span>Two weeks or longer</span></label></div></div><div class=\"b-step\" hidden><span class=\"kicker\">The country</span><h3 style=\"margin-top:.75rem\">What matters most?</h3><p>Pick as many as you like.</p><div class=\"chips\"><label class=\"chip\"><input type=\"checkbox\" name=\"prio\" value=\"The desert\" checked><span>The desert</span></label><label class=\"chip\"><input type=\"checkbox\" name=\"prio\" value=\"A palace or a famous riad\"><span>A palace or a famous riad</span></label><label class=\"chip\"><input type=\"checkbox\" name=\"prio\" value=\"Blue Chefchaouen\"><span>Blue Chefchaouen</span></label><label class=\"chip\"><input type=\"checkbox\" name=\"prio\" value=\"Coastal Essaouira\"><span>Coastal Essaouira</span></label><label class=\"chip\"><input type=\"checkbox\" name=\"prio\" value=\"Fès &amp; the medina\" checked><span>Fès & the medina</span></label><label class=\"chip\"><input type=\"checkbox\" name=\"prio\" value=\"Atlas mountains\"><span>Atlas mountains</span></label><label class=\"chip\"><input type=\"checkbox\" name=\"prio\" value=\"Markets and food\"><span>Markets and food</span></label><label class=\"chip\"><input type=\"checkbox\" name=\"prio\" value=\"Spa and stillness\"><span>Spa and stillness</span></label></div><p class=\"kicker\" style=\"margin-top:1.75rem\">Lead destination</p><div class=\"chips\"><label class=\"chip\"><input type=\"radio\" name=\"lead\" value=\"Marrakech\" checked><span>Marrakech</span></label><label class=\"chip\"><input type=\"radio\" name=\"lead\" value=\"Sahara\"><span>Sahara</span></label><label class=\"chip\"><input type=\"radio\" name=\"lead\" value=\"Chefchaouen\"><span>Chefchaouen</span></label><label class=\"chip\"><input type=\"radio\" name=\"lead\" value=\"Aït Benhaddou\"><span>Aït Benhaddou</span></label><label class=\"chip\"><input type=\"radio\" name=\"lead\" value=\"Essaouira\"><span>Essaouira</span></label><label class=\"chip\"><input type=\"radio\" name=\"lead\" value=\"Fès\"><span>Fès</span></label></div></div><div class=\"b-step\" hidden><span class=\"kicker\">The houses</span><h3 style=\"margin-top:.75rem\">How should your rooms feel?</h3><p>Houses we know well — the ones we send people we love.</p><div class=\"b-opts\"><label class=\"b-opt\"><input type=\"radio\" name=\"stays\" value=\"Royal Mansour · La Mamounia\" checked><span><b>Royal Mansour · La Mamounia</b></span></label><label class=\"b-opt\"><input type=\"radio\" name=\"stays\" value=\"Oberoi · Mandarin Oriental\"><span><b>Oberoi · Mandarin Oriental</b></span></label><label class=\"b-opt\"><input type=\"radio\" name=\"stays\" value=\"Dar Ahlam · intimate kasbahs\"><span><b>Dar Ahlam · intimate kasbahs</b></span></label><label class=\"b-opt\"><input type=\"radio\" name=\"stays\" value=\"Boutique riads with character\"><span><b>Boutique riads with character</b></span></label><label class=\"b-opt\"><input type=\"radio\" name=\"stays\" value=\"I do not yet know — surprise me\"><span><b>I do not yet know — surprise me</b></span></label></div></div><div class=\"b-step\" hidden><span class=\"kicker\">The last question</span><h3 style=\"margin-top:.75rem\">Anything we should avoid?</h3><p>Crowded souks, long drives, certain foods, a stop that bored you in another life. We will keep it out of the plan.</p><label class=\"lbl\" style=\"display:block;margin-top:1.5rem\">Keep it out<textarea class=\"field\" id=\"b-avoid\" rows=\"4\" placeholder=\"Long drives, certain cuisines, places you have already seen…\"></textarea></label><p class=\"small\" style=\"margin-top:.75rem;color:var(--stone)\">Pressing “Send to the atelier” opens your private message window with this brief attached.</p></div>\n      <div class=\"b-nav\"><button type=\"button\" class=\"btn btn-outline-dk\" id=\"b-back\">Back</button><button type=\"button\" class=\"btn btn-gold\" id=\"b-next\"><span>Continue</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button></div>\n    </div>\n    <aside class=\"b-aside\"><div class=\"draft\"><h4>Your draft</h4><dl id=\"b-draft\"></dl><p class=\"small\" style=\"margin-top:1rem;color:var(--stone)\">This is sent as a written brief — not a marketing form. A producer reads it, then writes back.</p></div></aside>\n  </div>\n</div></div>\n  </div>\n</section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ivory\" id=\"stays\">\n  <div class=\"container\">\n    <div class=\"cols c-1-1 items-center\">\n      <div class=\"feature reveal-left\"><span class=\"ring\" aria-hidden=\"true\"></span><div class=\"frame img-zoom\"><img src=\"https://images.pexels.com/photos/50630/pexels-photo-50630.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"A guest looking out over Marrakech at dusk from a private terrace\" loading=\"lazy\" decoding=\"async\"></div><div class=\"badge\"><b>EST / PST</b><span>Planning calls on American hours. Execution on Moroccan ground.</span></div></div>\n      <div>\n        <div class=\"reveal\"><p class=\"eyebrow\">Why travelers from the States stay with us</p><h2 class=\"h2 big\">The country is generous. <span class=\"it\">The editing is the work.</span></h2></div>\n        <ol class=\"nlist\"><li class=\"reveal\" style=\"transition-delay:0ms\"><span class=\"n\">01</span><div><h3>Local roots. Global standards.</h3><p>Fifty years of combined work on this ground. The same precision you expect from a New York or London atelier — without the filter of a foreign operator.</p></div></li><li class=\"reveal\" style=\"transition-delay:80ms\"><span class=\"n\">02</span><div><h3>Priced in dollars. Spoken in plain English.</h3><p>No surprise dirhams at the end. Transparent proposals, itemized if you want them, and a producer who answers on your clock.</p></div></li><li class=\"reveal\" style=\"transition-delay:160ms\"><span class=\"n\">03</span><div><h3>Safety without the briefing.</h3><p>Vetted drivers, tracked vehicles, a private medical network, and a team that knows which alleys to take after midnight.</p></div></li><li class=\"reveal\" style=\"transition-delay:240ms\"><span class=\"n\">04</span><div><h3>Relationships, not affiliations.</h3><p>We hold rooms and tables because we use them. Royal Mansour, Oberoi, La Mamounia, Dar Ahlam, and the camps we will not name in a brochure.</p></div></li></ol>\n      </div>\n    </div>\n    <div class=\"mt-24\">\n      <div class=\"reveal\"><p class=\"eyebrow\">Handpicked stays</p><h3 class=\"h3\">Houses we send <span class=\"it\">people we love.</span></h3></div>\n      <div class=\"grid g-2 mt-14\" style=\"grid-template-columns:minmax(0,1fr)\"><article class=\"scard lift reveal\" style=\"transition-delay:0ms\"><div class=\"pic img-zoom\"><img src=\"https://images.pexels.com/photos/7391720/pexels-photo-7391720.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Riad lounge with carved plaster and lantern light\" loading=\"lazy\" decoding=\"async\"></div><div class=\"txt\"><span class=\"kicker\">Marrakech</span><h3>Royal Mansour Marrakech</h3><p>A city of private riads inside the walls — commissioned for heads of state, now yours for a week.</p></div></article><article class=\"scard lift reveal\" style=\"transition-delay:80ms\"><div class=\"pic img-zoom\"><img src=\"https://images.pexels.com/photos/27945049/pexels-photo-27945049.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Palace courtyard with fountain and arches\" loading=\"lazy\" decoding=\"async\"></div><div class=\"txt\"><span class=\"kicker\">Marrakech</span><h3>La Mamounia</h3><p>The legendary palace garden. Churchill painted here. You will understand why by the second breakfast.</p></div></article><article class=\"scard lift reveal\" style=\"transition-delay:160ms\"><div class=\"pic img-zoom\"><img src=\"https://images.pexels.com/photos/37441764/pexels-photo-37441764.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Palm oasis and kasbah walls\" loading=\"lazy\" decoding=\"async\"></div><div class=\"txt\"><span class=\"kicker\">Skoura</span><h3>Dar Ahlam</h3><p>A kasbah with no menu and no itinerary. They invent the day around you.</p></div></article><article class=\"scard lift reveal\" style=\"transition-delay:240ms\"><div class=\"pic img-zoom\"><img src=\"https://images.pexels.com/photos/10434667/pexels-photo-10434667.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800\" alt=\"Private desert camp in the Sahara\" loading=\"lazy\" decoding=\"async\"></div><div class=\"txt\"><span class=\"kicker\">Sahara</span><h3>Merzouga private camps</h3><p>Canvas, brass, and a bed that faces the erg. Luxury that knows when to stay quiet.</p></div></article></div>\n    </div>\n  </div>\n</section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ink\" id=\"stories\">\n  <span class=\"orb orb-soft\" aria-hidden=\"true\"></span>\n  <div class=\"container\">\n    <div class=\"reveal\"><p class=\"eyebrow\">Guest letters</p><h2 class=\"h2 big\">What they write <span class=\"it\">when they get home.</span></h2></div>\n    <div class=\"mt-14\"><div class=\"story\">\n      <div class=\"portrait img-zoom reveal-left\"><img src=\"https://images.pexels.com/photos/8556576/pexels-photo-8556576.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=600\" alt=\"Claire M.\" loading=\"lazy\" decoding=\"async\"><div class=\"cap\"><b id=\"s-name\">Claire M.</b><span id=\"s-role\">Collector & traveler · New York, NY</span></div></div>\n      <div class=\"reveal-right\"><blockquote class=\"quote\" id=\"s-quote\">“I have done Aman, Singita, and a very serious Bhutan. Morocco with this team is the first time a country felt privately edited. We never waited. We never felt handled. We just… arrived at the right hour.”</blockquote>\n        <div class=\"story-meta\"><span class=\"kicker\" id=\"s-trip\">Imperial & Sahara · 10 nights</span><div class=\"tabdots\"><button type=\"button\" aria-label=\"Story 1: Claire M.\" aria-pressed=\"true\"></button><button type=\"button\" aria-label=\"Story 2: David &amp; Priya R.\" aria-pressed=\"false\"></button><button type=\"button\" aria-label=\"Story 3: Elena V.\" aria-pressed=\"false\"></button><button type=\"button\" aria-label=\"Story 4: Marcus Hale\" aria-pressed=\"false\"></button></div></div></div>\n    </div></div>\n  </div>\n</section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-parch\" id=\"plans\">\n  <div class=\"container\">\n    <div class=\"center narrow-2 reveal\" style=\"margin-inline:auto\"><p class=\"eyebrow\">Investment</p><h2 class=\"h2 big\">Clear numbers. <span class=\"it\">No theater.</span></h2><p class=\"lead\">Priced in USD, per person, double occupancy. International flights sit outside. Extraordinary requests are quoted as themselves.</p></div>\n    <div class=\"plans mt-14\"><article class=\"plan lift reveal\" style=\"transition-delay:0ms\"><span class=\"kicker\">The elegant introduction</span><h3>Imperial Morocco</h3>\n<p class=\"price\"><small style=\"margin:0 .25rem 0 0\">from</small>$<span class=\"ph\" title=\"Placeholder: confirm price per person\">[5,400]</span></p><p class=\"route\">8 days / 7 nights · per person, double occupancy</p>\n<ul class=\"dots\"><li>Private Guardian Guide throughout</li><li>Premium Mercedes-Benz V-Class</li><li>Two days in the Fès medina</li><li>Daily breakfast</li><li>A flexible Marrakech day, your way</li><li>WhatsApp concierge throughout</li></ul><button type=\"button\" class=\"btn btn-outline \" data-inquiry=\"imperial-morocco\"><span>Start with Imperial Morocco</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button></article><article class=\"plan feat reveal\" style=\"transition-delay:90ms\"><span class=\"pill\">Most requested</span><span class=\"kicker\">Our most requested</span><h3>The Grand Morocco</h3>\n<p class=\"price\"><small style=\"margin:0 .25rem 0 0\">from</small>$<span class=\"ph\" title=\"Placeholder: confirm price per person\">[8,900]</span></p><p class=\"route\">12 days / 11 nights · per person, double occupancy</p>\n<ul class=\"dots\"><li>Everything in Imperial, expanded</li><li>Volubilis winery lunch & tasting</li><li>Luxury 4x4 to a private Sahara camp</li><li>Full board in the desert and Skoura</li><li>Fossil heritage with a specialist</li><li>Dedicated journey producer</li></ul><button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"grand-morocco\"><span>Start with The Grand Morocco</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button></article><article class=\"plan lift reveal\" style=\"transition-delay:180ms\"><span class=\"kicker\">Culture & mountains</span><h3>Magical Morocco</h3>\n<p class=\"price\"><small style=\"margin:0 .25rem 0 0\">from</small>$<span class=\"ph\" title=\"Placeholder: confirm price per person\">[7,200]</span></p><p class=\"route\">11 days / 10 nights · per person, double occupancy</p>\n<ul class=\"dots\"><li>Private Guardian Guide throughout</li><li>Three unhurried Marrakech days</li><li>Glamping night in Agafay</li><li>A High Atlas mountain retreat</li><li>Hassan II Mosque visit & lunch</li><li>WhatsApp concierge throughout</li></ul><button type=\"button\" class=\"btn btn-outline \" data-inquiry=\"magical-morocco\"><span>Start with Magical Morocco</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button></article></div>\n    <p class=\"fine\">Weddings, retreats, and advisor-led groups are designed separately. Families and solo travelers are quoted as themselves — not squeezed into a per-person grid. <a href=\"/itineraries\">See every journey</a></p>\n  </div>\n</section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ivory\" id=\"faq\">\n  <div class=\"container cols c-4-8 items-start\">\n    <div class=\"reveal\"><p class=\"eyebrow\">Questions, answered</p><h2 class=\"h2 big\">What American travelers <span class=\"it\">usually ask first.</span></h2><p class=\"lead\">If it is not here, <a class=\"link\" href=\"/faq\">read every answer <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></a></p></div>\n    <div class=\"faq-list\"><!--wam:faqs group=\"home\" open=\"1\"--></div>\n  </div>\n</section>"
+   },
+   {
+    "type": "cta",
+    "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Golden Sahara dunes at sunset in Merzouga",
+    "label": "The next step is a conversation",
+    "title": "Tell us how you travel. <span class=\"it block\">We will draw the country around it.</span>",
+    "lead": "A producer in Marrakech reads every note and replies within one business day — with a first sketch, not a brochure.",
+    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+   },
+   {
+    "type": "script",
+    "name": "journeys"
+   },
+   {
+    "type": "script",
+    "name": "stories",
+    "placement": "guests"
+   }
+  ],
+  "slug": "home",
+  "title": "Home",
+  "template": "home",
+  "sort_order": 1
+ },
+ {
+  "meta_title": "The Atelier | We Are Morocco",
+  "meta_description": "A Marrakech atelier for private journeys and events: who we are, how we work and the team on the ground.",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_variant": null,
+  "hero_image": "https://images.pexels.com/photos/27945049/pexels-photo-27945049.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "hero_image_alt": "Palace courtyard with fountain and arches",
+  "hero_crumb": "The Atelier",
+  "hero_crumbs": [
+   {
+    "label": "Home",
+    "url": "/"
+   },
+   {
+    "label": "The Atelier",
+    "url": null
+   }
+  ],
+  "hero_eyebrow": "About the atelier",
+  "hero_title": "We are <span class=\"it\">Morocco.</span>",
+  "hero_subtitle": "A destination atelier born and based in Marrakech, with partners in every region of the country and fifty years of combined work on this ground.",
+  "hero_extra": null,
+  "sections": [
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-parch\">\n  <div class=\"container cols c-1-1 items-center\">\n    <div class=\"feature reveal-left\"><span class=\"ring\" aria-hidden=\"true\"></span><div class=\"frame img-zoom\"><img src=\"https://images.pexels.com/photos/50630/pexels-photo-50630.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"A guest looking out over Marrakech at dusk from a private terrace\" loading=\"lazy\" decoding=\"async\"></div><div class=\"badge\"><b>Since [year]</b><span>Showing Morocco the way locals know it.</span></div></div>\n    <div class=\"reveal-right\"><p class=\"eyebrow\">Our story</p><h2 class=\"h2 big\">Founded by a local. <span class=\"it\">Run by people who live here.</span></h2>\n      <p class=\"lead\">We Are Morocco was founded in <span class=\"ph\" title=\"Placeholder: year\">[year]</span> by <span class=\"ph\" title=\"Placeholder: founder\">[founder name]</span>, who grew up in <span class=\"ph\" title=\"Placeholder: city\">[city]</span> and spent years in hospitality before deciding to show Morocco the way locals know it.</p>\n      <p class=\"lead\">Today our producers, guides and coordinators work from our atelier in Marrakech — so when something shifts, we are already in the medina, not in another time zone.</p>\n      <div class=\"ctas\"><button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Begin a conversation</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-outline\" href=\"/why-us\">Why travelers choose us</a></div></div>\n  </div>\n</section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ink center\">\n  <span class=\"orb orb-soft\" aria-hidden=\"true\"></span>\n  <div class=\"container narrow reveal\"><p class=\"eyebrow\">Our mission</p><h2 class=\"h2 big\" style=\"margin-top:1.25rem\">Effortless for our guests. <span class=\"it block\">Unforgettable for everyone they bring.</span></h2>\n    <p class=\"lead\">To make every journey, event and gathering in Morocco feel privately edited — quiet logistics, the right doors opened, and nothing that feels like a production.</p></div>\n</section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ivory\">\n  <div class=\"container\"><div class=\"head-row\"><div class=\"reveal\"><p class=\"eyebrow\">The team</p><h2 class=\"h2 big\">The people <span class=\"it\">on the ground.</span></h2></div><p class=\"lead reveal\" style=\"transition-delay:120ms\">Producers, guides and designers who answer on your clock. Photos and names are added in the admin.</p></div>\n    <div class=\"grid g-4 mt-14\"><article class=\"member reveal\" style=\"transition-delay:0ms\"><div class=\"ph-face\"><span class=\"display\" style=\"font-size:3.5rem;color:var(--gold-light);font-weight:300\">A</span></div>\n<h3>[Name]</h3><p class=\"kicker role\">Founder</p><p>“[Personal line, for example the city they grew up in]”</p></article><article class=\"member reveal\" style=\"transition-delay:80ms\"><div class=\"ph-face\"><span class=\"display\" style=\"font-size:3.5rem;color:var(--gold-light);font-weight:300\">B</span></div>\n<h3>[Name]</h3><p class=\"kicker role\">Head of events</p><p>“[Personal line]”</p></article><article class=\"member reveal\" style=\"transition-delay:160ms\"><div class=\"ph-face\"><span class=\"display\" style=\"font-size:3.5rem;color:var(--gold-light);font-weight:300\">C</span></div>\n<h3>[Name]</h3><p class=\"kicker role\">Journey producer</p><p>“Knows every back road between Marrakech and Merzouga.”</p></article><article class=\"member reveal\" style=\"transition-delay:240ms\"><div class=\"ph-face\"><span class=\"display\" style=\"font-size:3.5rem;color:var(--gold-light);font-weight:300\">D</span></div>\n<h3>[Name]</h3><p class=\"kicker role\">Travel designer</p><p>“[Personal line]”</p></article></div></div>\n</section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-parch\">\n  <div class=\"container\"><div class=\"head-row\"><div class=\"reveal\"><p class=\"eyebrow\">Credentials</p><h2 class=\"h2 big\">Licensed, insured <span class=\"it\">and accountable.</span></h2></div></div>\n    <div class=\"mt-14\"><div class=\"grid g-3\"><article class=\"vcard lift reveal\" style=\"transition-delay:0ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 3 4 6v6c0 4.5 3.4 8.3 8 9 4.6-.7 8-4.5 8-9V6z\"/><path d=\"m9 12 2 2 4-4\"/></svg></span><h3>Ministry of Tourism licence</h3><p>Licence number <span class=\"ph\" title=\"Placeholder: licence\">[ ]</span>.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:80ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m5 12 4 4 10-10\"/></svg></span><h3>Insurance and safety</h3><p>Full liability insurance, vetted drivers, tracked vehicles and a private medical network.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:160ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18\"/></svg></span><h3>Memberships</h3><p>Industry memberships, for example Virtuoso or ADMEI, once confirmed.</p></article></div></div>\n    <div class=\"logos\"><span>Membership logo</span><span>Membership logo</span><span>Membership logo</span><span>Licence badge</span></div></div>\n</section>"
+   },
+   {
+    "type": "cta",
+    "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Golden Sahara dunes at sunset in Merzouga",
+    "label": "Meet the atelier",
+    "title": "Want to meet the team? <span class=\"it block\">Start with a conversation.</span>",
+    "lead": "Tell us what you are planning and the right producer will reply within one business day.",
+    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+   }
+  ],
+  "slug": "about",
+  "title": "The Atelier",
+  "template": "default",
+  "sort_order": 2
+ },
+ {
+  "meta_title": "Why We Are Morocco | Private journeys & events",
+  "meta_description": "Six reasons travelers and planners stay with a Marrakech atelier: private by default, local team, American hours, concierge that never clocks out.",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_variant": "short",
+  "hero_image": "https://images.pexels.com/photos/7391720/pexels-photo-7391720.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "hero_image_alt": "Riad lounge with carved plaster and lantern light",
+  "hero_crumb": "Why us",
+  "hero_crumbs": [
+   {
+    "label": "Home",
+    "url": "/"
+   },
+   {
+    "label": "The Atelier",
+    "url": "/about"
+   },
+   {
+    "label": "Why us",
+    "url": null
+   }
+  ],
+  "hero_eyebrow": "Why choose us",
+  "hero_title": "Six reasons travelers <span class=\"it block\">stay with us.</span>",
+  "hero_subtitle": "One atelier that knows the venue manager by name and has a backup plan before you need one.",
+  "hero_extra": null,
+  "sections": [
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-parch\"><div class=\"container\"><div class=\"head-row\"><div class=\"reveal\"><p class=\"eyebrow\">The atelier</p><h2 class=\"h2 big\">Local roots. <span class=\"it\">Global standards.</span></h2></div><p class=\"lead reveal\" style=\"transition-delay:120ms\">What changes when your journey is run by people who live here.</p></div><div class=\"mt-14\"><div class=\"grid g-3\"><article class=\"vcard lift reveal\" style=\"transition-delay:0ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"8\" cy=\"15\" r=\"4\"/><path d=\"m11 12 9-9M16 7l3 3M18 5l2 2\"/></svg></span><h3>Private by default</h3><p>No groups. No flags. A driver who knows your name, a guide who knows when to disappear, and a pace that belongs only to you.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:80ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 21V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16M3 21h18\"/><path d=\"M9 3c0 3 0 6 3 6s3-3 3-6\"/><circle cx=\"15\" cy=\"13\" r=\".6\"/></svg></span><h3>Doors that stay closed</h3><p>After-hours palaces, artisan ateliers, and tables that are not listed. Access is the quiet luxury most itineraries cannot buy.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:160ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 21h18M5 21V10l7-6 7 6v11\"/><path d=\"M10 21v-5a2 2 0 0 1 4 0v5M8 12h.01M16 12h.01\"/></svg></span><h3>Stays with a sense of place</h3><p>Royal Mansour, La Mamounia, Dar Ahlam, and the Sahara camps we actually sleep-test. Character first. Service always.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:240ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"m15.5 8.5-2 5-5 2 2-5z\"/></svg></span><h3>A Marrakech atelier, not a call center</h3><p>Your journey is designed and run by people who live here. When something shifts, we are already in the medina — not in another time zone.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:320ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 7v5l3 2\"/></svg></span><h3>American hours, Moroccan ground</h3><p>Planning calls on Eastern and Pacific time. Clear USD pricing. Direct-flight logic from JFK, EWR, IAD, BOS, MIA, and the West Coast.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:400ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M6 16V11a6 6 0 0 1 12 0v5l1.5 2h-15z\"/><path d=\"M10 20a2 2 0 0 0 4 0M12 3v2\"/></svg></span><h3>Concierge that never clocks out</h3><p>A single WhatsApp thread from first sketch to last transfer. Last-minute table, earlier balloon, a doctor at 2 a.m. — handled.</p></article></div></div></div></section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ivory\"><div class=\"container\"><div class=\"reveal\"><p class=\"eyebrow\">How a journey begins</p><h2 class=\"h2 big\">Four movements. <span class=\"it\">Then you arrive.</span></h2></div><div class=\"mt-14\"><ol class=\"steps\"><li class=\"step reveal\" style=\"transition-delay:0ms\"><span class=\"n\">01</span><h3>A conversation, not a form.</h3><p>We start with how you travel — not a checkbox of cities. Pace, privacy, who is in the car, what you refuse to miss.</p></li><li class=\"step reveal\" style=\"transition-delay:90ms\"><span class=\"n\">02</span><h3>A private itinerary.</h3><p>Within days, a designed journey: stays held, routes timed for light, reservations that are actually honored.</p></li><li class=\"step reveal\" style=\"transition-delay:180ms\"><span class=\"n\">03</span><h3>Refinement until it feels inevitable.</h3><p>You push back. We adjust. The draft becomes a document you stop editing because it already sounds like you.</p></li><li class=\"step reveal\" style=\"transition-delay:270ms\"><span class=\"n\">04</span><h3>You simply arrive.</h3><p>Meet-and-greet, the right SIM, the right car. From that moment the country is handled. You are free to be in it.</p></li></ol></div></div></section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ink\"><span class=\"orb orb-soft\" aria-hidden=\"true\"></span><div class=\"container\"><div class=\"reveal\"><p class=\"eyebrow\">Guest letters</p><h2 class=\"h2 big\">What they write <span class=\"it\">when they get home.</span></h2></div><div class=\"mt-14\"><div class=\"story\">\n      <div class=\"portrait img-zoom reveal-left\"><img src=\"https://images.pexels.com/photos/8556576/pexels-photo-8556576.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=600\" alt=\"Claire M.\" loading=\"lazy\" decoding=\"async\"><div class=\"cap\"><b id=\"s-name\">Claire M.</b><span id=\"s-role\">Collector & traveler · New York, NY</span></div></div>\n      <div class=\"reveal-right\"><blockquote class=\"quote\" id=\"s-quote\">“I have done Aman, Singita, and a very serious Bhutan. Morocco with this team is the first time a country felt privately edited. We never waited. We never felt handled. We just… arrived at the right hour.”</blockquote>\n        <div class=\"story-meta\"><span class=\"kicker\" id=\"s-trip\">Imperial & Sahara · 10 nights</span><div class=\"tabdots\"><button type=\"button\" aria-label=\"Story 1: Claire M.\" aria-pressed=\"true\"></button><button type=\"button\" aria-label=\"Story 2: David &amp; Priya R.\" aria-pressed=\"false\"></button><button type=\"button\" aria-label=\"Story 3: Elena V.\" aria-pressed=\"false\"></button><button type=\"button\" aria-label=\"Story 4: Marcus Hale\" aria-pressed=\"false\"></button></div></div></div>\n    </div></div></div></section>"
+   },
+   {
+    "type": "cta",
+    "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Golden Sahara dunes at sunset in Merzouga",
+    "label": "Ask for a sketch",
+    "title": "See how we would run it. <span class=\"it block\">Ask for a first sketch.</span>",
+    "lead": "Itemised and tailored, within days. No obligation.",
+    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+   },
+   {
+    "type": "script",
+    "name": "stories",
+    "placement": "guests"
+   }
+  ],
+  "slug": "why-us",
+  "title": "Why us",
+  "template": "default",
+  "sort_order": 3
+ },
+ {
+  "meta_title": "Sustainability | We Are Morocco",
+  "meta_description": "Responsible travel in Morocco: family-run riads, cooperatives, community guides, less plastic and lower-carbon transport.",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_variant": null,
+  "hero_image": "https://images.pexels.com/photos/37441764/pexels-photo-37441764.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "hero_image_alt": "Palm oasis and kasbah walls",
+  "hero_crumb": "Sustainability",
+  "hero_crumbs": [
+   {
+    "label": "Home",
+    "url": "/"
+   },
+   {
+    "label": "The Atelier",
+    "url": "/about"
+   },
+   {
+    "label": "Sustainability",
+    "url": null
+   }
+  ],
+  "hero_eyebrow": "Sustainability & responsible travel",
+  "hero_title": "Travel that <span class=\"it\">gives back to Morocco.</span>",
+  "hero_subtitle": "More of your budget stays in the places you visit.",
+  "hero_extra": null,
+  "sections": [
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-parch\"><div class=\"container cols c-1-1 items-center\">\n  <div class=\"feature reveal-left\"><span class=\"ring\" aria-hidden=\"true\"></span><div class=\"frame img-zoom\"><img src=\"https://images.pexels.com/photos/37684084/pexels-photo-37684084.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800\" alt=\"The earthen kasbah of Aït Benhaddou\" loading=\"lazy\" decoding=\"async\"></div><div class=\"badge\"><b>Local first</b><span>Family-run riads, cooperatives and community guides.</span></div></div>\n  <div class=\"reveal-right\"><p class=\"eyebrow\">Our approach</p><h2 class=\"h2 big\">Responsible <span class=\"it\">by design.</span></h2><p class=\"lead\">We work with family-run riads, local cooperatives and community guides, so more of your budget stays in the places you visit. We cut single-use plastic on our journeys, offer lower-carbon transport options and help planners add a social impact moment to any itinerary.</p></div>\n</div></section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ivory\"><div class=\"container\"><div class=\"head-row\"><div class=\"reveal\"><p class=\"eyebrow\">Commitments</p><h2 class=\"h2 big\">What we <span class=\"it\">commit to.</span></h2></div></div>\n  <div class=\"mt-14\"><div class=\"grid g-4\"><article class=\"vcard lift reveal\" style=\"transition-delay:0ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 19c0-8 5-14 15-14 0 10-6 15-14 15\"/><path d=\"M5 19 13 11\"/></svg></span><h3>Less plastic</h3><p>Refillable bottles and no single-use plastic on our journeys.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:80ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 16v-4l2-5h14l2 5v4H3z\"/><circle cx=\"7.5\" cy=\"16.5\" r=\"1.5\"/><circle cx=\"16.5\" cy=\"16.5\" r=\"1.5\"/><path d=\"M3 12h18\"/></svg></span><h3>Lower-carbon transport</h3><p>Rail between cities where it works, and efficient vehicles.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:160ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"9\" cy=\"8\" r=\"3.5\"/><path d=\"M2.5 20a6.5 6.5 0 0 1 13 0\"/><path d=\"M16 4.5a3.5 3.5 0 0 1 0 7M21.5 20a6.5 6.5 0 0 0-4-6\"/></svg></span><h3>Local partners</h3><p>Cooperatives we work with: <span class=\"ph\" title=\"Placeholder\">[names]</span>.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:240ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><rect x=\"3\" y=\"8\" width=\"18\" height=\"13\" rx=\"1\"/><path d=\"M3 12h18M12 8v13M12 8S10 3 7.5 4.5 9 8 12 8zM12 8s2-5 4.5-3.5S15 8 12 8z\"/></svg></span><h3>Social impact</h3><p>A community moment can be added to any itinerary.</p></article></div></div>\n  <p class=\"fine\" style=\"text-align:left\">To confirm: partner cooperatives, carbon policy, charity partners and certification (for example Travelife).</p>\n  <div class=\"logos\"><span>Partner logo</span><span>Partner logo</span><span>Certification</span></div></div></section>"
+   },
+   {
+    "type": "cta",
+    "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Golden Sahara dunes at sunset in Merzouga",
+    "label": "Lower impact",
+    "title": "Want a lower-impact journey? <span class=\"it block\">Ask us how.</span>",
+    "lead": "We can build sustainability into your brief from the very first sketch.",
+    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+   }
+  ],
+  "slug": "sustainability",
+  "title": "Sustainability",
+  "template": "default",
+  "sort_order": 4
+ },
+ {
+  "meta_title": "FAQ | We Are Morocco",
+  "meta_description": "Answers to what travelers and planners ask first: when to go, getting there from the US, safety, what is included and how we work.",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_variant": "short",
+  "hero_image": "https://images.pexels.com/photos/50630/pexels-photo-50630.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "hero_image_alt": "A guest looking out over Marrakech at dusk from a private terrace",
+  "hero_crumb": "FAQ",
+  "hero_crumbs": [
+   {
+    "label": "Home",
+    "url": "/"
+   },
+   {
+    "label": "FAQ",
+    "url": null
+   }
+  ],
+  "hero_eyebrow": "Questions, answered",
+  "hero_title": "What travelers <span class=\"it\">usually ask first.</span>",
+  "hero_subtitle": "If it is not here, ask us. The useful answers usually depend on your dates and who is traveling.",
+  "hero_extra": null,
+  "sections": [
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ivory\"><div class=\"container cols c-4-8 items-start\">\n  <aside class=\"sticky reveal\"><span class=\"kicker\">Topics</span><nav class=\"toc\"><a href=\"#planning\">Planning & seasons</a><a href=\"#travel\">Travel & arrival</a><a href=\"#safety\">Safety & practicalities</a><a href=\"#how\">How we work</a></nav>\n    <div class=\"box dark-card\" style=\"background:var(--ink);margin-top:1.5rem\"><h3>Still wondering?</h3><p>A producer answers within one business day.</p><button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Ask a person</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button></div></aside>\n  <div><div class=\"faq-group\" id=\"planning\"><span class=\"kicker\">Planning & seasons</span><div class=\"faq-list\"><!--wam:faqs group=\"planning\"--></div></div><div class=\"faq-group\" id=\"travel\"><span class=\"kicker\">Travel & arrival</span><div class=\"faq-list\"><!--wam:faqs group=\"travel\"--></div></div><div class=\"faq-group\" id=\"safety\"><span class=\"kicker\">Safety & practicalities</span><div class=\"faq-list\"><!--wam:faqs group=\"safety\"--></div></div><div class=\"faq-group\" id=\"how\"><span class=\"kicker\">How we work</span><div class=\"faq-list\"><!--wam:faqs group=\"how\"--></div></div></div>\n</div></section>"
+   },
+   {
+    "type": "cta",
+    "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Golden Sahara dunes at sunset in Merzouga",
+    "label": "Talk to us",
+    "title": "Still have a question? <span class=\"it block\">Ask a person.</span>",
+    "lead": "Our atelier replies within one business day — on your clock.",
+    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+   }
+  ],
+  "slug": "faq",
+  "title": "FAQ",
+  "template": "default",
+  "sort_order": 5
+ },
+ {
+  "meta_title": "Terms and conditions | We Are Morocco",
+  "meta_description": "Terms and conditions for We Are Morocco Travel.",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_variant": "short",
+  "hero_image": "https://images.pexels.com/photos/27945049/pexels-photo-27945049.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "hero_image_alt": "Palace courtyard with fountain and arches",
+  "hero_crumb": "Terms and conditions",
+  "hero_crumbs": [
+   {
+    "label": "Home",
+    "url": "/"
+   },
+   {
+    "label": "Terms and conditions",
+    "url": null
+   }
+  ],
+  "hero_eyebrow": "Legal",
+  "hero_title": "Terms and conditions",
+  "hero_subtitle": "Last updated <span class=\"ph\" title=\"Placeholder: date\">[date]</span>.",
+  "hero_extra": null,
+  "sections": [
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ivory\"><div class=\"container cols c-8-4 items-start\">\n  <article class=\"prose\"><p class=\"note\">Legal text to be supplied and approved by the company’s legal adviser. The headings below show the expected structure.</p>\n  <h2 id=\"s0\">Bookings and proposals</h2><p>[Text to be supplied]</p><h2 id=\"s1\">Payments</h2><p>[Text to be supplied]</p><h2 id=\"s2\">Changes and cancellations</h2><p>[Text to be supplied]</p><h2 id=\"s3\">Our responsibilities</h2><p>[Text to be supplied]</p><h2 id=\"s4\">Your responsibilities</h2><p>[Text to be supplied]</p><h2 id=\"s5\">Insurance</h2><p>[Text to be supplied]</p><h2 id=\"s6\">Governing law</h2><p>[Text to be supplied]</p></article>\n  <aside class=\"sticky\"><div class=\"box\"><span class=\"kicker\">Sections</span><nav class=\"toc\"><a href=\"#s0\">Bookings and proposals</a><a href=\"#s1\">Payments</a><a href=\"#s2\">Changes and cancellations</a><a href=\"#s3\">Our responsibilities</a><a href=\"#s4\">Your responsibilities</a><a href=\"#s5\">Insurance</a><a href=\"#s6\">Governing law</a></nav></div></aside>\n</div></section>"
+   }
+  ],
+  "slug": "terms",
+  "title": "Terms and conditions",
+  "template": "default",
+  "sort_order": 6
+ },
+ {
+  "meta_title": "Privacy policy | We Are Morocco",
+  "meta_description": "Privacy policy for We Are Morocco Travel.",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_variant": "short",
+  "hero_image": "https://images.pexels.com/photos/27945049/pexels-photo-27945049.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "hero_image_alt": "Palace courtyard with fountain and arches",
+  "hero_crumb": "Privacy policy",
+  "hero_crumbs": [
+   {
+    "label": "Home",
+    "url": "/"
+   },
+   {
+    "label": "Privacy policy",
+    "url": null
+   }
+  ],
+  "hero_eyebrow": "Legal",
+  "hero_title": "Privacy policy",
+  "hero_subtitle": "Last updated <span class=\"ph\" title=\"Placeholder: date\">[date]</span>.",
+  "hero_extra": null,
+  "sections": [
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ivory\"><div class=\"container cols c-8-4 items-start\">\n  <article class=\"prose\"><p class=\"note\">Legal text to be supplied and approved by the company’s legal adviser. The headings below show the expected structure.</p>\n  <h2 id=\"s0\">Who we are</h2><p>[Text to be supplied]</p><h2 id=\"s1\">What we collect</h2><p>[Text to be supplied]</p><h2 id=\"s2\">How we use your data</h2><p>[Text to be supplied]</p><h2 id=\"s3\">Sharing with suppliers</h2><p>[Text to be supplied]</p><h2 id=\"s4\">How long we keep it</h2><p>[Text to be supplied]</p><h2 id=\"s5\">Your rights</h2><p>[Text to be supplied]</p><h2 id=\"s6\">Contact</h2><p>[Text to be supplied]</p></article>\n  <aside class=\"sticky\"><div class=\"box\"><span class=\"kicker\">Sections</span><nav class=\"toc\"><a href=\"#s0\">Who we are</a><a href=\"#s1\">What we collect</a><a href=\"#s2\">How we use your data</a><a href=\"#s3\">Sharing with suppliers</a><a href=\"#s4\">How long we keep it</a><a href=\"#s5\">Your rights</a><a href=\"#s6\">Contact</a></nav></div></aside>\n</div></section>"
+   }
+  ],
+  "slug": "privacy",
+  "title": "Privacy policy",
+  "template": "default",
+  "sort_order": 7
+ },
+ {
+  "meta_title": "Cookie policy | We Are Morocco",
+  "meta_description": "Cookie policy for We Are Morocco Travel.",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_variant": "short",
+  "hero_image": "https://images.pexels.com/photos/27945049/pexels-photo-27945049.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "hero_image_alt": "Palace courtyard with fountain and arches",
+  "hero_crumb": "Cookie policy",
+  "hero_crumbs": [
+   {
+    "label": "Home",
+    "url": "/"
+   },
+   {
+    "label": "Cookie policy",
+    "url": null
+   }
+  ],
+  "hero_eyebrow": "Legal",
+  "hero_title": "Cookie policy",
+  "hero_subtitle": "Last updated <span class=\"ph\" title=\"Placeholder: date\">[date]</span>.",
+  "hero_extra": null,
+  "sections": [
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ivory\"><div class=\"container cols c-8-4 items-start\">\n  <article class=\"prose\"><p class=\"note\">Legal text to be supplied and approved by the company’s legal adviser. The headings below show the expected structure.</p>\n  <h2 id=\"s0\">What cookies are</h2><p>[Text to be supplied]</p><h2 id=\"s1\">Cookies we use</h2><p>[Text to be supplied]</p><h2 id=\"s2\">Analytics</h2><p>[Text to be supplied]</p><h2 id=\"s3\">Managing cookies</h2><p>[Text to be supplied]</p></article>\n  <aside class=\"sticky\"><div class=\"box\"><span class=\"kicker\">Sections</span><nav class=\"toc\"><a href=\"#s0\">What cookies are</a><a href=\"#s1\">Cookies we use</a><a href=\"#s2\">Analytics</a><a href=\"#s3\">Managing cookies</a></nav></div></aside>\n</div></section>"
+   }
+  ],
+  "slug": "cookies",
+  "title": "Cookie policy",
+  "template": "default",
+  "sort_order": 8
+ },
+ {
+  "meta_title": "Design your stay | We Are Morocco",
+  "meta_description": "Six short questions sent to a producer in Marrakech. The brief becomes the spine of your private Morocco itinerary.",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_variant": "short",
+  "hero_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_image_alt": "Lantern-lit Moroccan riad courtyard with carved arches and a still reflecting pool",
+  "hero_crumb": "Design your stay",
+  "hero_crumbs": [
+   {
+    "label": "Home",
+    "url": "/"
+   },
+   {
+    "label": "Design your stay",
+    "url": null
+   }
+  ],
+  "hero_eyebrow": "Customize your own stay",
+  "hero_title": "Tell us how you like to travel. <span class=\"it block\">We build the country around it.</span>",
+  "hero_subtitle": "Six short questions, sent to your producer in Marrakech. The brief becomes the spine of your itinerary — pace, mood, doors you want opened, doors you want closed.",
+  "hero_extra": null,
+  "sections": [
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ink\" style=\"padding-top:3rem\"><div class=\"container\"><div class=\"builder reveal\" id=\"builder\">\n  <div class=\"b-head\"><span class=\"b-count\" id=\"b-count\">Step 01 / 06</span><div class=\"b-prog\" aria-hidden=\"true\"><i></i><i></i><i></i><i></i><i></i><i></i></div><span class=\"kicker\" style=\"color:var(--stone)\">Sent to a producer in Marrakech</span></div>\n  <div class=\"b-body\">\n    <div class=\"b-main\"><div class=\"b-step\"><span class=\"kicker\">The first question</span><h3 style=\"margin-top:.75rem\">What pace feels right?</h3><p>How fast do you want the country to move?</p><div class=\"b-opts\"><label class=\"b-opt\"><input type=\"radio\" name=\"pace\" value=\"Slow\"><span><b>Slow</b><small>One place, one mood, one morning after another.</small></span></label><label class=\"b-opt\"><input type=\"radio\" name=\"pace\" value=\"Balanced\" checked><span><b>Balanced</b><small>A handful of cities, intentionally timed.</small></span></label><label class=\"b-opt\"><input type=\"radio\" name=\"pace\" value=\"Ambitious\"><span><b>Ambitious</b><small>North to south, with private days in between.</small></span></label></div></div><div class=\"b-step\" hidden><span class=\"kicker\">The mood</span><h3 style=\"margin-top:.75rem\">What should Morocco feel like?</h3><p>Pick one. We will weave the rest in quietly.</p><div class=\"b-opts two\"><label class=\"b-opt\"><input type=\"radio\" name=\"mood\" value=\"Private\" checked><span><b>Private</b><small>Hidden doors, after-hours, just us.</small></span></label><label class=\"b-opt\"><input type=\"radio\" name=\"mood\" value=\"Cultural\"><span><b>Cultural</b><small>Artisans, medinas, stories in the walls.</small></span></label><label class=\"b-opt\"><input type=\"radio\" name=\"mood\" value=\"Gastronomy\"><span><b>Gastronomy</b><small>Markets, tables, the chef in the kitchen.</small></span></label><label class=\"b-opt\"><input type=\"radio\" name=\"mood\" value=\"Wellness\"><span><b>Wellness</b><small>Hammam, spa, slower mornings.</small></span></label><label class=\"b-opt\"><input type=\"radio\" name=\"mood\" value=\"Family\"><span><b>Family</b><small>For the children — without the theme park.</small></span></label><label class=\"b-opt\"><input type=\"radio\" name=\"mood\" value=\"Celebration\"><span><b>Celebration</b><small>Anniversary, milestone, a moment.</small></span></label></div></div><div class=\"b-step\" hidden><span class=\"kicker\">The travelers</span><h3 style=\"margin-top:.75rem\">Who is in the car?</h3><p>And for how long?</p><p class=\"kicker\" style=\"margin-top:1.5rem\">Party size</p><div class=\"chips\"><label class=\"chip\"><input type=\"radio\" name=\"party\" value=\"Just two\"><span>Just two</span></label><label class=\"chip\"><input type=\"radio\" name=\"party\" value=\"Three — five\" checked><span>Three — five</span></label><label class=\"chip\"><input type=\"radio\" name=\"party\" value=\"Six — ten\"><span>Six — ten</span></label><label class=\"chip\"><input type=\"radio\" name=\"party\" value=\"Ten or more\"><span>Ten or more</span></label></div><p class=\"kicker\" style=\"margin-top:1.75rem\">Trip length</p><div class=\"chips\"><label class=\"chip\"><input type=\"radio\" name=\"length\" value=\"5 — 6 nights\"><span>5 — 6 nights</span></label><label class=\"chip\"><input type=\"radio\" name=\"length\" value=\"7 — 9 nights\" checked><span>7 — 9 nights</span></label><label class=\"chip\"><input type=\"radio\" name=\"length\" value=\"10 — 12 nights\"><span>10 — 12 nights</span></label><label class=\"chip\"><input type=\"radio\" name=\"length\" value=\"Two weeks or longer\"><span>Two weeks or longer</span></label></div></div><div class=\"b-step\" hidden><span class=\"kicker\">The country</span><h3 style=\"margin-top:.75rem\">What matters most?</h3><p>Pick as many as you like.</p><div class=\"chips\"><label class=\"chip\"><input type=\"checkbox\" name=\"prio\" value=\"The desert\" checked><span>The desert</span></label><label class=\"chip\"><input type=\"checkbox\" name=\"prio\" value=\"A palace or a famous riad\"><span>A palace or a famous riad</span></label><label class=\"chip\"><input type=\"checkbox\" name=\"prio\" value=\"Blue Chefchaouen\"><span>Blue Chefchaouen</span></label><label class=\"chip\"><input type=\"checkbox\" name=\"prio\" value=\"Coastal Essaouira\"><span>Coastal Essaouira</span></label><label class=\"chip\"><input type=\"checkbox\" name=\"prio\" value=\"Fès &amp; the medina\" checked><span>Fès & the medina</span></label><label class=\"chip\"><input type=\"checkbox\" name=\"prio\" value=\"Atlas mountains\"><span>Atlas mountains</span></label><label class=\"chip\"><input type=\"checkbox\" name=\"prio\" value=\"Markets and food\"><span>Markets and food</span></label><label class=\"chip\"><input type=\"checkbox\" name=\"prio\" value=\"Spa and stillness\"><span>Spa and stillness</span></label></div><p class=\"kicker\" style=\"margin-top:1.75rem\">Lead destination</p><div class=\"chips\"><label class=\"chip\"><input type=\"radio\" name=\"lead\" value=\"Marrakech\" checked><span>Marrakech</span></label><label class=\"chip\"><input type=\"radio\" name=\"lead\" value=\"Sahara\"><span>Sahara</span></label><label class=\"chip\"><input type=\"radio\" name=\"lead\" value=\"Chefchaouen\"><span>Chefchaouen</span></label><label class=\"chip\"><input type=\"radio\" name=\"lead\" value=\"Aït Benhaddou\"><span>Aït Benhaddou</span></label><label class=\"chip\"><input type=\"radio\" name=\"lead\" value=\"Essaouira\"><span>Essaouira</span></label><label class=\"chip\"><input type=\"radio\" name=\"lead\" value=\"Fès\"><span>Fès</span></label></div></div><div class=\"b-step\" hidden><span class=\"kicker\">The houses</span><h3 style=\"margin-top:.75rem\">How should your rooms feel?</h3><p>Houses we know well — the ones we send people we love.</p><div class=\"b-opts\"><label class=\"b-opt\"><input type=\"radio\" name=\"stays\" value=\"Royal Mansour · La Mamounia\" checked><span><b>Royal Mansour · La Mamounia</b></span></label><label class=\"b-opt\"><input type=\"radio\" name=\"stays\" value=\"Oberoi · Mandarin Oriental\"><span><b>Oberoi · Mandarin Oriental</b></span></label><label class=\"b-opt\"><input type=\"radio\" name=\"stays\" value=\"Dar Ahlam · intimate kasbahs\"><span><b>Dar Ahlam · intimate kasbahs</b></span></label><label class=\"b-opt\"><input type=\"radio\" name=\"stays\" value=\"Boutique riads with character\"><span><b>Boutique riads with character</b></span></label><label class=\"b-opt\"><input type=\"radio\" name=\"stays\" value=\"I do not yet know — surprise me\"><span><b>I do not yet know — surprise me</b></span></label></div></div><div class=\"b-step\" hidden><span class=\"kicker\">The last question</span><h3 style=\"margin-top:.75rem\">Anything we should avoid?</h3><p>Crowded souks, long drives, certain foods, a stop that bored you in another life. We will keep it out of the plan.</p><label class=\"lbl\" style=\"display:block;margin-top:1.5rem\">Keep it out<textarea class=\"field\" id=\"b-avoid\" rows=\"4\" placeholder=\"Long drives, certain cuisines, places you have already seen…\"></textarea></label><p class=\"small\" style=\"margin-top:.75rem;color:var(--stone)\">Pressing “Send to the atelier” opens your private message window with this brief attached.</p></div>\n      <div class=\"b-nav\"><button type=\"button\" class=\"btn btn-outline-dk\" id=\"b-back\">Back</button><button type=\"button\" class=\"btn btn-gold\" id=\"b-next\"><span>Continue</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button></div>\n    </div>\n    <aside class=\"b-aside\"><div class=\"draft\"><h4>Your draft</h4><dl id=\"b-draft\"></dl><p class=\"small\" style=\"margin-top:1rem;color:var(--stone)\">This is sent as a written brief — not a marketing form. A producer reads it, then writes back.</p></div></aside>\n  </div>\n</div>\n  <div class=\"grid g-3 mt-14\"><div class=\"reveal\" style=\"transition-delay:0ms\"><span class=\"kicker\">A person reads it</span><p class=\"small\" style=\"margin-top:.5rem;color:rgba(239,230,214,.65)\">Every brief goes to a producer in our Marrakech atelier — not a CRM.</p></div><div class=\"reveal\" style=\"transition-delay:80ms\"><span class=\"kicker\">A first sketch in days</span><p class=\"small\" style=\"margin-top:.5rem;color:rgba(239,230,214,.65)\">Stays held, routes timed for light, honest about what is possible.</p></div><div class=\"reveal\" style=\"transition-delay:160ms\"><span class=\"kicker\">No obligation</span><p class=\"small\" style=\"margin-top:.5rem;color:rgba(239,230,214,.65)\">Refine it until it sounds like you, or simply keep the ideas.</p></div></div>\n</div></section>"
+   }
+  ],
+  "slug": "quote",
+  "title": "Design your stay",
+  "template": "default",
+  "sort_order": 9
+ },
+ {
+  "meta_title": "Contact | We Are Morocco",
+  "meta_description": "Contact our atelier in Marrakech: +212 653 051 512, info@wearemoroccotravel.com. Planning calls on American hours.",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_variant": "short",
+  "hero_image": "https://images.pexels.com/photos/27945049/pexels-photo-27945049.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "hero_image_alt": "Palace courtyard with fountain and arches",
+  "hero_crumb": "Contact",
+  "hero_crumbs": [
+   {
+    "label": "Home",
+    "url": "/"
+   },
+   {
+    "label": "Contact",
+    "url": null
+   }
+  ],
+  "hero_eyebrow": "Contact",
+  "hero_title": "Let’s plan something <span class=\"it block\">beautiful in Morocco.</span>",
+  "hero_subtitle": "The fastest way to a first sketch is a short note. For anything else, our team replies within one business day.",
+  "hero_extra": "<div class=\"ctas\"><button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Begin a private conversation</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button></div>",
+  "sections": [
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-parch\"><div class=\"container cols c-5-7 items-start\">\n  <div class=\"reveal\"><p class=\"eyebrow\">Reach us</p><h2 class=\"h2 big\">Our atelier <span class=\"it\">in Marrakech.</span></h2>\n    <dl class=\"cblock\"><div><dt>Phone & WhatsApp</dt><dd><a href=\"tel:+212653051512\">+212 653 051 512</a></dd></div><div><dt>Email</dt><dd><a href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a></dd></div><div><dt>Atelier</dt><dd>Av. Hassan II, Koutoubia Center II, 1er Étage, Bureau N°5, Marrakech</dd></div><div><dt>Hours</dt><dd>Planning calls on Eastern &amp; Pacific time, by appointment</dd></div><div><dt>Guests on a journey</dt><dd>24/7 WhatsApp line</dd></div></dl></div>\n  <div class=\"builder reveal-right\" style=\"padding:2rem\"><span class=\"kicker\" style=\"color:var(--gold-light)\">General enquiry</span><h3 class=\"h3\" style=\"color:var(--ivory)\">Send us <span class=\"it\">a message.</span></h3>\n    <p class=\"small\" style=\"margin-top:.75rem;color:rgba(239,230,214,.65)\">Planning a journey? The <a href=\"/quote\" style=\"color:var(--gold-light)\">six-question brief</a> gets you a first sketch faster.</p>\n    <form class=\"form-grid\" data-simple novalidate style=\"margin-top:1.75rem\">\n      <div class=\"form-grid two\"><label class=\"lbl\">Name *<input class=\"field\" required autocomplete=\"name\" placeholder=\"Your name\"><span class=\"err\">Please add your name.</span></label>\n      <label class=\"lbl\">Email *<input class=\"field\" type=\"email\" required autocomplete=\"email\" placeholder=\"you@studio.com\"><span class=\"err\">Please add a valid email address.</span></label></div>\n      <label class=\"lbl\">Message *<textarea class=\"field\" required rows=\"5\" placeholder=\"How can we help?\"></textarea><span class=\"err\">Please write a short message.</span></label>\n      <label class=\"check lbl\" style=\"text-transform:none;letter-spacing:0;font-size:.875rem\"><input type=\"checkbox\" required> I agree to the <a href=\"/privacy\" style=\"color:var(--gold-light)\">privacy policy</a>.<span class=\"err\">Please accept the privacy policy.</span></label>\n      <button class=\"btn btn-gold\" type=\"submit\"><span>Send message</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button>\n      <p class=\"notice\" data-done hidden>Thank you. Design preview only: on the live site this message goes to the atelier, who reply within one business day.</p>\n    </form></div>\n</div></section>"
+   }
+  ],
+  "slug": "contact",
+  "title": "Contact",
+  "template": "default",
+  "sort_order": 10
+ },
+ {
+  "meta_title": "Thank you | We Are Morocco",
+  "meta_description": "Your note is with our atelier in Marrakech.",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_variant": null,
+  "hero_image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "hero_image_alt": "Golden Sahara dunes at sunset in Merzouga",
+  "hero_crumb": null,
+  "hero_crumbs": null,
+  "hero_eyebrow": "Request received",
+  "hero_title": "Thank you. <span class=\"it block\">Your note is with Marrakech.</span>",
+  "hero_subtitle": "A producer will reply within one business day — usually sooner. Reference: <span class=\"ph\" title=\"Placeholder: reference\">[WAM-2026-0123]</span>.",
+  "hero_extra": "<div class=\"ctas\"><a class=\"btn btn-ghost\" href=\"/\">Back to the homepage</a></div>",
+  "sections": [
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-parch\"><div class=\"container\">\n  <div class=\"draft reveal\" id=\"ty-brief\" hidden style=\"max-width:36rem;margin-bottom:3.5rem;background:var(--ink)\"><h4>Your brief</h4><pre style=\"margin:.75rem 0 0;white-space:pre-wrap;font:400 .875rem/1.6 var(--font-sans);color:rgba(239,230,214,.8)\"></pre></div>\n  <div class=\"head-row\"><div class=\"reveal\"><p class=\"eyebrow\">While you wait</p><h2 class=\"h2 big\">Next <span class=\"it\">steps.</span></h2></div></div>\n  <div class=\"grid g-3 mt-14\"><a class=\"vcard lift reveal\" href=\"/itineraries\" style=\"transition-delay:0ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z\"/><path d=\"M14 3v5h5M9 13h6M9 17h6\"/></svg></span><h3>Browse the signature journeys</h3><p>Imperial, Magical and The Grand Morocco, day by day.</p></a><a class=\"vcard lift reveal\" href=\"/experiences\" style=\"transition-delay:80ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m12 3 2.5 6.5L21 12l-6.5 2.5L12 21l-2.5-6.5L3 12l6.5-2.5z\"/></svg></span><h3>Explore experiences</h3><p>Private dinners, desert camps and more.</p></a><a class=\"vcard lift reveal\" href=\"tel:+212653051512\" style=\"transition-delay:160ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M21 12a8 8 0 0 1-11.6 7.1L4 20l1-4.6A8 8 0 1 1 21 12z\"/></svg></span><h3>WhatsApp the atelier</h3><p>+212 653 051 512 — we answer on your clock.</p></a></div>\n</div></section>"
+   }
+  ],
+  "slug": "thank-you",
+  "title": "Home",
+  "template": "default",
+  "sort_order": 11
+ },
+ {
+  "meta_title": "Services | We Are Morocco",
+  "meta_description": "Private journeys, incentives, events and ground handling across Morocco, designed and run by one atelier in Marrakech.",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_variant": null,
+  "hero_image": "https://images.pexels.com/photos/15260622/pexels-photo-15260622.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "hero_image_alt": "Marrakech palace interior",
+  "hero_crumb": "Services",
+  "hero_crumbs": [
+   {
+    "label": "Home",
+    "url": "/"
+   },
+   {
+    "label": "Services",
+    "url": null
+   }
+  ],
+  "hero_eyebrow": "Services",
+  "hero_title": "One atelier. <span class=\"it block\">Four ways we work.</span>",
+  "hero_subtitle": "Every journey and event is designed, priced and run by the same team in Morocco: transport, stays, guides, permits, dining and staffing under one roof.",
+  "hero_extra": "<div class=\"ctas\"><button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Begin a conversation</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button></div>",
+  "sections": [
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-parch\"><div class=\"container\"><div class=\"head-row\"><div class=\"reveal\"><p class=\"eyebrow\">What we do</p><h2 class=\"h2 big\">Choose where <span class=\"it\">to begin.</span></h2></div><p class=\"lead reveal\" style=\"transition-delay:120ms\">Not sure which fits? Tell us about your group and goals, and we will suggest the right format.</p></div>\n  <div class=\"grid mt-14\" style=\"gap:1.5rem\"><!--wam:service-scards--></div></div></section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ivory\"><div class=\"container\"><div class=\"head-row\"><div class=\"reveal\"><p class=\"eyebrow\">Included on every program</p><h2 class=\"h2 big\">Handled for you, <span class=\"it\">from arrival to farewell.</span></h2></div></div>\n  <div class=\"mt-14\"><div class=\"grid g-3\"><article class=\"vcard lift reveal\" style=\"transition-delay:0ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 16v-4l2-5h14l2 5v4H3z\"/><circle cx=\"7.5\" cy=\"16.5\" r=\"1.5\"/><circle cx=\"16.5\" cy=\"16.5\" r=\"1.5\"/><path d=\"M3 12h18\"/></svg></span><h3>Private transport</h3><p>Mercedes-Benz V-Class and Sprinter, luxury coaches and 4x4s, with vetted drivers.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:80ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 21h18M5 21V10l7-6 7 6v11\"/><path d=\"M10 21v-5a2 2 0 0 1 4 0v5M8 12h.01M16 12h.01\"/></svg></span><h3>Stays</h3><p>Contracted directly, from palace hotels to boutique riads and Sahara camps.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:160ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"m15.5 8.5-2 5-5 2 2-5z\"/></svg></span><h3>Guardian Guides</h3><p>A dedicated English-speaking host and cultural interpreter throughout.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:240ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 9h18M5 9v11M19 9v11M8 9V5h8v4\"/></svg></span><h3>Dining & venues</h3><p>Reserved tables, private terraces and exclusive venue hire.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:320ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z\"/><path d=\"M14 3v5h5M9 13h6M9 17h6\"/></svg></span><h3>Permits & paperwork</h3><p>Local authority liaison, filming and event permits.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:400ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M6 16V11a6 6 0 0 1 12 0v5l1.5 2h-15z\"/><path d=\"M10 20a2 2 0 0 0 4 0M12 3v2\"/></svg></span><h3>24/7 on the ground</h3><p>A WhatsApp line and a producer reachable at any hour.</p></article></div></div></div></section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-parch\"><div class=\"container\"><div class=\"reveal\"><p class=\"eyebrow\">How it works</p><h2 class=\"h2 big\">Four movements. <span class=\"it\">Then you arrive.</span></h2></div><div class=\"mt-14\"><ol class=\"steps\"><li class=\"step reveal\" style=\"transition-delay:0ms\"><span class=\"n\">01</span><h3>A conversation, not a form.</h3><p>We start with how you travel — not a checkbox of cities. Pace, privacy, who is in the car, what you refuse to miss.</p></li><li class=\"step reveal\" style=\"transition-delay:90ms\"><span class=\"n\">02</span><h3>A private itinerary.</h3><p>Within days, a designed journey: stays held, routes timed for light, reservations that are actually honored.</p></li><li class=\"step reveal\" style=\"transition-delay:180ms\"><span class=\"n\">03</span><h3>Refinement until it feels inevitable.</h3><p>You push back. We adjust. The draft becomes a document you stop editing because it already sounds like you.</p></li><li class=\"step reveal\" style=\"transition-delay:270ms\"><span class=\"n\">04</span><h3>You simply arrive.</h3><p>Meet-and-greet, the right SIM, the right car. From that moment the country is handled. You are free to be in it.</p></li></ol></div></div></section>"
+   },
+   {
+    "type": "cta",
+    "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Golden Sahara dunes at sunset in Merzouga",
+    "label": "Start here",
+    "title": "Tell us what you are planning. <span class=\"it block\">We will design the rest.</span>",
+    "lead": "Proposal within days — itemised, honest about what is possible, and written by a person.",
+    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+   }
+  ],
+  "slug": "services",
+  "title": "Services",
+  "template": "default",
+  "sort_order": 12
+ },
+ {
+  "meta_title": "Destinations | We Are Morocco",
+  "meta_description": "Where we take our guests in Morocco, and why: Marrakech, the Sahara, Fès, the Atlas, Essaouira, Chefchaouen and more.",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_variant": null,
+  "hero_image": "https://images.pexels.com/photos/25070537/pexels-photo-25070537.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "hero_image_alt": "Blue alleys of Chefchaouen",
+  "hero_crumb": "Destinations",
+  "hero_crumbs": [
+   {
+    "label": "Home",
+    "url": "/"
+   },
+   {
+    "label": "Destinations",
+    "url": null
+   }
+  ],
+  "hero_eyebrow": "Destinations",
+  "hero_title": "A continent of landscapes. <span class=\"it block\">One country.</span>",
+  "hero_subtitle": "From Atlantic ramparts to Saharan dunes, Morocco packs a continent’s worth of landscapes into a country you can cross in a day. Here is where we take our guests, and why.",
+  "hero_extra": null,
+  "sections": [
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ink\"><div class=\"container\"><div class=\"head-row\"><div class=\"reveal\"><p class=\"eyebrow\">The country, edited</p><h2 class=\"h2 big\">Destinations <span class=\"it\">we return to.</span></h2></div><p class=\"lead reveal\" style=\"transition-delay:120ms\">Six places that anchor most of our journeys. Hover for the detail; tap through for the city guide.</p></div>\n  <div class=\"grid g-3 mt-14\"><!--wam:destination-dcards--></div></div></section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-parch\"><div class=\"container\"><div class=\"head-row\"><div class=\"reveal\"><p class=\"eyebrow\">At a glance</p><h2 class=\"h2 big\">Where to go, <span class=\"it\">and why.</span></h2></div><p class=\"lead reveal\" style=\"transition-delay:120ms\">Every region we work in, with what it does best.</p></div>\n  <div class=\"grid g-2 mt-14\" style=\"gap:1.5rem\"><!--wam:destination-scards--></div></div></section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ivory\"><div class=\"container\"><div class=\"head-row\"><div class=\"reveal\"><p class=\"eyebrow\">Signature journeys</p><h2 class=\"h2 big\">Routes that <span class=\"it\">link them up.</span></h2></div><p class=\"lead reveal\" style=\"transition-delay:120ms\"><a class=\"link\" href=\"/itineraries\">All journeys <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></a></p></div>\n  <div class=\"grid mt-14\" style=\"gap:1.5rem\"><!--wam:itinerary-scards signature=\"1\"--></div></div></section>"
+   },
+   {
+    "type": "cta",
+    "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Golden Sahara dunes at sunset in Merzouga",
+    "label": "Not sure where to start?",
+    "title": "Tell us your dates. <span class=\"it block\">We will suggest the right region.</span>",
+    "lead": "Season, pace and who is traveling decide the route. A producer will propose one within days.",
+    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+   }
+  ],
+  "slug": "destinations",
+  "title": "Destinations",
+  "template": "default",
+  "sort_order": 13
+ },
+ {
+  "meta_title": "Signature Journeys | We Are Morocco",
+  "meta_description": "Three signature Morocco journeys — Imperial, Magical and The Grand Morocco — plus sample routes you can adapt to your dates and pace.",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_variant": null,
+  "hero_image": "https://images.pexels.com/photos/30320422/pexels-photo-30320422.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+  "hero_image_alt": "Camels crossing the dunes",
+  "hero_crumb": "Journeys",
+  "hero_crumbs": [
+   {
+    "label": "Home",
+    "url": "/"
+   },
+   {
+    "label": "Journeys",
+    "url": null
+   }
+  ],
+  "hero_eyebrow": "The collection",
+  "hero_title": "Three signature journeys. <span class=\"it block\">One deeply personal way to discover Morocco.</span>",
+  "hero_subtitle": "Our signature journeys show the We Are Morocco approach: thoughtful pacing, cultural depth, exceptional hospitality and attentive coordination. They are starting points — not fixed packages.",
+  "hero_extra": null,
+  "sections": [
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ink\"><div class=\"container\"><div class=\"head-row\"><div class=\"reveal\"><p class=\"eyebrow\">Signature journeys</p><h2 class=\"h2 big\">Imperial. Magical. <span class=\"it\">Grand.</span></h2></div><p class=\"lead reveal\" style=\"transition-delay:120ms\">Every route can be adapted to the interests, pace and expectations of each traveler.</p></div>\n  <div class=\"grid g-3 mt-14\"><!--wam:itinerary-dcards--></div>\n  <div class=\"notice mt-14 reveal\" style=\"display:flex;flex-wrap:wrap;gap:1rem 2rem;align-items:center;justify-content:space-between\"><div><span class=\"kicker\" style=\"color:var(--gold-light)\">Signature does not mean fixed</span><p style=\"margin-top:.5rem;color:rgba(239,230,214,.75)\">Our signature journeys are a starting point. We also create fully tailor-made journeys from scratch.</p></div><a href=\"/quote\" class=\"btn btn-ghost \"><span>Design your own</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></a></div>\n</div></section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-parch\"><div class=\"container\">\n  <div class=\"head-row\"><div class=\"reveal\"><p class=\"eyebrow\">Every route</p><h2 class=\"h2 big\">Starting points. <span class=\"it\">Never fixed.</span></h2></div></div>\n  <div class=\"filters mt-14\"><div class=\"row\"><span class=\"kicker\">Length</span><div class=\"chips\" data-filter-group=\"len\" data-target=\"#it-grid\"><button type=\"button\" class=\"chip\" data-value=\"all\" aria-pressed=\"true\">Any</button><button type=\"button\" class=\"chip\" data-value=\"short\" aria-pressed=\"false\">Up to 5 days</button><button type=\"button\" class=\"chip\" data-value=\"week\" aria-pressed=\"false\">About a week</button><button type=\"button\" class=\"chip\" data-value=\"long\" aria-pressed=\"false\">10 days +</button></div></div><div class=\"row\"><span class=\"kicker\">Destination</span><div class=\"chips\" data-filter-group=\"dest\" data-target=\"#it-grid\"><button type=\"button\" class=\"chip\" data-value=\"all\" aria-pressed=\"true\">All</button><button type=\"button\" class=\"chip\" data-value=\"marrakech\" aria-pressed=\"false\">Marrakech</button><button type=\"button\" class=\"chip\" data-value=\"fes\" aria-pressed=\"false\">Fès</button><button type=\"button\" class=\"chip\" data-value=\"sahara\" aria-pressed=\"false\">Sahara</button><button type=\"button\" class=\"chip\" data-value=\"atlas\" aria-pressed=\"false\">Atlas</button></div></div><div class=\"row\"><span class=\"kicker\">Type</span><div class=\"chips\" data-filter-group=\"type\" data-target=\"#it-grid\"><button type=\"button\" class=\"chip\" data-value=\"all\" aria-pressed=\"true\">All</button><button type=\"button\" class=\"chip\" data-value=\"culture\" aria-pressed=\"false\">Culture</button><button type=\"button\" class=\"chip\" data-value=\"desert\" aria-pressed=\"false\">Desert</button><button type=\"button\" class=\"chip\" data-value=\"private\" aria-pressed=\"false\">Private</button><button type=\"button\" class=\"chip\" data-value=\"incentive\" aria-pressed=\"false\">Incentive</button></div></div></div>\n  <div class=\"grid g-2\" id=\"it-grid\" style=\"gap:1.5rem\"><!--wam:itinerary-scards filters=\"1\"--></div>\n  <p class=\"empty\" data-empty hidden>No journey matches these filters yet. <a class=\"link\" href=\"/quote\">Ask us to design one <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></a></p>\n</div></section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ivory\"><div class=\"container\"><div class=\"head-row\"><div class=\"reveal\"><p class=\"eyebrow\">The We Are Morocco standard</p><h2 class=\"h2 big\">Thoughtful from <span class=\"it\">beginning to end.</span></h2></div><p class=\"lead reveal\" style=\"transition-delay:120ms\">The exact services, properties, room categories and meal plans are confirmed in each final proposal.</p></div>\n  <div class=\"mt-14\"><div class=\"grid g-4\"><article class=\"vcard lift reveal\" style=\"transition-delay:0ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"9\" cy=\"8\" r=\"3.5\"/><path d=\"M2.5 20a6.5 6.5 0 0 1 13 0\"/><path d=\"M16 4.5a3.5 3.5 0 0 1 0 7M21.5 20a6.5 6.5 0 0 0-4-6\"/></svg></span><h3>The Guardian Guide</h3><p>A dedicated private English-speaking host, cultural interpreter and primary on-the-ground contact. Specialists step in only where they add value, such as Volubilis or the fossil experience.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:80ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 16v-4l2-5h14l2 5v4H3z\"/><circle cx=\"7.5\" cy=\"16.5\" r=\"1.5\"/><circle cx=\"16.5\" cy=\"16.5\" r=\"1.5\"/><path d=\"M3 12h18\"/></svg></span><h3>Private transportation</h3><p>1–4 guests: Mercedes-Benz Vito or V-Class. Above 4: luxury Sprinter. Above 16: luxury coach. Desert-camp transfers by luxury 4x4.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:160ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"8\"/><circle cx=\"12\" cy=\"12\" r=\"4\"/></svg></span><h3>Dining & hospitality</h3><p>Daily breakfast included. City meals chosen from curated recommendations. Erfoud, Sahara camp and Skoura stays are full board.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:240ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><rect x=\"3\" y=\"8\" width=\"18\" height=\"13\" rx=\"1\"/><path d=\"M3 12h18M12 8v13M12 8S10 3 7.5 4.5 9 8 12 8zM12 8s2-5 4.5-3.5S15 8 12 8z\"/></svg></span><h3>Culture, crafts & shopping</h3><p>Souks and artisan quarters are cultural encounters, never compulsory shopping. A private shopper can be arranged on request.</p></article></div></div></div></section>"
+   },
+   {
+    "type": "cta",
+    "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Golden Sahara dunes at sunset in Merzouga",
+    "label": "Your Morocco, your way",
+    "title": "Luxury is not adding more. <span class=\"it block\">It is choosing the right experiences.</span>",
+    "lead": "Leave room for discovery, comfort and genuine connection. Tell us how you travel and we will shape the route around it.",
+    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+   }
+  ],
+  "slug": "itineraries",
+  "title": "Journeys",
+  "template": "default",
+  "sort_order": 14
+ },
+ {
+  "meta_title": "Experiences | We Are Morocco",
+  "meta_description": "Private dinners, desert camps, palace buyouts and artisan sessions in Morocco — access you cannot book online.",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_variant": null,
+  "hero_image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "hero_image_alt": "Golden Sahara dunes at sunset in Merzouga",
+  "hero_crumb": "Experiences",
+  "hero_crumbs": [
+   {
+    "label": "Home",
+    "url": "/"
+   },
+   {
+    "label": "Experiences",
+    "url": null
+   }
+  ],
+  "hero_eyebrow": "Signature experiences",
+  "hero_title": "Access you <span class=\"it\">can’t book online.</span>",
+  "hero_subtitle": "Private venues, desert camps and artisan sessions, arranged through people we have worked with for years. Add any of them to a journey.",
+  "hero_extra": null,
+  "sections": [
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ink\"><div class=\"container\">\n  <div class=\"filters\"><div class=\"row\"><span class=\"kicker\">Category</span><div class=\"chips\" data-filter-group=\"cat\" data-target=\"#exp-grid\"><button type=\"button\" class=\"chip\" data-value=\"all\" aria-pressed=\"true\">All</button><button type=\"button\" class=\"chip\" data-value=\"gala\" aria-pressed=\"false\">Celebrations</button><button type=\"button\" class=\"chip\" data-value=\"desert\" aria-pressed=\"false\">Desert</button><button type=\"button\" class=\"chip\" data-value=\"culture\" aria-pressed=\"false\">Culture</button><button type=\"button\" class=\"chip\" data-value=\"food\" aria-pressed=\"false\">Food</button><button type=\"button\" class=\"chip\" data-value=\"adventure\" aria-pressed=\"false\">Adventure</button></div></div></div>\n  <div class=\"grid g-3\" id=\"exp-grid\"><!--wam:experience-dcards--></div><p class=\"empty\" data-empty hidden>Nothing in this category yet.</p>\n</div></section>"
+   },
+   {
+    "type": "cta",
+    "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Golden Sahara dunes at sunset in Merzouga",
+    "label": "Add it to your journey",
+    "title": "Seen something you like? <span class=\"it block\">We will build it in.</span>",
+    "lead": "Mention the experience in your note and your producer will weave it into the route.",
+    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+   }
+  ],
+  "slug": "experiences",
+  "title": "Experiences",
+  "template": "default",
+  "sort_order": 15
+ },
+ {
+  "meta_title": "Case studies | We Are Morocco",
+  "meta_description": "Programs we have run on the ground in Morocco: incentives, retreats, congresses and private journeys.",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_variant": "short",
+  "hero_image": "https://images.pexels.com/photos/10434667/pexels-photo-10434667.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+  "hero_image_alt": "Private desert camp in the Sahara",
+  "hero_crumb": "Case studies",
+  "hero_crumbs": [
+   {
+    "label": "Home",
+    "url": "/"
+   },
+   {
+    "label": "Services",
+    "url": "/services"
+   },
+   {
+    "label": "Case studies",
+    "url": null
+   }
+  ],
+  "hero_eyebrow": "Case studies",
+  "hero_title": "Programs we have <span class=\"it\">run on the ground.</span>",
+  "hero_subtitle": "Client, group size, challenge, what we did and the result.",
+  "hero_extra": null,
+  "sections": [
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-parch\"><div class=\"container\">\n  <div class=\"filters\"><div class=\"row\"><span class=\"kicker\">Service</span><div class=\"chips\" data-filter-group=\"svc\" data-target=\"#cs-grid\"><button type=\"button\" class=\"chip\" data-value=\"all\" aria-pressed=\"true\">All</button><button type=\"button\" class=\"chip\" data-value=\"incentive\" aria-pressed=\"false\">Incentives</button><button type=\"button\" class=\"chip\" data-value=\"event\" aria-pressed=\"false\">Events</button><button type=\"button\" class=\"chip\" data-value=\"private\" aria-pressed=\"false\">Private</button></div></div></div>\n  <div class=\"grid g-2\" id=\"cs-grid\" style=\"gap:1.5rem\"><!--wam:case-study-scards--><a href=\"/case-studies/agafay-gala\" class=\"scard lift reveal\" data-item data-svc=\"event\" style=\"transition-delay:80ms\"><div class=\"pic img-zoom\"><img src=\"https://images.pexels.com/photos/15260622/pexels-photo-15260622.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Marrakech palace interior\" loading=\"lazy\" decoding=\"async\"></div><div class=\"txt\"><span class=\"kicker\">Conference · [600] delegates</span><h3>[Client]: a [600]-delegate congress</h3><p>Marrakech · Sample</p><span class=\"link\">Read the case study <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></span></div></a><a href=\"/case-studies/agafay-gala\" class=\"scard lift reveal\" data-item data-svc=\"event\" style=\"transition-delay:0ms\"><div class=\"pic img-zoom\"><img src=\"https://images.pexels.com/photos/29976840/pexels-photo-29976840.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Kasbah in the Atlas foothills\" loading=\"lazy\" decoding=\"async\"></div><div class=\"txt\"><span class=\"kicker\">Retreat · [30] guests</span><h3>[Client]: a leadership retreat in the Atlas</h3><p>Atlas Mountains · Sample</p><span class=\"link\">Read the case study <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></span></div></a><a href=\"/case-studies/agafay-gala\" class=\"scard lift reveal\" data-item data-svc=\"private\" style=\"transition-delay:80ms\"><div class=\"pic img-zoom\"><img src=\"https://images.pexels.com/photos/25070537/pexels-photo-25070537.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Blue alleys of Chefchaouen\" loading=\"lazy\" decoding=\"async\"></div><div class=\"txt\"><span class=\"kicker\">Private journey · [4] travelers</span><h3>[Family]: ten days, coast to dunes</h3><p>Fès · Sahara · Essaouira · Sample</p><span class=\"link\">Read the case study <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></span></div></a></div>\n  <p class=\"empty\" data-empty hidden>No case studies in this category yet.</p>\n  <p class=\"fine\" style=\"text-align:left\">These cards show the layout. Real case studies replace them in the admin, with client permission.</p>\n</div></section>"
+   },
+   {
+    "type": "cta",
+    "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Golden Sahara dunes at sunset in Merzouga",
+    "label": "Have a program like these?",
+    "title": "Let us quote it. <span class=\"it block\">A first sketch within days.</span>",
+    "lead": "Tell us the group, dates and the feeling you want guests to leave with.",
+    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"event\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+   }
+  ],
+  "slug": "case-studies",
+  "title": "Case studies",
+  "template": "default",
+  "sort_order": 16
+ },
+ {
+  "meta_title": "Journal | We Are Morocco",
+  "meta_description": "Notes from the ground: seasons, houses, logistics and the places we love in Morocco.",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_variant": "short",
+  "hero_image": "https://images.pexels.com/photos/31070248/pexels-photo-31070248.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "hero_image_alt": "Blue boats in the harbour at Essaouira",
+  "hero_crumb": "Journal",
+  "hero_crumbs": [
+   {
+    "label": "Home",
+    "url": "/"
+   },
+   {
+    "label": "Journal",
+    "url": null
+   }
+  ],
+  "hero_eyebrow": "Journal",
+  "hero_title": "Notes <span class=\"it\">from the ground.</span>",
+  "hero_subtitle": "Guides for travelers and planners: seasons, houses, logistics and the places we love.",
+  "hero_extra": null,
+  "sections": [
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-parch\"><div class=\"container\">\n  <div class=\"reveal\"><!--wam:journal-featured--></div>\n  <div class=\"filters mt-14\"><div class=\"row\"><span class=\"kicker\">Topic</span><div class=\"chips\" data-filter-group=\"topic\" data-target=\"#post-grid\"><button type=\"button\" class=\"chip\" data-value=\"all\" aria-pressed=\"true\">All</button><button type=\"button\" class=\"chip\" data-value=\"planning\" aria-pressed=\"false\">Planning</button><button type=\"button\" class=\"chip\" data-value=\"incentive\" aria-pressed=\"false\">Incentives</button><button type=\"button\" class=\"chip\" data-value=\"venues\" aria-pressed=\"false\">Venues</button><button type=\"button\" class=\"chip\" data-value=\"culture\" aria-pressed=\"false\">Culture</button></div></div></div>\n  <div class=\"grid g-2\" id=\"post-grid\" style=\"gap:1.5rem\"><!--wam:journal-scards--><a href=\"/journal/best-time-to-visit-marrakech\" class=\"scard lift reveal\" data-item data-topic=\"incentive\" style=\"transition-delay:80ms\"><div class=\"pic img-zoom\"><img src=\"https://images.pexels.com/photos/998631/pexels-photo-998631.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800\" alt=\"Sahara dunes\" loading=\"lazy\" decoding=\"async\"></div><div class=\"txt\"><span class=\"kicker\">Incentives · 8 min</span><h3>Planning a Sahara incentive</h3><p>How to get a group to Merzouga comfortably, and what to do once you are there.</p><span class=\"link\">Read <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></span></div></a><a href=\"/journal/best-time-to-visit-marrakech\" class=\"scard lift reveal\" data-item data-topic=\"venues\" style=\"transition-delay:0ms\"><div class=\"pic img-zoom\"><img src=\"https://images.pexels.com/photos/7391720/pexels-photo-7391720.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Riad lounge with carved plaster and lantern light\" loading=\"lazy\" decoding=\"async\"></div><div class=\"txt\"><span class=\"kicker\">Venues · 5 min</span><h3>Five riads that take a private buyout</h3><p>Small houses that close their doors for your group.</p><span class=\"link\">Read <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></span></div></a><a href=\"/journal/best-time-to-visit-marrakech\" class=\"scard lift reveal\" data-item data-topic=\"culture\" style=\"transition-delay:80ms\"><div class=\"pic img-zoom\"><img src=\"https://images.pexels.com/photos/22711555/pexels-photo-22711555.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Craft stalls in the Fès medina\" loading=\"lazy\" decoding=\"async\"></div><div class=\"txt\"><span class=\"kicker\">Culture · 7 min</span><h3>A first-timer’s guide to the Fès medina</h3><p>How a guided day in the medina works — and how to leave room for wandering.</p><span class=\"link\">Read <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></span></div></a></div>\n  <p class=\"empty\" data-empty hidden>No posts in this topic yet.</p>\n</div></section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ink center\"><span class=\"orb orb-soft\" aria-hidden=\"true\"></span><div class=\"container narrow-2 reveal\" style=\"margin-inline:auto\"><p class=\"eyebrow\">Newsletter</p><h2 class=\"h2 big\">New houses and ideas, <span class=\"it\">once a month.</span></h2>\n  <form class=\"news\" data-simple novalidate style=\"margin:2rem auto 0\"><label class=\"lbl\" for=\"j-news\">Your email</label><div class=\"row\"><input class=\"field\" id=\"j-news\" type=\"email\" required placeholder=\"you@studio.com\"><button class=\"btn btn-gold\" type=\"submit\">Subscribe</button></div><p class=\"ok\" data-done hidden>Thank you. Design preview only.</p></form></div></section>"
+   }
+  ],
+  "slug": "journal",
+  "title": "Journal",
+  "template": "default",
+  "sort_order": 17
+ }
+]

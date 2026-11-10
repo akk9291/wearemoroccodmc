@@ -1,0 +1,70 @@
+[
+ {
+  "group": "contact",
+  "key": "phone",
+  "value": "+212653051512"
+ },
+ {
+  "group": "contact",
+  "key": "phone_display",
+  "value": "+212 653 051 512"
+ },
+ {
+  "group": "contact",
+  "key": "email",
+  "value": "info@wearemoroccotravel.com"
+ },
+ {
+  "group": "contact",
+  "key": "address",
+  "value": "Av. Hassan II, Koutoubia Center II, 1er Étage, Bureau N°5, Marrakech"
+ },
+ {
+  "group": "social",
+  "key": "socials",
+  "value": [
+   {
+    "label": "Instagram",
+    "url": "#"
+   },
+   {
+    "label": "Facebook",
+    "url": "#"
+   }
+  ]
+ },
+ {
+  "group": "footer",
+  "key": "footer_blurb",
+  "value": "Private journeys, events and ground handling across Morocco, designed and run from our atelier in Marrakech. Local roots. Global standards."
+ },
+ {
+  "group": "footer",
+  "key": "copyright",
+  "value": "© 2026 We Are Morocco Travel."
+ },
+ {
+  "group": "footer",
+  "key": "footer_tagline",
+  "value": "Private travel · Events · DMC"
+ },
+ {
+  "group": "footer",
+  "key": "footer_columns",
+  "value": [
+   "Explore",
+   "Services",
+   "Atelier"
+  ]
+ },
+ {
+  "group": "ui",
+  "key": "icons",
+  "value": {
+   "arrow": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg>",
+   "star": "<svg viewBox=\"0 0 32 32\" aria-hidden=\"true\" class=\"star\"><path fill=\"currentColor\" d=\"M16 2.5 18.4 12.2 28.5 14.5 18.4 16.8 16 26.5 13.6 16.8 3.5 14.5 13.6 12.2Z\"/></svg>",
+   "check": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m5 12 4 4 10-10\"/></svg>",
+   "doc": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z\"/><path d=\"M14 3v5h5M9 13h6M9 17h6\"/></svg>"
+  }
+ }
+]

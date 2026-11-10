@@ -1,0 +1,92 @@
+[
+ {
+  "title": "Private dinner in the desert",
+  "slug": "private-dinner-in-the-desert",
+  "category": "gala desert",
+  "location": "Agafay · 40 min from Marrakech",
+  "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "image_alt": "Golden Sahara dunes at sunset in Merzouga",
+  "description": "Long tables, lanterns and a stone desert to yourselves.",
+  "sort_order": 1
+ },
+ {
+  "title": "A palace to yourselves",
+  "slug": "a-palace-to-yourselves",
+  "category": "gala culture",
+  "location": "Fès",
+  "image": "https://images.pexels.com/photos/27945049/pexels-photo-27945049.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "image_alt": "Palace courtyard with fountain and arches",
+  "description": "Exclusive buyout of a restored palace for a celebration.",
+  "sort_order": 2
+ },
+ {
+  "title": "A camp under the stars",
+  "slug": "a-camp-under-the-stars",
+  "category": "desert",
+  "location": "Merzouga · Sahara",
+  "image": "https://images.pexels.com/photos/10434667/pexels-photo-10434667.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+  "image_alt": "Private desert camp in the Sahara",
+  "description": "Camel at sunset, then a private camp with a proper bath.",
+  "sort_order": 3
+ },
+ {
+  "title": "A Berber village day",
+  "slug": "a-berber-village-day",
+  "category": "culture adventure",
+  "location": "High Atlas",
+  "image": "https://images.pexels.com/photos/29976840/pexels-photo-29976840.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "image_alt": "Kasbah in the Atlas foothills",
+  "description": "Valley walk and lunch with a local family.",
+  "sort_order": 4
+ },
+ {
+  "title": "Market to tagine",
+  "slug": "market-to-tagine",
+  "category": "food",
+  "location": "Essaouira",
+  "image": "https://images.pexels.com/photos/31070248/pexels-photo-31070248.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "image_alt": "Blue boats in the harbour at Essaouira",
+  "description": "A coastal cooking class with a local cook, by the harbour.",
+  "sort_order": 5
+ },
+ {
+  "title": "The after-hours souk",
+  "slug": "the-after-hours-souk",
+  "category": "culture",
+  "location": "Marrakech medina",
+  "image": "https://images.pexels.com/photos/22711555/pexels-photo-22711555.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "image_alt": "Craft stalls in the Fès medina",
+  "description": "The medina after the crowds leave, with an artisan guide.",
+  "sort_order": 6
+ },
+ {
+  "title": "Cooking with a family",
+  "slug": "cooking-with-a-family",
+  "category": "food culture",
+  "location": "Fès",
+  "image": "https://images.pexels.com/photos/7391720/pexels-photo-7391720.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "image_alt": "Riad lounge with carved plaster and lantern light",
+  "description": "A home kitchen in the medina, and lunch at the family table.",
+  "sort_order": 7
+ },
+ {
+  "title": "Quad tracks & mint tea",
+  "slug": "quad-tracks-mint-tea",
+  "category": "adventure",
+  "location": "Agafay or Atlas",
+  "image": "https://images.pexels.com/photos/37684084/pexels-photo-37684084.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+  "image_alt": "The earthen kasbah of Aït Benhaddou",
+  "description": "Desert tracks for teams, with a mint-tea finish line.",
+  "sort_order": 8
+ },
+ {
+  "title": "Balloon at sunrise",
+  "slug": "balloon-at-sunrise",
+  "category": "adventure desert",
+  "location": "Marrakech",
+  "image": "https://images.pexels.com/photos/30320422/pexels-photo-30320422.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+  "image_alt": "Camels crossing the dunes",
+  "description": "Over the palm groves with the Atlas on the horizon.",
+  "sort_order": 9
+ }
+]

@@ -1,0 +1,270 @@
+[
+ {
+  "meta_title": "Tailor-made journeys | We Are Morocco",
+  "meta_description": "No two of our private journeys are the same. Tell us how you like to travel and we build the route, choose the houses and introduce you to the people ",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_variant": null,
+  "hero_image": "https://images.pexels.com/photos/37064558/pexels-photo-37064558.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "hero_image_alt": "A blue-washed alley in the north",
+  "hero_crumb": "Tailor-made journeys",
+  "hero_crumbs": [
+   {
+    "label": "Home",
+    "url": "/"
+   },
+   {
+    "label": "Services",
+    "url": "/services"
+   },
+   {
+    "label": "Tailor-made journeys",
+    "url": null
+   }
+  ],
+  "hero_eyebrow": "Tailor-made journeys",
+  "hero_title": "Morocco, <span class=\"it block\">designed around you.</span>",
+  "hero_subtitle": "No two of our private journeys are the same. Tell us how you like to travel and we build the route, choose the houses and introduce you to the people who make Morocco special.",
+  "hero_extra": "<div class=\"ctas\"><button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"custom\"><span>Design my journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"/case-studies\">See case studies</a></div><dl class=\"facts\"><div><span>Travelers</span><b>1 to 12</b></div><div><span>Typical length</span><b>7 to 14 days</b></div><div><span>Concierge</span><b>24/7</b></div></dl>",
+  "sections": [
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-parch\"><div class=\"container\"><div class=\"head-row\"><div class=\"reveal\"><p class=\"eyebrow\">What we handle</p><h2 class=\"h2 big\">Every detail, <span class=\"it\">under one roof.</span></h2></div><p class=\"lead reveal\" style=\"transition-delay:120ms\">One producer owns your file from first sketch to final transfer.</p></div><div class=\"mt-14\"><div class=\"grid g-3\"><article class=\"vcard lift reveal\" style=\"transition-delay:0ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"m15.5 8.5-2 5-5 2 2-5z\"/></svg></span><h3>A dedicated journey producer</h3><p>One person shapes your trip and stays with it.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:80ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"9\" cy=\"8\" r=\"3.5\"/><path d=\"M2.5 20a6.5 6.5 0 0 1 13 0\"/><path d=\"M16 4.5a3.5 3.5 0 0 1 0 7M21.5 20a6.5 6.5 0 0 0-4-6\"/></svg></span><h3>A private Guardian Guide</h3><p>Your own host and cultural interpreter, at your pace.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:160ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 21h18M5 21V10l7-6 7 6v11\"/><path d=\"M10 21v-5a2 2 0 0 1 4 0v5M8 12h.01M16 12h.01\"/></svg></span><h3>Hand-picked houses</h3><p>Palaces, riads and camps we know room by room.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:240ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"8\"/><circle cx=\"12\" cy=\"12\" r=\"4\"/></svg></span><h3>Tables that are not listed</h3><p>From a family kitchen in Fès to a chef’s night in Marrakech.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:320ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"4\"/><path d=\"M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4\"/></svg></span><h3>A night on the erg</h3><p>Dunes, stars and a private tent with a proper bath.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:400ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M21 12a8 8 0 0 1-11.6 7.1L4 20l1-4.6A8 8 0 1 1 21 12z\"/></svg></span><h3>24/7 concierge</h3><p>A single WhatsApp thread, at any hour.</p></article></div></div></div></section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ivory\"><div class=\"container cols c-8-4 items-start\"><div><div class=\"reveal\"><p class=\"eyebrow\">Sample program</p><h2 class=\"h2 big\">A first week in Morocco, <span class=\"it\">for two.</span></h2></div><div class=\"mt-14\"><ol class=\"days\"><li class=\"day reveal\"><span class=\"d\">01<small>Day</small></span><div><h3>Marrakech</h3><p>Riad check-in, a private medina walk and dinner on a rooftop.</p></div><div class=\"thumb\"><img src=\"https://images.pexels.com/photos/15260622/pexels-photo-15260622.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Marrakech palace interior\" loading=\"lazy\" decoding=\"async\"></div></li><li class=\"day reveal\"><span class=\"d\">03<small>Day</small></span><div><h3>Atlas and the road south</h3><p>Over the Tizi n'Tichka pass to Aït Benhaddou and the Dades Valley.</p></div><div class=\"thumb\"><img src=\"https://images.pexels.com/photos/37684084/pexels-photo-37684084.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800\" alt=\"The earthen kasbah of Aït Benhaddou\" loading=\"lazy\" decoding=\"async\"></div></li><li class=\"day reveal\"><span class=\"d\">05<small>Day</small></span><div><h3>Sahara</h3><p>Camel trek at sunset and two nights in a luxury camp at Merzouga.</p></div><div class=\"thumb\"><img src=\"https://images.pexels.com/photos/10434667/pexels-photo-10434667.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800\" alt=\"Private desert camp in the Sahara\" loading=\"lazy\" decoding=\"async\"></div></li><li class=\"day reveal\"><span class=\"d\">07<small>Day</small></span><div><h3>Fès</h3><p>A cooking session with a family, then your onward flight.</p></div><div class=\"thumb\"><img src=\"https://images.pexels.com/photos/22711555/pexels-photo-22711555.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Craft stalls in the Fès medina\" loading=\"lazy\" decoding=\"async\"></div></li></ol></div></div>\n<aside class=\"sticky reveal-right\"><div class=\"box\"><h3>Make it yours</h3><p>This program is a starting point. Every day can be adjusted to your dates, group and budget.</p><button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"custom\"><span>Adapt this program</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button></div></aside></div></section><section class=\"sec-sm bg-parch\"><div class=\"container cols c-7-5 items-center\"><div class=\"reveal\"><p class=\"eyebrow\">For travel advisors</p><h2 class=\"h2 big\">We work <span class=\"it\">white-label.</span></h2><p class=\"lead\">Net rates, and documents in your brand on request. We never contact your clients directly.</p></div><p class=\"reveal\"><a class=\"btn btn-outline\" href=\"/services/ground-handling\"><span>Ground handling for the trade</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></a></p></div></section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ink\"><span class=\"orb orb-soft\" aria-hidden=\"true\"></span><div class=\"container\"><div class=\"reveal\"><p class=\"eyebrow\">Proof</p><h2 class=\"h2 big\">Trusted by people <span class=\"it\">who host for a living.</span></h2></div><div class=\"mt-14\"><div class=\"story\">\n      <div class=\"portrait img-zoom reveal-left\"><img src=\"https://images.pexels.com/photos/20511251/pexels-photo-20511251.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=600\" alt=\"[Name]\" loading=\"lazy\" decoding=\"async\"><div class=\"cap\"><b id=\"s-name\">[Name]</b><span id=\"s-role\">[Role] · [Company]</span></div></div>\n      <div class=\"reveal-right\"><span class=\"sample-tag\">Sample quote · replace with a real client</span><blockquote class=\"quote\" id=\"s-quote\">“Our 120 guests landed in Marrakech and never saw a single hitch. The Agafay gala is still the trip everyone mentions.”</blockquote>\n        <div class=\"story-meta\"><span class=\"kicker\" id=\"s-trip\">Sample · replace with a real client</span><div class=\"tabdots\"></div></div></div>\n    </div></div>\n  <p class=\"mt-10\"><a class=\"link\" href=\"/case-studies/agafay-gala\">Read a case study <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></a></p></div></section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ivory\"><div class=\"container cols c-4-8 items-start\"><div class=\"reveal\"><p class=\"eyebrow\">Questions</p><h2 class=\"h2 big\">Before <span class=\"it\">you ask.</span></h2><p class=\"lead\"><a class=\"link\" href=\"/faq\">All questions <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></a></p></div><div class=\"faq-list\"><!--wam:faqs group=\"service-tailor-made\" open=\"1\"--></div></div></section>"
+   },
+   {
+    "type": "cta",
+    "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Golden Sahara dunes at sunset in Merzouga",
+    "label": "Start here",
+    "title": "Ready to begin? <span class=\"it block\">Design your journey with us.</span>",
+    "lead": "The enquiry opens with this service selected. A producer replies within one business day.",
+    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"custom\"><span>Design my journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"/contact\">Talk to our team</a>"
+   },
+   {
+    "type": "script",
+    "name": "stories",
+    "placement": "services"
+   }
+  ],
+  "slug": "tailor-made",
+  "name": "Tailor-made journeys",
+  "eyebrow": "Tailor-made journeys",
+  "intro": "No two of our private journeys are the same. Tell us how you like to travel and we build the route, choose the houses and introduce you to the people who make Morocco special.",
+  "sort_order": 1,
+  "card_kicker": "Private · couples · families",
+  "card_summary": "Private trips built around one traveller, couple or family, with access you cannot book online.",
+  "card_image": "https://images.pexels.com/photos/37064558/pexels-photo-37064558.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "card_image_alt": "A blue-washed alley in the north"
+ },
+ {
+  "meta_title": "Incentives & groups | We Are Morocco",
+  "meta_description": "Morocco gives your top performers what a standard reward trip cannot: a few hours from Europe or one overnight from the East Coast, a different world ",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_variant": null,
+  "hero_image": "https://images.pexels.com/photos/10434667/pexels-photo-10434667.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+  "hero_image_alt": "Private desert camp in the Sahara",
+  "hero_crumb": "Incentives & groups",
+  "hero_crumbs": [
+   {
+    "label": "Home",
+    "url": "/"
+   },
+   {
+    "label": "Services",
+    "url": "/services"
+   },
+   {
+    "label": "Incentives & groups",
+    "url": null
+   }
+  ],
+  "hero_eyebrow": "Incentives & groups",
+  "hero_title": "Incentive travel people <span class=\"it block\">still talk about next year.</span>",
+  "hero_subtitle": "Morocco gives your top performers what a standard reward trip cannot: a few hours from Europe or one overnight from the East Coast, a different world on arrival. We build programs that mix comfort, adventure and moments nobody else gets to have.",
+  "hero_extra": "<div class=\"ctas\"><button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"incentive\"><span>Plan an incentive</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"/case-studies\">See case studies</a></div><dl class=\"facts\"><div><span>Group size</span><b>20 to 400+</b></div><div><span>Typical length</span><b>3 to 5 nights</b></div><div><span>Popular base</span><b>Marrakech</b></div></dl>",
+  "sections": [
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-parch\"><div class=\"container\"><div class=\"head-row\"><div class=\"reveal\"><p class=\"eyebrow\">What we handle</p><h2 class=\"h2 big\">Every detail, <span class=\"it\">under one roof.</span></h2></div><p class=\"lead reveal\" style=\"transition-delay:120ms\">One producer owns your file from first sketch to final transfer.</p></div><div class=\"mt-14\"><div class=\"grid g-3\"><article class=\"vcard lift reveal\" style=\"transition-delay:0ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"9\" cy=\"8\" r=\"3.5\"/><path d=\"M2.5 20a6.5 6.5 0 0 1 13 0\"/><path d=\"M16 4.5a3.5 3.5 0 0 1 0 7M21.5 20a6.5 6.5 0 0 0-4-6\"/></svg></span><h3>Airport meet & greet</h3><p>VIP fast track and a welcome team at arrivals.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:80ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 21h18M5 21V10l7-6 7 6v11\"/><path d=\"M10 21v-5a2 2 0 0 1 4 0v5M8 12h.01M16 12h.01\"/></svg></span><h3>Hotel & riad contracting</h3><p>Rooming lists, upgrades and full buyouts.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:160ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 16v-4l2-5h14l2 5v4H3z\"/><circle cx=\"7.5\" cy=\"16.5\" r=\"1.5\"/><circle cx=\"16.5\" cy=\"16.5\" r=\"1.5\"/><path d=\"M3 12h18\"/></svg></span><h3>Private coaches & 4x4 fleets</h3><p>Vetted drivers and vehicles for every transfer.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:240ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"m15.5 8.5-2 5-5 2 2-5z\"/></svg></span><h3>Licensed guides</h3><p>Small groups in the medina, one guide per group.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:320ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"4\"/><path d=\"M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4\"/></svg></span><h3>Team activities</h3><p>Quad biking, balloon flights, treasure hunts in the souk.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:400ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 9h18M5 9v11M19 9v11M8 9V5h8v4\"/></svg></span><h3>Themed dinners & venues</h3><p>Riad dinners, desert galas and private terraces.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:480ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><rect x=\"3\" y=\"8\" width=\"18\" height=\"13\" rx=\"1\"/><path d=\"M3 12h18M12 8v13M12 8S10 3 7.5 4.5 9 8 12 8zM12 8s2-5 4.5-3.5S15 8 12 8z\"/></svg></span><h3>Gifting & branding</h3><p>Welcome gifts, branded kits and artisan keepsakes.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:560ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M6 16V11a6 6 0 0 1 12 0v5l1.5 2h-15z\"/><path d=\"M10 20a2 2 0 0 0 4 0M12 3v2\"/></svg></span><h3>On-site hospitality desk</h3><p>A desk in your hotel, staffed throughout.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:640ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 3 4 6v6c0 4.5 3.4 8.3 8 9 4.6-.7 8-4.5 8-9V6z\"/><path d=\"m9 12 2 2 4-4\"/></svg></span><h3>Duty of care</h3><p>Insurance, emergency procedures and a 24/7 line.</p></article></div></div></div></section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ivory\"><div class=\"container cols c-8-4 items-start\"><div><div class=\"reveal\"><p class=\"eyebrow\">Sample program</p><h2 class=\"h2 big\">4 nights, Marrakech and Agafay, <span class=\"it\">80 guests.</span></h2></div><div class=\"mt-14\"><ol class=\"days\"><li class=\"day reveal\"><span class=\"d\">01<small>Day</small></span><div><h3>Arrival and welcome dinner</h3><p>Meet and greet at the airport, check in, then a welcome dinner in a private riad.</p></div><div class=\"thumb\"><img src=\"https://images.pexels.com/photos/7391720/pexels-photo-7391720.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Riad lounge with carved plaster and lantern light\" loading=\"lazy\" decoding=\"async\"></div></li><li class=\"day reveal\"><span class=\"d\">02<small>Day</small></span><div><h3>Medina discovery</h3><p>The medina in small groups with licensed guides. Afternoon at leisure, then rooftop cocktails.</p></div><div class=\"thumb\"><img src=\"https://images.pexels.com/photos/15260622/pexels-photo-15260622.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Marrakech palace interior\" loading=\"lazy\" decoding=\"async\"></div></li><li class=\"day reveal\"><span class=\"d\">03<small>Day</small></span><div><h3>Adventure and a desert gala</h3><p>Quad biking or a hot-air balloon flight, then a gala dinner under the stars in Agafay.</p></div><div class=\"thumb\"><img src=\"https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Golden Sahara dunes at sunset in Merzouga\" loading=\"lazy\" decoding=\"async\"></div></li><li class=\"day reveal\"><span class=\"d\">04<small>Day</small></span><div><h3>Atlas Mountains</h3><p>A Berber village visit and lunch with a local family.</p></div><div class=\"thumb\"><img src=\"https://images.pexels.com/photos/29976840/pexels-photo-29976840.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Kasbah in the Atlas foothills\" loading=\"lazy\" decoding=\"async\"></div></li><li class=\"day reveal\"><span class=\"d\">05<small>Day</small></span><div><h3>Departures</h3><p>Farewell breakfast and private transfers to the airport.</p></div><div class=\"thumb\"><img src=\"https://images.pexels.com/photos/27945049/pexels-photo-27945049.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Palace courtyard with fountain and arches\" loading=\"lazy\" decoding=\"async\"></div></li></ol></div></div>\n<aside class=\"sticky reveal-right\"><div class=\"box\"><h3>Make it yours</h3><p>This program is a starting point. Every day can be adjusted to your dates, group and budget.</p><button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"incentive\"><span>Adapt this program</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button></div></aside></div></section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ink\"><span class=\"orb orb-soft\" aria-hidden=\"true\"></span><div class=\"container\"><div class=\"reveal\"><p class=\"eyebrow\">Proof</p><h2 class=\"h2 big\">Trusted by people <span class=\"it\">who host for a living.</span></h2></div><div class=\"mt-14\"><div class=\"story\">\n      <div class=\"portrait img-zoom reveal-left\"><img src=\"https://images.pexels.com/photos/20511251/pexels-photo-20511251.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=600\" alt=\"[Name]\" loading=\"lazy\" decoding=\"async\"><div class=\"cap\"><b id=\"s-name\">[Name]</b><span id=\"s-role\">[Role] · [Company]</span></div></div>\n      <div class=\"reveal-right\"><span class=\"sample-tag\">Sample quote · replace with a real client</span><blockquote class=\"quote\" id=\"s-quote\">“Our 120 guests landed in Marrakech and never saw a single hitch. The Agafay gala is still the trip everyone mentions.”</blockquote>\n        <div class=\"story-meta\"><span class=\"kicker\" id=\"s-trip\">Sample · replace with a real client</span><div class=\"tabdots\"></div></div></div>\n    </div></div>\n  <p class=\"mt-10\"><a class=\"link\" href=\"/case-studies/agafay-gala\">Read a case study <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></a></p></div></section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ivory\"><div class=\"container cols c-4-8 items-start\"><div class=\"reveal\"><p class=\"eyebrow\">Questions</p><h2 class=\"h2 big\">Before <span class=\"it\">you ask.</span></h2><p class=\"lead\"><a class=\"link\" href=\"/faq\">All questions <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></a></p></div><div class=\"faq-list\"><!--wam:faqs group=\"service-incentives\" open=\"1\"--></div></div></section>"
+   },
+   {
+    "type": "cta",
+    "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Golden Sahara dunes at sunset in Merzouga",
+    "label": "Start here",
+    "title": "Ready to reward them? <span class=\"it block\">Plan an incentive with us.</span>",
+    "lead": "The enquiry opens with this service selected. A producer replies within one business day.",
+    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"incentive\"><span>Plan an incentive</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"/contact\">Talk to our team</a>"
+   },
+   {
+    "type": "script",
+    "name": "stories",
+    "placement": "services"
+   }
+  ],
+  "slug": "incentives",
+  "name": "Incentives & groups",
+  "eyebrow": "Incentives & groups",
+  "intro": "Morocco gives your top performers what a standard reward trip cannot: a few hours from Europe or one overnight from the East Coast, a different world on arrival. We build programs that mix comfort, adventure and moments nobody else gets to have.",
+  "sort_order": 2,
+  "card_kicker": "Groups · 20 to 400+ guests",
+  "card_summary": "Reward your top performers with a program they will talk about for years.",
+  "card_image": "https://images.pexels.com/photos/10434667/pexels-photo-10434667.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+  "card_image_alt": "Private desert camp in the Sahara"
+ },
+ {
+  "meta_title": "Events & gatherings | We Are Morocco",
+  "meta_description": "From a 30-person board retreat to a wedding in a palace garden or a 1,000-delegate congress, we source the venue, run the logistics and manage product",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_variant": null,
+  "hero_image": "https://images.pexels.com/photos/27945049/pexels-photo-27945049.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "hero_image_alt": "Palace courtyard with fountain and arches",
+  "hero_crumb": "Events & gatherings",
+  "hero_crumbs": [
+   {
+    "label": "Home",
+    "url": "/"
+   },
+   {
+    "label": "Services",
+    "url": "/services"
+   },
+   {
+    "label": "Events & gatherings",
+    "url": null
+   }
+  ],
+  "hero_eyebrow": "Events & gatherings",
+  "hero_title": "Gatherings that feel <span class=\"it block\">like a gift.</span>",
+  "hero_subtitle": "From a 30-person board retreat to a wedding in a palace garden or a 1,000-delegate congress, we source the venue, run the logistics and manage production so it runs to the minute.",
+  "hero_extra": "<div class=\"ctas\"><button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"event\"><span>Plan an event</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"/case-studies\">See case studies</a></div><dl class=\"facts\"><div><span>Group size</span><b>30 to 1,000+</b></div><div><span>Venues</span><b>Palaces to kasbahs</b></div><div><span>Hubs</span><b>Marrakech · Agafay · Fès</b></div></dl>",
+  "sections": [
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-parch\"><div class=\"container\"><div class=\"head-row\"><div class=\"reveal\"><p class=\"eyebrow\">What we handle</p><h2 class=\"h2 big\">Every detail, <span class=\"it\">under one roof.</span></h2></div><p class=\"lead reveal\" style=\"transition-delay:120ms\">One producer owns your file from first sketch to final transfer.</p></div><div class=\"mt-14\"><div class=\"grid g-3\"><article class=\"vcard lift reveal\" style=\"transition-delay:0ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 21h18M5 21V10l7-6 7 6v11\"/><path d=\"M10 21v-5a2 2 0 0 1 4 0v5M8 12h.01M16 12h.01\"/></svg></span><h3>Venue sourcing</h3><p>Palaces, riads, kasbahs, resorts and convention centres.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:80ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 16v-4l2-5h14l2 5v4H3z\"/><circle cx=\"7.5\" cy=\"16.5\" r=\"1.5\"/><circle cx=\"16.5\" cy=\"16.5\" r=\"1.5\"/><path d=\"M3 12h18\"/></svg></span><h3>Guest transport & stays</h3><p>Room blocks, shuttles and arrival desks.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:160ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z\"/><path d=\"M14 3v5h5M9 13h6M9 17h6\"/></svg></span><h3>Registration support</h3><p>Guest lists, badges and on-site check-in.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:240ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><rect x=\"9\" y=\"3\" width=\"6\" height=\"11\" rx=\"3\"/><path d=\"M5 11a7 7 0 0 0 14 0M12 18v3\"/></svg></span><h3>Audiovisual & production</h3><p>Stage, sound and light with trusted local crews.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:320ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 9h18M5 9v11M19 9v11M8 9V5h8v4\"/></svg></span><h3>Catering & themed dinners</h3><p>From coffee breaks to a gala for 400.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:400ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 3 4 6v6c0 4.5 3.4 8.3 8 9 4.6-.7 8-4.5 8-9V6z\"/><path d=\"m9 12 2 2 4-4\"/></svg></span><h3>Permits & local liaison</h3><p>Authority approvals, security and licences.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:480ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18\"/></svg></span><h3>Interpreters & hosts</h3><p>Multilingual staff for sessions and welcome.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:560ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"4\"/><path d=\"M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4\"/></svg></span><h3>Pre- and post-event tours</h3><p>Extend the trip with a desert night or the Atlas.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:640ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 7v5l3 2\"/></svg></span><h3>Run of show</h3><p>A minute-by-minute plan and an on-site lead.</p></article></div></div></div></section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ink\"><div class=\"container\"><div class=\"head-row\"><div class=\"reveal\"><p class=\"eyebrow\">What we produce</p><h2 class=\"h2 big\">Events, <span class=\"it\">edited.</span></h2></div></div><div class=\"grid g-3 mt-14\"><a class=\"dcard reveal\" href=\"/case-studies\"><img src=\"https://images.pexels.com/photos/27945049/pexels-photo-27945049.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Palace courtyard with fountain and arches\" loading=\"lazy\" decoding=\"async\"><div class=\"cap\"><span class=\"kicker\" style=\"color:var(--gold-light)\">Retreats</span><h3>Board & leadership retreats</h3><p class=\"more\">Quiet houses with room to think, and dinners with no speeches.</p></div></a><a class=\"dcard reveal\" href=\"/case-studies\"><img src=\"https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Golden Sahara dunes at sunset in Merzouga\" loading=\"lazy\" decoding=\"async\"><div class=\"cap\"><span class=\"kicker\" style=\"color:var(--gold-light)\">Galas</span><h3>Gala dinners & award nights</h3><p class=\"more\">Desert, palace or rooftop — produced to the minute.</p></div></a><a class=\"dcard reveal\" href=\"/case-studies\"><img src=\"https://images.pexels.com/photos/7391720/pexels-photo-7391720.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Riad lounge with carved plaster and lantern light\" loading=\"lazy\" decoding=\"async\"><div class=\"cap\"><span class=\"kicker\" style=\"color:var(--gold-light)\">Celebrations</span><h3>Weddings & private celebrations</h3><p class=\"more\">Riads, gardens and long tables lit by lanterns.</p></div></a><a class=\"dcard reveal\" href=\"/case-studies\"><img src=\"https://images.pexels.com/photos/15260622/pexels-photo-15260622.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Marrakech palace interior\" loading=\"lazy\" decoding=\"async\"><div class=\"cap\"><span class=\"kicker\" style=\"color:var(--gold-light)\">Launches</span><h3>Product launches</h3><p class=\"more\">A setting your audience will photograph.</p></div></a><a class=\"dcard reveal\" href=\"/case-studies\"><img src=\"https://images.pexels.com/photos/22711555/pexels-photo-22711555.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Craft stalls in the Fès medina\" loading=\"lazy\" decoding=\"async\"><div class=\"cap\"><span class=\"kicker\" style=\"color:var(--gold-light)\">Conferences</span><h3>Conferences & congresses</h3><p class=\"more\">Plenary, breakouts and delegate logistics.</p></div></a><a class=\"dcard reveal\" href=\"/case-studies\"><img src=\"https://images.pexels.com/photos/31070248/pexels-photo-31070248.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Blue boats in the harbour at Essaouira\" loading=\"lazy\" decoding=\"async\"><div class=\"cap\"><span class=\"kicker\" style=\"color:var(--gold-light)\">Add-ons</span><h3>Pre- and post-event journeys</h3><p class=\"more\">Essaouira, the Atlas or the Sahara.</p></div></a></div></div></section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ink\"><span class=\"orb orb-soft\" aria-hidden=\"true\"></span><div class=\"container\"><div class=\"reveal\"><p class=\"eyebrow\">Proof</p><h2 class=\"h2 big\">Trusted by people <span class=\"it\">who host for a living.</span></h2></div><div class=\"mt-14\"><div class=\"story\">\n      <div class=\"portrait img-zoom reveal-left\"><img src=\"https://images.pexels.com/photos/20511251/pexels-photo-20511251.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=600\" alt=\"[Name]\" loading=\"lazy\" decoding=\"async\"><div class=\"cap\"><b id=\"s-name\">[Name]</b><span id=\"s-role\">[Role] · [Company]</span></div></div>\n      <div class=\"reveal-right\"><span class=\"sample-tag\">Sample quote · replace with a real client</span><blockquote class=\"quote\" id=\"s-quote\">“Our 120 guests landed in Marrakech and never saw a single hitch. The Agafay gala is still the trip everyone mentions.”</blockquote>\n        <div class=\"story-meta\"><span class=\"kicker\" id=\"s-trip\">Sample · replace with a real client</span><div class=\"tabdots\"></div></div></div>\n    </div></div>\n  <p class=\"mt-10\"><a class=\"link\" href=\"/case-studies/agafay-gala\">Read a case study <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></a></p></div></section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ivory\"><div class=\"container cols c-4-8 items-start\"><div class=\"reveal\"><p class=\"eyebrow\">Questions</p><h2 class=\"h2 big\">Before <span class=\"it\">you ask.</span></h2><p class=\"lead\"><a class=\"link\" href=\"/faq\">All questions <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></a></p></div><div class=\"faq-list\"><!--wam:faqs group=\"service-events\" open=\"1\"--></div></div></section>"
+   },
+   {
+    "type": "cta",
+    "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Golden Sahara dunes at sunset in Merzouga",
+    "label": "Start here",
+    "title": "Planning a gathering? <span class=\"it block\">Let us produce it.</span>",
+    "lead": "The enquiry opens with this service selected. A producer replies within one business day.",
+    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"event\"><span>Plan an event</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"/contact\">Talk to our team</a>"
+   },
+   {
+    "type": "script",
+    "name": "stories",
+    "placement": "services"
+   }
+  ],
+  "slug": "events",
+  "name": "Events & gatherings",
+  "eyebrow": "Events & gatherings",
+  "intro": "From a 30-person board retreat to a wedding in a palace garden or a 1,000-delegate congress, we source the venue, run the logistics and manage production so it runs to the minute.",
+  "sort_order": 3,
+  "card_kicker": "Weddings · retreats · galas",
+  "card_summary": "Board retreats, product launches, weddings and gala dinners, with full production and logistics.",
+  "card_image": "https://images.pexels.com/photos/27945049/pexels-photo-27945049.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "card_image_alt": "Palace courtyard with fountain and arches"
+ },
+ {
+  "meta_title": "Ground handling | We Are Morocco",
+  "meta_description": "We are a local atelier and a reliable DMC: we design, we hold, we execute. Your advisor remains your relationship. We remain the ground — for private ",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_variant": null,
+  "hero_image": "https://images.pexels.com/photos/22711555/pexels-photo-22711555.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "hero_image_alt": "Craft stalls in the Fès medina",
+  "hero_crumb": "Ground handling",
+  "hero_crumbs": [
+   {
+    "label": "Home",
+    "url": "/"
+   },
+   {
+    "label": "Services",
+    "url": "/services"
+   },
+   {
+    "label": "Ground handling",
+    "url": null
+   }
+  ],
+  "hero_eyebrow": "Ground handling",
+  "hero_title": "Your reliable ground <span class=\"it block\">in Morocco.</span>",
+  "hero_subtitle": "We are a local atelier and a reliable DMC: we design, we hold, we execute. Your advisor remains your relationship. We remain the ground — for private clients, series groups, FIT and special interest tours year-round.",
+  "hero_extra": "<div class=\"ctas\"><button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"advisor\"><span>Request trade rates</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"/case-studies\">See case studies</a></div><dl class=\"facts\"><div><span>For</span><b>Advisors · operators</b></div><div><span>Rates</span><b>Net</b></div><div><span>Proposals</span><b>Within days</b></div></dl>",
+  "sections": [
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-parch\"><div class=\"container\"><div class=\"head-row\"><div class=\"reveal\"><p class=\"eyebrow\">What we handle</p><h2 class=\"h2 big\">Every detail, <span class=\"it\">under one roof.</span></h2></div><p class=\"lead reveal\" style=\"transition-delay:120ms\">One producer owns your file from first sketch to final transfer.</p></div><div class=\"mt-14\"><div class=\"grid g-3\"><article class=\"vcard lift reveal\" style=\"transition-delay:0ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z\"/><path d=\"M14 3v5h5M9 13h6M9 17h6\"/></svg></span><h3>Net rates, fast proposals</h3><p>Itemised proposals, honest about what is possible.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:80ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m12 3 2.5 6.5L21 12l-6.5 2.5L12 21l-2.5-6.5L3 12l6.5-2.5z\"/></svg></span><h3>White-label documents</h3><p>Vouchers and itineraries in your brand.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:160ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 3 4 6v6c0 4.5 3.4 8.3 8 9 4.6-.7 8-4.5 8-9V6z\"/><path d=\"m9 12 2 2 4-4\"/></svg></span><h3>No direct contact</h3><p>We never approach your clients.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:240ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"9\" cy=\"8\" r=\"3.5\"/><path d=\"M2.5 20a6.5 6.5 0 0 1 13 0\"/><path d=\"M16 4.5a3.5 3.5 0 0 1 0 7M21.5 20a6.5 6.5 0 0 0-4-6\"/></svg></span><h3>Private, series and FIT</h3><p>From one couple to fixed departures.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:320ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"m15.5 8.5-2 5-5 2 2-5z\"/></svg></span><h3>Special interest</h3><p>Photography, food, trekking, textiles and design.</p></article><article class=\"vcard lift reveal\" style=\"transition-delay:400ms\"><span class=\"ico\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M6 16V11a6 6 0 0 1 12 0v5l1.5 2h-15z\"/><path d=\"M10 20a2 2 0 0 0 4 0M12 3v2\"/></svg></span><h3>24/7 support</h3><p>An emergency line for your travelers.</p></article></div></div></div></section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ink\"><span class=\"orb orb-soft\" aria-hidden=\"true\"></span><div class=\"container\"><div class=\"reveal\"><p class=\"eyebrow\">Proof</p><h2 class=\"h2 big\">Trusted by people <span class=\"it\">who host for a living.</span></h2></div><div class=\"mt-14\"><div class=\"story\">\n      <div class=\"portrait img-zoom reveal-left\"><img src=\"https://images.pexels.com/photos/20511251/pexels-photo-20511251.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=600\" alt=\"[Name]\" loading=\"lazy\" decoding=\"async\"><div class=\"cap\"><b id=\"s-name\">[Name]</b><span id=\"s-role\">[Role] · [Company]</span></div></div>\n      <div class=\"reveal-right\"><span class=\"sample-tag\">Sample quote · replace with a real client</span><blockquote class=\"quote\" id=\"s-quote\">“Our 120 guests landed in Marrakech and never saw a single hitch. The Agafay gala is still the trip everyone mentions.”</blockquote>\n        <div class=\"story-meta\"><span class=\"kicker\" id=\"s-trip\">Sample · replace with a real client</span><div class=\"tabdots\"></div></div></div>\n    </div></div>\n  <p class=\"mt-10\"><a class=\"link\" href=\"/case-studies/agafay-gala\">Read a case study <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></a></p></div></section>"
+   },
+   {
+    "type": "html",
+    "html": "<section class=\"sec bg-ivory\"><div class=\"container cols c-4-8 items-start\"><div class=\"reveal\"><p class=\"eyebrow\">Questions</p><h2 class=\"h2 big\">Before <span class=\"it\">you ask.</span></h2><p class=\"lead\"><a class=\"link\" href=\"/faq\">All questions <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></a></p></div><div class=\"faq-list\"><!--wam:faqs group=\"service-ground-handling\" open=\"1\"--></div></div></section>"
+   },
+   {
+    "type": "cta",
+    "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Golden Sahara dunes at sunset in Merzouga",
+    "label": "Start here",
+    "title": "Ready to work together? <span class=\"it block\">Request trade rates.</span>",
+    "lead": "The enquiry opens with this service selected. A producer replies within one business day.",
+    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"advisor\"><span>Request trade rates</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"/contact\">Talk to our team</a>"
+   },
+   {
+    "type": "script",
+    "name": "stories",
+    "placement": "services"
+   }
+  ],
+  "slug": "ground-handling",
+  "name": "Ground handling (DMC)",
+  "eyebrow": "Ground handling",
+  "intro": "We are a local atelier and a reliable DMC: we design, we hold, we execute. Your advisor remains your relationship. We remain the ground — for private clients, series groups, FIT and special interest tours year-round.",
+  "sort_order": 4,
+  "card_kicker": "For travel advisors & operators",
+  "card_summary": "Net rates, fast proposals and a team that treats your clients as their own.",
+  "card_image": "https://images.pexels.com/photos/22711555/pexels-photo-22711555.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "card_image_alt": "Craft stalls in the Fès medina"
+ }
+]

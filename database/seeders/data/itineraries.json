@@ -1,0 +1,841 @@
+[
+ {
+  "slug": "imperial-cities",
+  "title": "Imperial Morocco",
+  "meta_title": "Imperial Morocco | Signature Journey | We Are Morocco",
+  "meta_description": "Imperial Morocco, 8 days / 7 nights: Casablanca · Rabat · Fès · Marrakech. A refined introduction to Morocco's imperial heritage, connecting historic capit",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_image": "https://images.pexels.com/photos/15260622/pexels-photo-15260622.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "hero_image_alt": "Marrakech palace interior",
+  "hero_eyebrow": "01 · Signature journey",
+  "hero_title": "Imperial Morocco <span class=\"it block\">The Elegant Introduction</span>",
+  "summary": "A refined introduction to Morocco's imperial heritage, connecting historic capitals, medina culture, architecture, craftsmanship and an extended Marrakech stay.",
+  "hero_subtitle": "A refined introduction to Morocco's imperial heritage, connecting historic capitals, medina culture, architecture, craftsmanship and an extended Marrakech stay.",
+  "hero_crumbs": [
+   {
+    "label": "Home",
+    "url": "/"
+   },
+   {
+    "label": "Journeys",
+    "url": "/itineraries"
+   },
+   {
+    "label": "Imperial Morocco",
+    "url": null
+   }
+  ],
+  "hero_variant": null,
+  "hero_extra": null,
+  "number": "01",
+  "is_signature": true,
+  "duration_label": "8 days / 7 nights",
+  "days": 8,
+  "nights": 7,
+  "route": "Casablanca · Rabat · Fès · Marrakech",
+  "route_stops": [
+   "Casablanca",
+   "Rabat",
+   "Fès",
+   "Marrakech"
+  ],
+  "inquiry_key": "imperial-morocco",
+  "character": "An elegant city-focused journey for travelers seeking imperial history, cultural depth and a generous Marrakech stay.",
+  "includes": [
+   "Private airport transfers and ground transportation as specified",
+   "A dedicated private English-speaking Guardian Guide",
+   "Accommodation and meal plan as stated in the final proposal",
+   "Daily breakfast",
+   "Visits and experiences listed in the confirmed itinerary"
+  ],
+  "excludes": [
+   "International flights",
+   "Travel insurance",
+   "Visas or entry documentation",
+   "Meals not specified as included, and beverages beyond stated inclusions",
+   "Optional experiences not confirmed in the itinerary",
+   "Personal expenses, gratuities, upgrades and supplements"
+  ],
+  "gallery": [
+   {
+    "image": "https://images.pexels.com/photos/15260622/pexels-photo-15260622.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "alt": "Marrakech palace interior"
+   },
+   {
+    "image": "https://images.pexels.com/photos/22711555/pexels-photo-22711555.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "alt": "Craft stalls in the Fès medina"
+   },
+   {
+    "image": "https://images.pexels.com/photos/27945049/pexels-photo-27945049.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "alt": "Palace courtyard with fountain and arches"
+   },
+   {
+    "image": "https://images.pexels.com/photos/7391720/pexels-photo-7391720.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "alt": "Riad lounge with carved plaster and lantern light"
+   },
+   {
+    "image": "https://images.pexels.com/photos/50630/pexels-photo-50630.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "alt": "A guest looking out over Marrakech at dusk from a private terrace"
+   }
+  ],
+  "final_cta": {
+   "type": "cta",
+   "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+   "image_alt": "Golden Sahara dunes at sunset in Merzouga",
+   "label": "Your Morocco, your way",
+   "title": "Like the shape of it? <span class=\"it block\">We will fit it to you.</span>",
+   "lead": "Send your dates and who is traveling. A producer replies with a tailored version within days.",
+   "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"imperial-morocco\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+  },
+  "sort_order": 1,
+  "days_list": [
+   {
+    "day_no": 1,
+    "title": "Arrive in Casablanca",
+    "description": "Meet your team on arrival and transfer to your hotel. Depending on arrival time, enjoy a gentle introduction to the city or time to settle in.",
+    "image": "https://images.pexels.com/photos/27945049/pexels-photo-27945049.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Palace courtyard with fountain and arches"
+   },
+   {
+    "day_no": 2,
+    "title": "Casablanca → Rabat → Fès",
+    "description": "Discover selected highlights of Casablanca before continuing to Rabat for Hassan Tower, the Mohammed V Mausoleum and the Kasbah of the Udayas, time permitting. Continue to Fès.",
+    "image": "https://images.pexels.com/photos/15260622/pexels-photo-15260622.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Marrakech palace interior"
+   },
+   {
+    "day_no": 3,
+    "title": "Fès — The Living Medina",
+    "description": "Explore Fès el-Bali with your Guardian Guide, discovering historic madrasas, artisan quarters, Nejjarine Square, traditional craftsmanship and the city's layered cultural heritage.",
+    "image": "https://images.pexels.com/photos/22711555/pexels-photo-22711555.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Craft stalls in the Fès medina"
+   },
+   {
+    "day_no": 4,
+    "title": "Fès — Heritage & Craft",
+    "description": "A second day allows a deeper exploration of Fès, including the Mellah and Jewish heritage sites, pottery and zellij traditions, or other interests selected with your advisor.",
+    "image": "https://images.pexels.com/photos/22711555/pexels-photo-22711555.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Craft stalls in the Fès medina"
+   },
+   {
+    "day_no": 5,
+    "title": "Fès → Marrakech",
+    "description": "Travel to Marrakech by private vehicle. This is a substantial overland transfer; confirm timing around guest preferences and road conditions. Arrive and settle into your riad or hotel.",
+    "image": "https://images.pexels.com/photos/29976840/pexels-photo-29976840.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Kasbah in the Atlas foothills"
+   },
+   {
+    "day_no": 6,
+    "title": "Marrakech — Imperial Marrakech",
+    "description": "Discover the city's historic and cultural landmarks, which may include Bahia Palace, the Saadian Tombs, Koutoubia surroundings and Jemaa el-Fna, paced to the guests' interests.",
+    "image": "https://images.pexels.com/photos/15260622/pexels-photo-15260622.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Marrakech palace interior"
+   },
+   {
+    "day_no": 7,
+    "title": "Marrakech — Your Way",
+    "description": "Enjoy a flexible day for gardens, art, culinary discovery, wellness, artisan encounters, photography or a private shopping experience if requested.",
+    "image": "https://images.pexels.com/photos/7391720/pexels-photo-7391720.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Riad lounge with carved plaster and lantern light"
+   },
+   {
+    "day_no": 8,
+    "title": "Departure",
+    "description": "Private transfer to the airport for your onward journey.",
+    "image": "https://images.pexels.com/photos/50630/pexels-photo-50630.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "A guest looking out over Marrakech at dusk from a private terrace"
+   }
+  ],
+  "currency": "EUR",
+  "price_from": null,
+  "card_image": "https://images.pexels.com/photos/15260622/pexels-photo-15260622.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "card_image_alt": "Marrakech palace interior",
+  "tagline": "The Elegant Introduction",
+  "filter_type": "culture private",
+  "filter_dest": "casablanca fes marrakech",
+  "filter_len": "week",
+  "card_route": "Casablanca · Rabat · Fès · Marrakech",
+  "highlights": [
+   "Private Guardian Guide throughout",
+   "Two full days in the Fès medina",
+   "Rabat's imperial landmarks",
+   "An extended, flexible Marrakech stay"
+  ],
+  "destinations": [
+   "marrakech",
+   "fes"
+  ]
+ },
+ {
+  "slug": "magical-morocco",
+  "title": "Magical Morocco",
+  "meta_title": "Magical Morocco | Signature Journey | We Are Morocco",
+  "meta_description": "Magical Morocco, 11 days / 10 nights: Rabat · Fès · Casablanca · Marrakech · Agafay · High Atlas. An immersive journey balancing cultural discovery with Ma",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_image": "https://images.pexels.com/photos/29976840/pexels-photo-29976840.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "hero_image_alt": "Kasbah in the Atlas foothills",
+  "hero_eyebrow": "02 · Signature journey",
+  "hero_title": "Magical Morocco <span class=\"it block\">Culture, Marrakech & Mountains</span>",
+  "summary": "An immersive journey balancing cultural discovery with Marrakech, an Agafay glamping experience and a slower-paced retreat in the Atlas Mountains.",
+  "hero_subtitle": "An immersive journey balancing cultural discovery with Marrakech, an Agafay glamping experience and a slower-paced retreat in the Atlas Mountains.",
+  "hero_crumbs": [
+   {
+    "label": "Home",
+    "url": "/"
+   },
+   {
+    "label": "Journeys",
+    "url": "/itineraries"
+   },
+   {
+    "label": "Magical Morocco",
+    "url": null
+   }
+  ],
+  "hero_variant": null,
+  "hero_extra": null,
+  "number": "02",
+  "is_signature": true,
+  "duration_label": "11 days / 10 nights",
+  "days": 11,
+  "nights": 10,
+  "route": "Rabat · Fès · Casablanca · Marrakech · Agafay · High Atlas",
+  "route_stops": [
+   "Rabat",
+   "Fès",
+   "Casablanca",
+   "Marrakech",
+   "Agafay",
+   "High Atlas"
+  ],
+  "inquiry_key": "magical-morocco",
+  "character": "Culture, Marrakech and mountains, with space to slow down and adapt the experience to each traveler.",
+  "includes": [
+   "Private airport transfers and ground transportation as specified",
+   "A dedicated private English-speaking Guardian Guide",
+   "Accommodation and meal plan as stated in the final proposal",
+   "Daily breakfast",
+   "Visits and experiences listed in the confirmed itinerary"
+  ],
+  "excludes": [
+   "International flights",
+   "Travel insurance",
+   "Visas or entry documentation",
+   "Meals not specified as included, and beverages beyond stated inclusions",
+   "Optional experiences not confirmed in the itinerary",
+   "Personal expenses, gratuities, upgrades and supplements"
+  ],
+  "gallery": [
+   {
+    "image": "https://images.pexels.com/photos/29976840/pexels-photo-29976840.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "alt": "Kasbah in the Atlas foothills"
+   },
+   {
+    "image": "https://images.pexels.com/photos/22711555/pexels-photo-22711555.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "alt": "Craft stalls in the Fès medina"
+   },
+   {
+    "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "alt": "Golden Sahara dunes at sunset in Merzouga"
+   },
+   {
+    "image": "https://images.pexels.com/photos/15260622/pexels-photo-15260622.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "alt": "Marrakech palace interior"
+   },
+   {
+    "image": "https://images.pexels.com/photos/37684084/pexels-photo-37684084.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+    "alt": "The earthen kasbah of Aït Benhaddou"
+   }
+  ],
+  "final_cta": {
+   "type": "cta",
+   "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+   "image_alt": "Golden Sahara dunes at sunset in Merzouga",
+   "label": "Your Morocco, your way",
+   "title": "Like the shape of it? <span class=\"it block\">We will fit it to you.</span>",
+   "lead": "Send your dates and who is traveling. A producer replies with a tailored version within days.",
+   "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"magical-morocco\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+  },
+  "sort_order": 2,
+  "days_list": [
+   {
+    "day_no": 1,
+    "title": "Arrive in Casablanca or Rabat",
+    "description": "Meet your team and transfer to Rabat for an easy first evening. Overnight in Rabat.",
+    "image": "https://images.pexels.com/photos/27945049/pexels-photo-27945049.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Palace courtyard with fountain and arches"
+   },
+   {
+    "day_no": 2,
+    "title": "Rabat → Fès",
+    "description": "Discover Rabat's historic landmarks, such as Hassan Tower, the Mohammed V Mausoleum and the Kasbah of the Udayas, before continuing to Fès.",
+    "image": "https://images.pexels.com/photos/15260622/pexels-photo-15260622.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Marrakech palace interior"
+   },
+   {
+    "day_no": 3,
+    "title": "Fès — Medina & Monuments",
+    "description": "A guided introduction to Fès el-Bali, its historic architecture, medina lanes, artisan quarters and cultural traditions.",
+    "image": "https://images.pexels.com/photos/22711555/pexels-photo-22711555.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Craft stalls in the Fès medina"
+   },
+   {
+    "day_no": 4,
+    "title": "Fès — A Deeper Discovery",
+    "description": "Explore further according to guest interests, with options such as Jewish heritage, traditional crafts, pottery, zellij or time to enjoy the riad.",
+    "image": "https://images.pexels.com/photos/22711555/pexels-photo-22711555.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Craft stalls in the Fès medina"
+   },
+   {
+    "day_no": 5,
+    "title": "Fès → Casablanca → Marrakech",
+    "description": "Travel to Casablanca for a visit to the Hassan II Mosque and lunch, then continue directly to Marrakech. Casablanca is a visit, not an overnight stop.",
+    "image": "https://images.pexels.com/photos/7391720/pexels-photo-7391720.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Riad lounge with carved plaster and lantern light"
+   },
+   {
+    "day_no": 6,
+    "title": "Marrakech — The Red City",
+    "description": "Discover Marrakech's key historic and cultural highlights with a flexible pace and time to absorb the atmosphere.",
+    "image": "https://images.pexels.com/photos/15260622/pexels-photo-15260622.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Marrakech palace interior"
+   },
+   {
+    "day_no": 7,
+    "title": "Marrakech — Culture & Personal Interests",
+    "description": "Choose from gardens, design, museums, culinary experiences, wellness or artisan encounters, according to the guests' preferences.",
+    "image": "https://images.pexels.com/photos/50630/pexels-photo-50630.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "A guest looking out over Marrakech at dusk from a private terrace"
+   },
+   {
+    "day_no": 8,
+    "title": "Marrakech — Flexible Day",
+    "description": "A deliberately open day for independent time, a private experience or a slower rhythm in the city.",
+    "image": "https://images.pexels.com/photos/27945049/pexels-photo-27945049.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Palace courtyard with fountain and arches"
+   },
+   {
+    "day_no": 9,
+    "title": "Marrakech → Agafay",
+    "description": "Travel to Agafay for a glamping experience, with time for the landscape, sunset and dinner. The journey structure keeps the overnight accommodation count at 10 nights; final sequencing is confirmed in the proposal.",
+    "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Golden Sahara dunes at sunset in Merzouga"
+   },
+   {
+    "day_no": 10,
+    "title": "Agafay → High Atlas",
+    "description": "Continue to a mountain retreat for a slower stay amid Atlas landscapes, with optional walks, village encounters or time to relax.",
+    "image": "https://images.pexels.com/photos/29976840/pexels-photo-29976840.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Kasbah in the Atlas foothills"
+   },
+   {
+    "day_no": 11,
+    "title": "High Atlas → Airport",
+    "description": "Depart directly from the Atlas accommodation to the appropriate airport. Transfer timing depends on the selected property and flight schedule.",
+    "image": "https://images.pexels.com/photos/37684084/pexels-photo-37684084.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+    "image_alt": "The earthen kasbah of Aït Benhaddou"
+   }
+  ],
+  "currency": "EUR",
+  "price_from": null,
+  "card_image": "https://images.pexels.com/photos/29976840/pexels-photo-29976840.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "card_image_alt": "Kasbah in the Atlas foothills",
+  "tagline": "Culture, Marrakech & Mountains",
+  "filter_type": "culture private",
+  "filter_dest": "fes marrakech atlas",
+  "filter_len": "long",
+  "card_route": "Rabat · Fès · Marrakech · Agafay · High Atlas",
+  "highlights": [
+   "Fès medina with your Guardian Guide",
+   "Hassan II Mosque on the way south",
+   "Glamping night in Agafay",
+   "A slow High Atlas retreat"
+  ],
+  "destinations": [
+   "marrakech",
+   "fes",
+   "atlas"
+  ]
+ },
+ {
+  "slug": "grand-tour",
+  "title": "The Grand Morocco",
+  "meta_title": "The Grand Morocco | Signature Journey | We Are Morocco",
+  "meta_description": "The Grand Morocco, 12 days / 11 nights: Casablanca · Rabat · Fès · Erfoud · Sahara · Skoura · Marrakech. Our most comprehensive signature journey, connecti",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_image": "https://images.pexels.com/photos/30320422/pexels-photo-30320422.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+  "hero_image_alt": "Camels crossing the dunes",
+  "hero_eyebrow": "03 · Signature journey",
+  "hero_title": "The Grand Morocco <span class=\"it block\">The Complete Moroccan Journey</span>",
+  "summary": "Our most comprehensive signature journey, connecting imperial cities with the ancient landscapes of the Sahara, oasis country, fossil heritage and Marrakech.",
+  "hero_subtitle": "Our most comprehensive signature journey, connecting imperial cities with the ancient landscapes of the Sahara, oasis country, fossil heritage and Marrakech.",
+  "hero_crumbs": [
+   {
+    "label": "Home",
+    "url": "/"
+   },
+   {
+    "label": "Journeys",
+    "url": "/itineraries"
+   },
+   {
+    "label": "The Grand Morocco",
+    "url": null
+   }
+  ],
+  "hero_variant": null,
+  "hero_extra": null,
+  "number": "03",
+  "is_signature": true,
+  "duration_label": "12 days / 11 nights",
+  "days": 12,
+  "nights": 11,
+  "route": "Casablanca · Rabat · Fès · Erfoud · Sahara · Skoura · Marrakech",
+  "route_stops": [
+   "Casablanca",
+   "Rabat",
+   "Fès",
+   "Erfoud",
+   "Sahara",
+   "Skoura",
+   "Marrakech"
+  ],
+  "inquiry_key": "grand-morocco",
+  "character": "The fullest expression of the collection, combining cities, desert, geological heritage, oasis landscapes and Marrakech.",
+  "includes": [
+   "Private airport transfers and ground transportation as specified",
+   "A dedicated private English-speaking Guardian Guide",
+   "Accommodation and meal plan as stated in the final proposal",
+   "Daily breakfast",
+   "Visits and experiences listed in the confirmed itinerary",
+   "Volubilis winery visit, lunch and wine tasting",
+   "Full board in Erfoud, the Sahara camp and Skoura",
+   "Luxury 4x4 for desert-camp transfers"
+  ],
+  "excludes": [
+   "International flights",
+   "Travel insurance",
+   "Visas or entry documentation",
+   "Meals not specified as included, and beverages beyond stated inclusions",
+   "Optional experiences not confirmed in the itinerary",
+   "Personal expenses, gratuities, upgrades and supplements"
+  ],
+  "gallery": [
+   {
+    "image": "https://images.pexels.com/photos/30320422/pexels-photo-30320422.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+    "alt": "Camels crossing the dunes"
+   },
+   {
+    "image": "https://images.pexels.com/photos/998631/pexels-photo-998631.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+    "alt": "Sahara dunes"
+   },
+   {
+    "image": "https://images.pexels.com/photos/10434667/pexels-photo-10434667.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+    "alt": "Private desert camp in the Sahara"
+   },
+   {
+    "image": "https://images.pexels.com/photos/37441764/pexels-photo-37441764.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "alt": "Palm oasis and kasbah walls"
+   },
+   {
+    "image": "https://images.pexels.com/photos/22711555/pexels-photo-22711555.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "alt": "Craft stalls in the Fès medina"
+   }
+  ],
+  "final_cta": {
+   "type": "cta",
+   "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+   "image_alt": "Golden Sahara dunes at sunset in Merzouga",
+   "label": "Your Morocco, your way",
+   "title": "Like the shape of it? <span class=\"it block\">We will fit it to you.</span>",
+   "lead": "Send your dates and who is traveling. A producer replies with a tailored version within days.",
+   "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"grand-morocco\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+  },
+  "sort_order": 3,
+  "days_list": [
+   {
+    "day_no": 1,
+    "title": "Arrive in Casablanca",
+    "description": "Meet your team and transfer to your hotel. Rest after your journey, with city touring according to arrival time and preference.",
+    "image": "https://images.pexels.com/photos/27945049/pexels-photo-27945049.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Palace courtyard with fountain and arches"
+   },
+   {
+    "day_no": 2,
+    "title": "Casablanca → Rabat → Fès",
+    "description": "Continue through Rabat for selected imperial landmarks before the private transfer to Fès.",
+    "image": "https://images.pexels.com/photos/15260622/pexels-photo-15260622.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Marrakech palace interior"
+   },
+   {
+    "day_no": 3,
+    "title": "Fès — The Historic Medina",
+    "description": "Discover the medina with your Guardian Guide, including its architectural heritage, historic institutions and celebrated craft traditions.",
+    "image": "https://images.pexels.com/photos/22711555/pexels-photo-22711555.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Craft stalls in the Fès medina"
+   },
+   {
+    "day_no": 4,
+    "title": "Volubilis & Winery Experience",
+    "description": "Visit the Roman archaeological site of Volubilis with specialist interpretation where appropriate, followed by a private winery visit, lunch and wine tasting before returning to Fès.",
+    "image": "https://images.pexels.com/photos/37441764/pexels-photo-37441764.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Palm oasis and kasbah walls"
+   },
+   {
+    "day_no": 5,
+    "title": "Fès → Erfoud",
+    "description": "Travel south through changing landscapes toward Erfoud. This is a long driving day; departure and arrival timing should allow for comfort and road conditions.",
+    "image": "https://images.pexels.com/photos/37684084/pexels-photo-37684084.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+    "image_alt": "The earthen kasbah of Aït Benhaddou"
+   },
+   {
+    "day_no": 6,
+    "title": "Erfoud → Rissani → Fossils → Sahara",
+    "description": "Explore Rissani and the region's fossil heritage, including “From Ancient Sea to Sahara — A Private Journey Through 400 Million Years of Moroccan History.” Continue to the desert camp by luxury 4x4.",
+    "image": "https://images.pexels.com/photos/998631/pexels-photo-998631.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+    "image_alt": "Sahara dunes"
+   },
+   {
+    "day_no": 7,
+    "title": "Sahara → Skoura",
+    "description": "Leave the desert and travel toward Skoura, crossing the southern landscapes and the Road of a Thousand Kasbahs. The day involves substantial driving.",
+    "image": "https://images.pexels.com/photos/29976840/pexels-photo-29976840.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Kasbah in the Atlas foothills"
+   },
+   {
+    "day_no": 8,
+    "title": "Skoura — Oasis Retreat",
+    "description": "Enjoy a full day at leisure or select gentle experiences around the oasis, kasbah architecture and local life. The stay is designed for rest rather than constant touring.",
+    "image": "https://images.pexels.com/photos/37441764/pexels-photo-37441764.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Palm oasis and kasbah walls"
+   },
+   {
+    "day_no": 9,
+    "title": "Skoura → Marrakech",
+    "description": "Travel across the High Atlas toward Marrakech, with the route and stops adapted to conditions and guest preferences.",
+    "image": "https://images.pexels.com/photos/37684084/pexels-photo-37684084.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+    "image_alt": "The earthen kasbah of Aït Benhaddou"
+   },
+   {
+    "day_no": 10,
+    "title": "Marrakech — The Red City",
+    "description": "Explore selected landmarks, gardens, medina quarters and cultural highlights with a flexible pace.",
+    "image": "https://images.pexels.com/photos/15260622/pexels-photo-15260622.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Marrakech palace interior"
+   },
+   {
+    "day_no": 11,
+    "title": "Marrakech — Your Way",
+    "description": "Keep the day open for culinary discovery, wellness, art, private shopping, photography or simply enjoying the hotel.",
+    "image": "https://images.pexels.com/photos/7391720/pexels-photo-7391720.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Riad lounge with carved plaster and lantern light"
+   },
+   {
+    "day_no": 12,
+    "title": "Departure",
+    "description": "Private transfer to the airport for your onward journey.",
+    "image": "https://images.pexels.com/photos/50630/pexels-photo-50630.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "A guest looking out over Marrakech at dusk from a private terrace"
+   }
+  ],
+  "currency": "EUR",
+  "price_from": null,
+  "card_image": "https://images.pexels.com/photos/30320422/pexels-photo-30320422.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+  "card_image_alt": "Camels crossing the dunes",
+  "tagline": "The Complete Moroccan Journey",
+  "filter_type": "culture desert private",
+  "filter_dest": "fes sahara marrakech",
+  "filter_len": "long",
+  "card_route": "Fès · Volubilis · Sahara · Skoura · Marrakech",
+  "highlights": [
+   "Volubilis with a private winery lunch",
+   "Luxury 4x4 to a Sahara camp",
+   "400 million years of fossil heritage",
+   "An oasis retreat in Skoura"
+  ],
+  "destinations": [
+   "marrakech",
+   "fes",
+   "sahara"
+  ]
+ },
+ {
+  "slug": "desert-kasbahs",
+  "title": "Desert & Kasbahs",
+  "meta_title": "Desert & Kasbahs | Sample itinerary | We Are Morocco",
+  "meta_description": "Desert & Kasbahs, 5 days: Marrakech · Aït Benhaddou · Dades · Merzouga. Over the High Atlas to the kasbahs and valleys of the south, and a night in the Sah",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_image": "https://images.pexels.com/photos/37684084/pexels-photo-37684084.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+  "hero_image_alt": "The earthen kasbah of Aït Benhaddou",
+  "hero_eyebrow": "Sample itinerary",
+  "hero_title": "Desert & Kasbahs",
+  "summary": "Over the High Atlas to the kasbahs and valleys of the south, and a night in the Sahara.",
+  "hero_subtitle": "Over the High Atlas to the kasbahs and valleys of the south, and a night in the Sahara.",
+  "hero_crumbs": [
+   {
+    "label": "Home",
+    "url": "/"
+   },
+   {
+    "label": "Journeys",
+    "url": "/itineraries"
+   },
+   {
+    "label": "Desert & Kasbahs",
+    "url": null
+   }
+  ],
+  "hero_variant": null,
+  "hero_extra": null,
+  "number": null,
+  "is_signature": false,
+  "duration_label": "5 days",
+  "days": 5,
+  "nights": null,
+  "route": "Marrakech · Aït Benhaddou · Dades · Merzouga",
+  "route_stops": [
+   "Marrakech",
+   "Aït Benhaddou",
+   "Dades",
+   "Merzouga"
+  ],
+  "inquiry_key": "custom",
+  "character": null,
+  "includes": [
+   "Accommodation as described, with daily breakfast",
+   "Private transport with a professional driver",
+   "Licensed local guides for visits",
+   "Entrance fees for listed visits",
+   "Airport meet and greet",
+   "24/7 support line during the trip"
+  ],
+  "excludes": [
+   "International flights",
+   "Travel insurance",
+   "Meals not listed",
+   "Personal expenses and gratuities"
+  ],
+  "gallery": [
+   {
+    "image": "https://images.pexels.com/photos/37684084/pexels-photo-37684084.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+    "alt": "The earthen kasbah of Aït Benhaddou"
+   },
+   {
+    "image": "https://images.pexels.com/photos/998631/pexels-photo-998631.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+    "alt": "Sahara dunes"
+   },
+   {
+    "image": "https://images.pexels.com/photos/10434667/pexels-photo-10434667.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+    "alt": "Private desert camp in the Sahara"
+   },
+   {
+    "image": "https://images.pexels.com/photos/29976840/pexels-photo-29976840.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "alt": "Kasbah in the Atlas foothills"
+   },
+   {
+    "image": "https://images.pexels.com/photos/30320422/pexels-photo-30320422.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+    "alt": "Camels crossing the dunes"
+   }
+  ],
+  "final_cta": {
+   "type": "cta",
+   "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+   "image_alt": "Golden Sahara dunes at sunset in Merzouga",
+   "label": "Your Morocco, your way",
+   "title": "Like the shape of it? <span class=\"it block\">We will fit it to you.</span>",
+   "lead": "Send your dates and who is traveling. A producer replies with a tailored version within days.",
+   "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"custom\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+  },
+  "sort_order": 4,
+  "days_list": [
+   {
+    "day_no": 1,
+    "title": "Marrakech to Aït Benhaddou",
+    "description": "Over the Tizi n'Tichka pass to the fortified village of Aït Benhaddou.",
+    "image": "https://images.pexels.com/photos/37684084/pexels-photo-37684084.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+    "image_alt": "The earthen kasbah of Aït Benhaddou"
+   },
+   {
+    "day_no": 2,
+    "title": "Dades Valley",
+    "description": "Ouarzazate, the Road of a Thousand Kasbahs and the Dades gorges.",
+    "image": "https://images.pexels.com/photos/29976840/pexels-photo-29976840.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Kasbah in the Atlas foothills"
+   },
+   {
+    "day_no": 3,
+    "title": "Merzouga",
+    "description": "Into the dunes of Erg Chebbi. Camel at sunset and a night in a luxury camp.",
+    "image": "https://images.pexels.com/photos/30320422/pexels-photo-30320422.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+    "image_alt": "Camels crossing the dunes"
+   },
+   {
+    "day_no": 4,
+    "title": "Sahara",
+    "description": "Sunrise over the dunes, a 4x4 loop and a second night at camp.",
+    "image": "https://images.pexels.com/photos/10434667/pexels-photo-10434667.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+    "image_alt": "Private desert camp in the Sahara"
+   },
+   {
+    "day_no": 5,
+    "title": "Return",
+    "description": "Back to Marrakech or on to Fès.",
+    "image": "https://images.pexels.com/photos/37441764/pexels-photo-37441764.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Palm oasis and kasbah walls"
+   }
+  ],
+  "currency": "EUR",
+  "price_from": null,
+  "filter_type": "desert private",
+  "filter_dest": "marrakech sahara",
+  "filter_len": "short",
+  "card_route": "Marrakech · Aït Benhaddou · Dades · Merzouga",
+  "card_image": "https://images.pexels.com/photos/37684084/pexels-photo-37684084.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800",
+  "card_image_alt": "The earthen kasbah of Aït Benhaddou",
+  "tagline": null,
+  "highlights": [],
+  "destinations": [
+   "marrakech",
+   "sahara"
+  ]
+ },
+ {
+  "slug": "marrakech-incentive",
+  "title": "Marrakech Incentive",
+  "meta_title": "Marrakech Incentive | Sample itinerary | We Are Morocco",
+  "meta_description": "Marrakech Incentive, 4 nights: Riads · Agafay gala · Atlas village. A short incentive that mixes comfort, adventure and one unforgettable night in the dese",
+  "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
+  "hero_image": "https://images.pexels.com/photos/7391720/pexels-photo-7391720.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "hero_image_alt": "Riad lounge with carved plaster and lantern light",
+  "hero_eyebrow": "Sample itinerary",
+  "hero_title": "Marrakech Incentive",
+  "summary": "A short incentive that mixes comfort, adventure and one unforgettable night in the desert.",
+  "hero_subtitle": "A short incentive that mixes comfort, adventure and one unforgettable night in the desert.",
+  "hero_crumbs": [
+   {
+    "label": "Home",
+    "url": "/"
+   },
+   {
+    "label": "Journeys",
+    "url": "/itineraries"
+   },
+   {
+    "label": "Marrakech Incentive",
+    "url": null
+   }
+  ],
+  "hero_variant": null,
+  "hero_extra": null,
+  "number": null,
+  "is_signature": false,
+  "duration_label": "4 nights",
+  "days": null,
+  "nights": 4,
+  "route": "Riads · Agafay gala · Atlas village",
+  "route_stops": [
+   "Marrakech",
+   "Agafay",
+   "High Atlas"
+  ],
+  "inquiry_key": "incentive",
+  "character": null,
+  "includes": [
+   "Accommodation as described, with daily breakfast",
+   "Private transport with a professional driver",
+   "Licensed local guides for visits",
+   "Entrance fees for listed visits",
+   "Airport meet and greet",
+   "24/7 support line during the trip",
+   "Gala dinner production and entertainment"
+  ],
+  "excludes": [
+   "International flights",
+   "Travel insurance",
+   "Meals not listed",
+   "Personal expenses and gratuities"
+  ],
+  "gallery": [
+   {
+    "image": "https://images.pexels.com/photos/7391720/pexels-photo-7391720.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "alt": "Riad lounge with carved plaster and lantern light"
+   },
+   {
+    "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "alt": "Golden Sahara dunes at sunset in Merzouga"
+   },
+   {
+    "image": "https://images.pexels.com/photos/15260622/pexels-photo-15260622.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "alt": "Marrakech palace interior"
+   },
+   {
+    "image": "https://images.pexels.com/photos/27945049/pexels-photo-27945049.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "alt": "Palace courtyard with fountain and arches"
+   },
+   {
+    "image": "https://images.pexels.com/photos/29976840/pexels-photo-29976840.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "alt": "Kasbah in the Atlas foothills"
+   }
+  ],
+  "final_cta": {
+   "type": "cta",
+   "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+   "image_alt": "Golden Sahara dunes at sunset in Merzouga",
+   "label": "Your Morocco, your way",
+   "title": "Like the shape of it? <span class=\"it block\">We will fit it to you.</span>",
+   "lead": "Send your dates and who is traveling. A producer replies with a tailored version within days.",
+   "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"incentive\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+  },
+  "sort_order": 5,
+  "days_list": [
+   {
+    "day_no": 1,
+    "title": "Arrival",
+    "description": "Airport meet and greet, check-in and a welcome dinner in a private riad.",
+    "image": "https://images.pexels.com/photos/7391720/pexels-photo-7391720.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Riad lounge with carved plaster and lantern light"
+   },
+   {
+    "day_no": 2,
+    "title": "Medina discovery",
+    "description": "Small groups with licensed guides, afternoon at leisure, rooftop cocktails.",
+    "image": "https://images.pexels.com/photos/15260622/pexels-photo-15260622.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Marrakech palace interior"
+   },
+   {
+    "day_no": 3,
+    "title": "Agafay",
+    "description": "Quad biking or a hot-air balloon, then a gala dinner under the stars.",
+    "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Golden Sahara dunes at sunset in Merzouga"
+   },
+   {
+    "day_no": 4,
+    "title": "Atlas Mountains",
+    "description": "A Berber village visit and lunch with a local family.",
+    "image": "https://images.pexels.com/photos/29976840/pexels-photo-29976840.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Kasbah in the Atlas foothills"
+   },
+   {
+    "day_no": 5,
+    "title": "Departures",
+    "description": "Farewell breakfast and private transfers.",
+    "image": "https://images.pexels.com/photos/27945049/pexels-photo-27945049.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+    "image_alt": "Palace courtyard with fountain and arches"
+   }
+  ],
+  "currency": "EUR",
+  "price_from": null,
+  "filter_type": "incentive",
+  "filter_dest": "marrakech",
+  "filter_len": "short",
+  "card_route": "Riads · Agafay gala · Atlas village",
+  "card_image": "https://images.pexels.com/photos/7391720/pexels-photo-7391720.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
+  "card_image_alt": "Riad lounge with carved plaster and lantern light",
+  "tagline": null,
+  "highlights": [],
+  "destinations": [
+   "marrakech"
+  ]
+ }
+]

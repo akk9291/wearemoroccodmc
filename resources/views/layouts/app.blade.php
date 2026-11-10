@@ -15,7 +15,6 @@
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
-@php($nav = trim($__env->yieldContent('nav')))
 @include('partials.header')
 <main id="main">
 @yield('content')

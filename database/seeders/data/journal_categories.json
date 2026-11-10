@@ -1,0 +1,22 @@
+[
+ {
+  "name": "Planning",
+  "slug": "planning",
+  "sort_order": 1
+ },
+ {
+  "name": "Incentives",
+  "slug": "incentive",
+  "sort_order": 2
+ },
+ {
+  "name": "Venues",
+  "slug": "venues",
+  "sort_order": 3
+ },
+ {
+  "name": "Culture",
+  "slug": "culture",
+  "sort_order": 4
+ }
+]

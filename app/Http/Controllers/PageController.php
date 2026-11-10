@@ -2,32 +2,20 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
-use Illuminate\Support\Facades\View;
+use App\Models\Page;
 
-/**
- * Phase 1: serves the converted static pages. Content is still hard-coded in the
- * Blade views; Phase 2 will load it from the database.
- */
 class PageController extends Controller
 {
-    public function home()
+    /** Single pages (about, faq, terms...) and section index pages, by pages.slug. */
+    public function show(string $page)
     {
-        return view('home');
+        return static::render($page);
     }
 
-    public function page(string $view)
+    public static function render(string $slug)
     {
-        return view($view);
-    }
+        $page = Page::published()->where('slug', $slug)->firstOrFail();
 
-    /** /{section}/{slug} -> resources/views/{section}/pages/{slug}.blade.php */
-    public function show(Request $request)
-    {
-        $route = $request->route();
-        $view = "{$route->parameter('section')}.pages.{$route->parameter('slug')}";
-        abort_unless(View::exists($view), 404);
-
-        return view($view);
+        return view('content', ['m' => $page]);
     }
 }

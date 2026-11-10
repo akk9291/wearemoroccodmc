@@ -1,30 +1,33 @@
 <?php
 
+use App\Http\Controllers\CaseStudyController;
+use App\Http\Controllers\DestinationController;
+use App\Http\Controllers\ItineraryController;
+use App\Http\Controllers\JournalController;
 use App\Http\Controllers\PageController;
+use App\Http\Controllers\ServiceController;
 use Illuminate\Support\Facades\Route;
 
-// Single pages
-Route::controller(PageController::class)->group(function () {
-    Route::get('/', 'home')->name('home');
-    Route::get('/about', 'page')->defaults('view', 'about')->name('about');
-    Route::get('/why-us', 'page')->defaults('view', 'why-us')->name('why-us');
-    Route::get('/experiences', 'page')->defaults('view', 'experiences')->name('experiences');
-    Route::get('/faq', 'page')->defaults('view', 'faq')->name('faq');
-    Route::get('/quote', 'page')->defaults('view', 'quote')->name('quote');
-    Route::get('/contact', 'page')->defaults('view', 'contact')->name('contact');
-    Route::get('/thank-you', 'page')->defaults('view', 'thank-you')->name('thank-you');
-    Route::get('/sustainability', 'page')->defaults('view', 'sustainability')->name('sustainability');
-    Route::get('/terms', 'page')->defaults('view', 'legal.terms')->name('terms');
-    Route::get('/privacy', 'page')->defaults('view', 'legal.privacy')->name('privacy');
-    Route::get('/cookies', 'page')->defaults('view', 'legal.cookies')->name('cookies');
+// Single pages: content comes from the pages table (slug = route name).
+$pages = ['home' => '/', 'about' => '/about', 'why-us' => '/why-us', 'experiences' => '/experiences', 'faq' => '/faq',
+    'quote' => '/quote', 'contact' => '/contact', 'thank-you' => '/thank-you', 'sustainability' => '/sustainability',
+    'terms' => '/terms', 'privacy' => '/privacy', 'cookies' => '/cookies'];
+foreach ($pages as $slug => $uri) {
+    Route::get($uri, [PageController::class, 'show'])->defaults('page', $slug)->name($slug);
+}
 
-    // Grouped sections: index + show/{slug}
-    foreach (['services', 'destinations', 'itineraries', 'case-studies', 'journal'] as $section) {
-        Route::get("/{$section}", 'page')->defaults('view', "{$section}.index")->name("{$section}.index");
-        Route::get("/{$section}/{slug}", 'show')->defaults('section', $section)
-            ->where('slug', '[a-z0-9-]+')->name("{$section}.show");
-    }
-});
+// Sections: index page (pages table) + detail by slug (published records only, 404 otherwise).
+$sections = [
+    'services' => [ServiceController::class, 'service'],
+    'destinations' => [DestinationController::class, 'destination'],
+    'itineraries' => [ItineraryController::class, 'itinerary'],
+    'case-studies' => [CaseStudyController::class, 'caseStudy'],
+    'journal' => [JournalController::class, 'post'],
+];
+foreach ($sections as $prefix => [$controller, $param]) {
+    Route::get("/{$prefix}", [$controller, 'index'])->name("{$prefix}.index");
+    Route::get("/{$prefix}/{{$param}}", [$controller, 'show'])->name("{$prefix}.show");
+}
 
 // 301 redirects from the old static *.html file names
 $legacy = [
