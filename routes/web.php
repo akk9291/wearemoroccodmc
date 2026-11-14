@@ -6,6 +6,7 @@ use App\Http\Controllers\FormController;
 use App\Http\Controllers\ItineraryController;
 use App\Http\Controllers\JournalController;
 use App\Http\Controllers\PageController;
+use App\Http\Controllers\SeoController;
 use App\Http\Controllers\ServiceController;
 use Illuminate\Support\Facades\Route;
 
@@ -29,6 +30,9 @@ foreach ($sections as $prefix => [$controller, $param]) {
     Route::get("/{$prefix}", [$controller, 'index'])->name("{$prefix}.index");
     Route::get("/{$prefix}/{{$param}}", [$controller, 'show'])->name("{$prefix}.show");
 }
+
+Route::get('/sitemap.xml', [SeoController::class, 'sitemap'])->name('sitemap');
+Route::get('/robots.txt', [SeoController::class, 'robots'])->name('robots');
 
 // Website forms (Phase 4): CSRF via the web group, validation in app/Http/Requests/Forms, rate limit "forms".
 Route::middleware("throttle:forms")->prefix("forms")->name("forms.")->group(function () {

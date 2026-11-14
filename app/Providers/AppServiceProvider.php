@@ -16,6 +16,13 @@ use Spatie\Permission\Models\Role;
 
 class AppServiceProvider extends ServiceProvider
 {
+    /** Models whose changes show on the public site. */
+    public const CONTENT_MODELS = [
+        Models\Page::class, Models\Service::class, Models\Destination::class, Models\Itinerary::class, Models\ItineraryDay::class,
+        Models\Experience::class, Models\CaseStudy::class, Models\JournalPost::class, Models\JournalCategory::class, Models\Faq::class,
+        Models\Testimonial::class, Models\Partner::class, Models\Menu::class, Models\MenuItem::class, Models\Setting::class,
+    ];
+
     public function register(): void
     {
         //
@@ -38,6 +45,11 @@ class AppServiceProvider extends ServiceProvider
             foreach ($models as $model) {
                 Gate::policy($model, $policy);
             }
+        }
+
+        // Content changes make cached sitemap / menus / listings / guest pages stale (App\Support\ContentCache).
+        foreach (self::CONTENT_MODELS as $model) {
+            $model::observe(\App\Observers\ContentObserver::class);
         }
 
         // Website forms: 5 posts a minute per visitor and form, 30 an hour.
