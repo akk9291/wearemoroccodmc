@@ -4,8 +4,11 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="csrf-token" content="{{ csrf_token() }}">
-<title>{!! trim($__env->yieldContent('title')) !!}</title>
+@hasSection('meta')
 @yield('meta')
+@else
+@include('partials.seo')
+@endif
 <link rel="icon" href="{{ asset('assets/favicon.svg') }}" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

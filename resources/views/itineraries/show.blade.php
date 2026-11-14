@@ -1,6 +1,5 @@
 @extends('layouts.app')
 
-@section('title', $itinerary->meta_title)
 
 @section('meta')
 @include('partials.seo', ['m' => $itinerary])

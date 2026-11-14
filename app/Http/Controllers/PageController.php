@@ -14,7 +14,7 @@ class PageController extends Controller
 
     public static function render(string $slug)
     {
-        $page = Page::published()->where('slug', $slug)->firstOrFail();
+        $page = (\App\Support\Seo::canPreviewDrafts() ? Page::query() : Page::published())->where('slug', $slug)->firstOrFail();
 
         return view('content', ['m' => $page]);
     }

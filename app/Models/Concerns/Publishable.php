@@ -4,7 +4,7 @@ namespace App\Models\Concerns;
 
 use Illuminate\Database\Eloquent\Builder;
 
-/** status draft|published, ordering, and slug route binding that only resolves published rows. */
+/** status draft|published, ordering, and slug route binding that only resolves published rows (drafts too for signed-in admins). */
 trait Publishable
 {
     public const STATUS_DRAFT = 'draft';
@@ -28,6 +28,9 @@ trait Publishable
 
     public function resolveRouteBinding($value, $field = null)
     {
-        return $this->published()->where($field ?? $this->getRouteKeyName(), $value)->first();
+        // Team members signed in to the admin may preview drafts (rendered with noindex).
+        $query = \App\Support\Seo::canPreviewDrafts() ? $this->newQuery() : $this->published();
+
+        return $query->where($field ?? $this->getRouteKeyName(), $value)->first();
     }
 }

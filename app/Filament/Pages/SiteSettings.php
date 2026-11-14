@@ -31,6 +31,8 @@ class SiteSettings extends Page implements HasForms
     /** key => group */
     protected const KEYS = [
         'phone' => 'contact', 'phone_display' => 'contact', 'email' => 'contact', 'address' => 'contact',
+        'address_city' => 'contact', 'address_country' => 'contact',
+        'site_name' => 'seo', 'default_meta_description' => 'seo', 'default_og_image' => 'seo', 'logo' => 'seo',
         'notification_email' => 'notifications',
         'socials' => 'social',
         'footer_blurb' => 'footer', 'copyright' => 'footer', 'footer_tagline' => 'footer', 'footer_columns' => 'footer',
@@ -59,6 +61,14 @@ class SiteSettings extends Page implements HasForms
                 Forms\Components\TextInput::make('phone_display')->label('Phone as shown')->required(),
                 Forms\Components\TextInput::make('email')->email()->required(),
                 Forms\Components\Textarea::make('address')->rows(2)->required(),
+                Forms\Components\TextInput::make('address_city')->label('City (for search engines)')->placeholder('Marrakech'),
+                Forms\Components\TextInput::make('address_country')->label('Country code')->placeholder('MA')->maxLength(2),
+            ]),
+            Forms\Components\Section::make('Search & sharing defaults')->description('Used when a page has no meta title, description or share image of its own.')->columns(2)->schema([
+                Forms\Components\TextInput::make('site_name')->label('Site name')->required(),
+                Forms\Components\TextInput::make('logo')->label('Logo URL or /path (optional)')->helperText('Shown to search engines. Empty = the site icon.'),
+                Forms\Components\Textarea::make('default_meta_description')->label('Default meta description')->rows(2)->maxLength(300)->columnSpanFull(),
+                Forms\Components\TextInput::make('default_og_image')->label('Default share image (URL or /path)')->columnSpanFull(),
             ]),
             Forms\Components\Section::make('Website forms')->schema([
                 Forms\Components\TextInput::make('notification_email')->label('Lead notification email')->email()

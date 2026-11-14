@@ -71,5 +71,35 @@
    "check": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m5 12 4 4 10-10\"/></svg>",
    "doc": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z\"/><path d=\"M14 3v5h5M9 13h6M9 17h6\"/></svg>"
   }
+ },
+ {
+  "group": "contact",
+  "key": "address_city",
+  "value": "Marrakech"
+ },
+ {
+  "group": "contact",
+  "key": "address_country",
+  "value": "MA"
+ },
+ {
+  "group": "seo",
+  "key": "site_name",
+  "value": "We Are Morocco"
+ },
+ {
+  "group": "seo",
+  "key": "default_meta_description",
+  "value": "Tailor-made luxury travel in Morocco. Private riads, Sahara camps and exclusive access — designed by local experts in Marrakech with fifty years of combined experience."
+ },
+ {
+  "group": "seo",
+  "key": "default_og_image",
+  "value": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400"
+ },
+ {
+  "group": "seo",
+  "key": "logo",
+  "value": null
  }
 ]
