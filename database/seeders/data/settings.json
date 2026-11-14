@@ -15,6 +15,11 @@
   "value": "info@wearemoroccotravel.com"
  },
  {
+  "group": "notifications",
+  "key": "notification_email",
+  "value": "info@wearemoroccotravel.com"
+ },
+ {
   "group": "contact",
   "key": "address",
   "value": "Av. Hassan II, Koutoubia Center II, 1er Étage, Bureau N°5, Marrakech"

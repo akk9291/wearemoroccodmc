@@ -6,7 +6,10 @@ use App\Models;
 use App\Policies\AdminOnlyPolicy;
 use App\Policies\ContentPolicy;
 use App\Policies\LeadPolicy;
+use Illuminate\Cache\RateLimiting\Limit;
+use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Gate;
+use Illuminate\Support\Facades\RateLimiter;
 use Illuminate\Support\Facades\View;
 use Illuminate\Support\ServiceProvider;
 use Spatie\Permission\Models\Role;
@@ -36,6 +39,12 @@ class AppServiceProvider extends ServiceProvider
                 Gate::policy($model, $policy);
             }
         }
+
+        // Website forms: 5 posts a minute per visitor and form, 30 an hour.
+        RateLimiter::for("forms", fn (Request $request) => [
+            Limit::perMinute(5)->by($request->ip()."|".$request->path()),
+            Limit::perHour(30)->by($request->ip()),
+        ]);
 
         // Header, footer and inquiry drawer read menus + site settings from the database.
         View::composer(['partials.header', 'partials.footer', 'partials.inquiry'], function ($view) {

@@ -9,5 +9,6 @@ class ContactMessage extends Model
 {
     use SoftDeletes;
 
-    protected $fillable = ['name', 'email', 'intent', 'travelers', 'dates', 'note', 'status', 'admin_notes'];
+    protected $fillable = ['form_type', 'name', 'email', 'intent', 'travelers', 'dates', 'note', 'source_page', 'ip', 'status',
+        'admin_notes'];
 }

@@ -24,7 +24,7 @@ class ContactMessageResource extends LeadResource
     {
         return static::leadForm($form, [
             'name' => 'Name', 'email' => 'Email', 'intent' => 'Interest', 'travelers' => 'Travelers', 'dates' => 'Dates',
-            'note' => 'Message',
+            'source_page' => 'Sent from page', 'ip' => 'IP address', 'note' => 'Message',
         ]);
     }
 
@@ -35,6 +35,7 @@ class ContactMessageResource extends LeadResource
             Tables\Columns\TextColumn::make('email')->searchable()->toggleable(isToggledHiddenByDefault: true),
             Tables\Columns\TextColumn::make('intent')->label('Interest')->badge()->color('gray'),
             Tables\Columns\TextColumn::make('note')->label('Message')->limit(60)->toggleable(),
+            Tables\Columns\TextColumn::make('source_page')->label('Sent from')->searchable()->toggleable(),
         ]);
     }
 

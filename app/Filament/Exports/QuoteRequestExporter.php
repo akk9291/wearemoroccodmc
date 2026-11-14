@@ -16,6 +16,7 @@ class QuoteRequestExporter extends Exporter
         return [
             ExportColumn::make('id')
                 ->label('ID'),
+            ExportColumn::make('form_type'),
             ExportColumn::make('name'),
             ExportColumn::make('email'),
             ExportColumn::make('intent'),
@@ -29,6 +30,7 @@ class QuoteRequestExporter extends Exporter
             ExportColumn::make('prio'),
             ExportColumn::make('lead'),
             ExportColumn::make('note'),
+            ExportColumn::make('brief'),
             ExportColumn::make('status'),
             ExportColumn::make('admin_notes'),
             ExportColumn::make('source_page'),

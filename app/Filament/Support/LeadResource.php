@@ -53,7 +53,7 @@ abstract class LeadResource extends Resource
     {
         $readonly = [];
         foreach ($fields as $name => $label) {
-            $readonly[] = in_array($name, ['note', 'mood', 'stays', 'prio'], true)
+            $readonly[] = in_array($name, ['note', 'brief', 'mood', 'stays', 'prio'], true)
                 ? Forms\Components\Textarea::make($name)->label($label)->disabled()->rows(3)->columnSpanFull()
                 : Forms\Components\TextInput::make($name)->label($label)->disabled();
         }

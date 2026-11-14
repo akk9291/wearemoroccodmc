@@ -23,10 +23,10 @@ class QuoteRequestResource extends LeadResource
     public static function form(Form $form): Form
     {
         return static::leadForm($form, [
-            'name' => 'Name', 'email' => 'Email', 'intent' => 'Interest', 'party' => 'Travelers (party)',
+            'form_type' => 'Form', 'name' => 'Name', 'email' => 'Email', 'intent' => 'Interest', 'party' => 'Travelers (party)',
             'travelers' => 'Travelers', 'dates' => 'Dates', 'length' => 'Length', 'pace' => 'Pace', 'lead' => 'Lead destination',
             'source_page' => 'Sent from page', 'ip' => 'IP address', 'mood' => 'Mood', 'stays' => 'Stays', 'prio' => 'Priorities',
-            'note' => 'Message',
+            'note' => 'Message', 'brief' => 'Draft brief',
         ]);
     }
 
@@ -37,7 +37,9 @@ class QuoteRequestResource extends LeadResource
             Tables\Columns\TextColumn::make('email')->searchable()->toggleable(isToggledHiddenByDefault: true),
             Tables\Columns\TextColumn::make('intent')->label('Interest')->badge()->color('gray'),
             Tables\Columns\TextColumn::make('dates')->toggleable(),
-            Tables\Columns\TextColumn::make('source_page')->label('From')->toggleable(isToggledHiddenByDefault: true),
+            Tables\Columns\TextColumn::make('form_type')->label('Form')->badge()->color('info')
+                ->formatStateUsing(fn (?string $state) => QuoteRequest::FORM_TYPES[$state] ?? $state)->toggleable(),
+            Tables\Columns\TextColumn::make('source_page')->label('Sent from')->searchable()->toggleable(),
         ]);
     }
 

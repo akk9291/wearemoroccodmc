@@ -4,7 +4,9 @@
     <button type="button" class="icon-btn close" data-close aria-label="Close"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
     <p class="eyebrow" style="color:rgba(228,204,154,.9)">Private atelier</p>
     <h2 class="h2" id="inq-title" style="margin-top:1rem">Begin a private conversation.</h2>
-    <form id="inq-form" novalidate>
+    <form id="inq-form" data-form="inquiry" method="post" action="{{ route('forms.inquiry') }}" data-quote-action="{{ route('forms.quote') }}" novalidate>
+      @include('partials.form-guard')
+      <input type="hidden" name="brief" value="">
       <p class="small" style="margin-top:.75rem;color:rgba(239,230,214,.7)">Tell us how you like to travel. We will send a considered first sketch — not a brochure.</p>
       <div class="form-grid two" style="margin-top:1.75rem">
         <label class="lbl">Name<input class="field" name="name" required autocomplete="name" placeholder="Your name"><span class="err">Please add your name.</span></label>

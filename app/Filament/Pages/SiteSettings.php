@@ -31,6 +31,7 @@ class SiteSettings extends Page implements HasForms
     /** key => group */
     protected const KEYS = [
         'phone' => 'contact', 'phone_display' => 'contact', 'email' => 'contact', 'address' => 'contact',
+        'notification_email' => 'notifications',
         'socials' => 'social',
         'footer_blurb' => 'footer', 'copyright' => 'footer', 'footer_tagline' => 'footer', 'footer_columns' => 'footer',
     ];
@@ -58,6 +59,10 @@ class SiteSettings extends Page implements HasForms
                 Forms\Components\TextInput::make('phone_display')->label('Phone as shown')->required(),
                 Forms\Components\TextInput::make('email')->email()->required(),
                 Forms\Components\Textarea::make('address')->rows(2)->required(),
+            ]),
+            Forms\Components\Section::make('Website forms')->schema([
+                Forms\Components\TextInput::make('notification_email')->label('Lead notification email')->email()
+                    ->helperText('New quote requests, inquiries and contact messages are emailed here. Empty = '.\App\Http\Controllers\FormController::FALLBACK_NOTIFICATION_EMAIL.'.'),
             ]),
             Forms\Components\Section::make('Social links')->schema([
                 Forms\Components\Repeater::make('socials')->hiddenLabel()->schema([
