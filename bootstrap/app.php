@@ -11,7 +11,8 @@ return Application::configure(basePath: dirname(__DIR__))
         health: '/up',
     )
     ->withMiddleware(function (Middleware $middleware): void {
-        //
+        // Redirects table (admin + old .html names + slug changes), before routing so unknown paths can redirect.
+        $middleware->prepend(\App\Http\Middleware\HandleRedirects::class);
     })
     ->withExceptions(function (Exceptions $exceptions): void {
         //

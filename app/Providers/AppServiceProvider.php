@@ -36,7 +36,7 @@ class AppServiceProvider extends ServiceProvider
                 Models\Page::class, Models\Service::class, Models\Destination::class, Models\Itinerary::class,
                 Models\ItineraryDay::class, Models\Experience::class, Models\CaseStudy::class, Models\JournalPost::class,
                 Models\JournalCategory::class, Models\Faq::class, Models\Testimonial::class, Models\Partner::class,
-                Models\Menu::class, Models\MenuItem::class,
+                Models\Menu::class, Models\MenuItem::class, Models\Redirect::class,
             ],
             LeadPolicy::class => [Models\QuoteRequest::class, Models\ContactMessage::class, Models\NewsletterSubscriber::class],
             AdminOnlyPolicy::class => [Models\User::class, Role::class, Models\Setting::class],
@@ -50,6 +50,9 @@ class AppServiceProvider extends ServiceProvider
         // Content changes make cached sitemap / menus / listings / guest pages stale (App\Support\ContentCache).
         foreach (self::CONTENT_MODELS as $model) {
             $model::observe(\App\Observers\ContentObserver::class);
+        }
+        foreach (array_keys(\App\Observers\SlugRedirectObserver::ROUTES) as $model) {
+            $model::observe(\App\Observers\SlugRedirectObserver::class);
         }
 
         // Website forms: 5 posts a minute per visitor and form, 30 an hour.
