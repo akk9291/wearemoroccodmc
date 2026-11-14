@@ -68,6 +68,7 @@ class Fields
                         if (! \Illuminate\Support\Facades\Storage::disk('public')->exists($target)) {
                             $file->storeAs('uploads', basename($target), 'public');
                         }
+                        \App\Support\ImageVariants::generate($target); // WebP + 800/1600 px variants for srcset
                         $set($name, $target);
                     }
                 })

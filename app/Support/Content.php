@@ -9,7 +9,8 @@ use Illuminate\Support\Facades\View;
  * Renders HTML stored in the database:
  *  - root-relative links (href="/services/events") become absolute URLs for the current host,
  *  - <!--wam:block key="value"--> markers are replaced by resources/views/blocks/{block}.blade.php,
- *    which render repeating lists (itineraries, FAQs, ...) from their tables.
+ *    which render repeating lists (itineraries, FAQs, ...) from their tables,
+ *  - <img> tags get lazy loading and a srcset (App\Support\ImageVariants).
  */
 class Content
 {
@@ -38,7 +39,7 @@ class Content
                 : ContentCache::remember('block.'.md5(url('/').'|'.$m[0]), $render);
         }, $html);
 
-        return static::urls($html);
+        return ImageVariants::enhanceHtml(static::urls($html));
     }
 
     /** href="/x" and src="/x" -> absolute URL; protocol-relative (//) and other URLs untouched. */
@@ -47,6 +48,14 @@ class Content
         return preg_replace_callback('/\b(href|src)="(\/(?!\/)[^"#]*)(#[^"]*)?"/', function ($m) {
             return $m[1].'="'.url($m[2]).($m[3] ?? '').'"';
         }, $html);
+    }
+
+    /** URL of a file in public/ with ?v=<modified time>, so it can be cached for a year and still update on deploy. */
+    public static function asset(string $path): string
+    {
+        $file = public_path($path);
+
+        return asset($path).(is_file($file) ? '?v='.filemtime($file) : '');
     }
 
     /** Image column value -> URL. Full URLs (e.g. Pexels) pass through; anything else is a public-disk path. */
