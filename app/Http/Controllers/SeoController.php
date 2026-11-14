@@ -28,12 +28,12 @@ class SeoController extends Controller
     public function robots(): Response
     {
         $lines = ['User-agent: *'];
-        if (app()->isProduction()) {
+        if (Seo::indexingAllowed()) {
             $lines[] = 'Disallow: /admin';
             $lines[] = 'Disallow: /forms';
             $lines[] = 'Disallow: /livewire';
         } else {
-            $lines[] = 'Disallow: /'; // staging and local copies stay out of search engines
+            $lines[] = 'Disallow: /'; // local, staging and SEO_INDEXING=false (temporary domain) stay out of search engines
         }
         $lines[] = '';
         $lines[] = 'Sitemap: '.route('sitemap');

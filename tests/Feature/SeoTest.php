@@ -38,8 +38,27 @@ class SeoTest extends TestCase
         return preg_match('#<meta '.$attr.'="'.preg_quote($name, '#').'" content="([^"]*)"#', $html, $m) ? html_entity_decode($m[1]) : null;
     }
 
+    public function test_pages_are_noindex_outside_production_or_with_indexing_switched_off(): void
+    {
+        config(['cache.page_cache' => false]); // a changed .env is followed by cache:clear on deploy
+        $robots = fn () => $this->meta($this->get('/about')->getContent(), 'name', 'robots');
+
+        $this->assertSame('noindex, nofollow', $robots(), 'testing/local');
+
+        $this->app['env'] = 'production';
+        config(['app.seo_indexing' => false]); // temporary domain
+        $this->assertSame('noindex, nofollow', $robots());
+        $this->assertStringContainsString("Disallow: /\n", $this->get('/robots.txt')->getContent());
+
+        config(['app.seo_indexing' => true]);
+        $this->assertSame('index, follow, max-image-preview:large', $robots());
+        $this->assertStringNotContainsString("Disallow: /\n", $this->get('/robots.txt')->getContent());
+        $this->app['env'] = 'testing';
+    }
+
     public function test_every_page_has_a_complete_seo_head(): void
     {
+        $this->app['env'] = 'production'; // indexing allowed, as on the live site
         foreach (AdminPanelTest::ROUTES as $uri) {
             $html = $this->get($uri)->assertOk()->getContent();
             $this->assertSame(1, substr_count($html, '<title>'), "$uri title");

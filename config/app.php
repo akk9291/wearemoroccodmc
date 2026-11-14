@@ -16,6 +16,13 @@ return [
     'name' => env('APP_NAME', 'Laravel'),
 
     /*
+    | Search engine indexing. Only when true AND APP_ENV=production may search engines index the site
+    | (robots.txt + meta robots). Set SEO_INDEXING=false on staging / temporary domains.
+    */
+
+    'seo_indexing' => (bool) env('SEO_INDEXING', true),
+
+    /*
     |--------------------------------------------------------------------------
     | Application Environment
     |--------------------------------------------------------------------------

@@ -65,6 +65,7 @@ class Seo
 
         $draft = $m && $m->getAttribute('status') !== null && $m->getAttribute('status') !== 'published';
         $noindex = $draft || ($m instanceof Page && in_array($m->slug, self::NOINDEX_PAGES, true));
+        $noindex = $noindex || ! static::indexingAllowed();
         $seo->robots = $noindex ? 'noindex, nofollow' : 'index, follow, max-image-preview:large';
 
         foreach ($overrides as $key => $value) {
@@ -74,6 +75,12 @@ class Seo
         $seo->schema = $seo->buildSchema($m, $site, $siteName);
 
         return $seo;
+    }
+
+    /** Search engines may index this site: production and SEO_INDEXING not switched off (temporary/staging domains). */
+    public static function indexingAllowed(): bool
+    {
+        return app()->isProduction() && config('app.seo_indexing', true);
     }
 
     /** Signed-in team members (admin panel access) may preview drafts; the page is then noindex. */
