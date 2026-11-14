@@ -112,6 +112,12 @@ return [
     |
     */
 
+    /*
+    | Full-page cache for guests (App\Http\Middleware\CacheGuestPages), cleared on any content change.
+    */
+
+    'page_cache' => (bool) env('PAGE_CACHE', true),
+
     'prefix' => env('CACHE_PREFIX', Str::slug((string) env('APP_NAME', 'laravel')).'-cache-'),
 
 ];

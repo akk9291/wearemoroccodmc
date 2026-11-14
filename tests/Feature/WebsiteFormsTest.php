@@ -141,7 +141,7 @@ class WebsiteFormsTest extends TestCase
         $this->get('/contact')->assertSee('Please add your name.');
 
         $this->from('/contact')->post('/forms/contact', $this->contact())->assertRedirect('/contact#contact-form');
-        $this->get('/contact')->assertSee('Your message is with the atelier', false);
+        $this->get('/contact')->assertSee('Your message is with the atelier', false)->assertDontSee('<p class="notice" data-done  hidden', false);
         $this->assertSame(1, ContactMessage::count());
     }
 

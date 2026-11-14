@@ -13,6 +13,8 @@ return Application::configure(basePath: dirname(__DIR__))
     ->withMiddleware(function (Middleware $middleware): void {
         // Redirects table (admin + old .html names + slug changes), before routing so unknown paths can redirect.
         $middleware->prepend(\App\Http\Middleware\HandleRedirects::class);
+        // Guest full-page cache (after the session starts, so the CSRF token can be put back in).
+        $middleware->appendToGroup('web', \App\Http\Middleware\CacheGuestPages::class);
     })
     ->withExceptions(function (Exceptions $exceptions): void {
         //

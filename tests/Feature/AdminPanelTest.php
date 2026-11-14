@@ -143,8 +143,13 @@ class AdminPanelTest extends TestCase
 
         Livewire::test(Resources\ItineraryResource\Pages\EditItinerary::class, ['record' => $it->slug])
             ->fillForm(['status' => 'draft'])->call('save')->assertHasNoFormErrors();
+        // the signed-in editor can preview the draft (noindex); guests get a 404
+        $this->get('/itineraries/atlas-test-journey')->assertOk()->assertSee('<meta name="robots" content="noindex, nofollow">', false);
+        $editor = auth()->user();
+        auth()->logout();
         $this->get('/itineraries/atlas-test-journey')->assertNotFound();
         $this->get('/itineraries')->assertDontSee('Atlas Test Journey');
+        $this->actingAs($editor);
 
         Livewire::test(Resources\ItineraryResource\Pages\EditItinerary::class, ['record' => $it->slug])
             ->callAction('delete');

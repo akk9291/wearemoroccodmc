@@ -13,6 +13,9 @@ use Illuminate\Support\Facades\View;
  */
 class Content
 {
+    /** Blocks rendered per request (CSRF token, validation errors, flash messages). */
+    public const UNCACHED_BLOCKS = ['contact-form', 'newsletter-form'];
+
     public static function render(?string $html): string
     {
         if ($html === null || $html === '') {
@@ -27,8 +30,12 @@ class Content
             }
             $view = 'blocks.'.$m[1];
             abort_unless(View::exists($view), 500, "Unknown content block {$m[1]}");
+            $render = fn () => trim(view($view, $args)->render(), "\n");
 
-            return trim(view($view, $args)->render(), "\n");
+            // Listings (itineraries, FAQs, journal...) are cached until content changes; form blocks carry the CSRF token.
+            return in_array($m[1], self::UNCACHED_BLOCKS, true)
+                ? $render()
+                : ContentCache::remember('block.'.md5(url('/').'|'.$m[0]), $render);
         }, $html);
 
         return static::urls($html);

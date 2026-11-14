@@ -61,10 +61,11 @@ class AppServiceProvider extends ServiceProvider
             Limit::perHour(30)->by($request->ip()),
         ]);
 
-        // Header, footer and inquiry drawer read menus + site settings from the database.
+        // Header, footer and inquiry drawer read menus + site settings (both cached until content/settings change).
         View::composer(['partials.header', 'partials.footer', 'partials.inquiry'], function ($view) {
             $view->with('site', Models\Setting::allValues());
-            $view->with('menus', Models\Menu::with('items')->get()->mapWithKeys(fn ($m) => [$m->name => $m->items])->all());
+            $view->with('menus', \App\Support\ContentCache::remember('menus',
+                fn () => Models\Menu::with('items')->get()->mapWithKeys(fn ($m) => [$m->name => $m->items])->all()));
         });
     }
 }
