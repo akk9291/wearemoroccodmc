@@ -18,6 +18,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500&family=Outfit:wght@300;400;500;600;700&display=swap" media="print" onload="this.media='all'">
 <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500&family=Outfit:wght@300;400;500;600;700&display=swap"></noscript>
 <link rel="stylesheet" href="{{ \App\Support\Content::asset('assets/arena.css') }}">
+<link rel="stylesheet" href="{{ \App\Support\Content::asset('assets/brand.css') }}">
 @stack('head')
 </head>
 <body>

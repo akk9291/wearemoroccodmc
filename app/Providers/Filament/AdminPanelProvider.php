@@ -28,6 +28,9 @@ class AdminPanelProvider extends PanelProvider
             ->path('admin')
             ->login()
             ->brandName('We Are Morocco DMC')
+            ->brandLogo(asset('assets/img/logo/wearemorocco-wordmark-terracotta.png'))
+            ->darkModeBrandLogo(asset('assets/img/logo/wearemorocco-wordmark-ivory.png'))
+            ->brandLogoHeight('1.6rem')
             ->favicon(asset('assets/favicon.svg'))
             ->colors([
                 // --gold / --terracotta in public/assets/arena.css

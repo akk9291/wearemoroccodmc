@@ -10,13 +10,14 @@
 <link rel="icon" href="{{ asset('assets/favicon.svg') }}" type="image/svg+xml">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&family=Outfit:wght@300;400;500&display=swap">
 <link rel="stylesheet" href="{{ asset('assets/arena.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/brand.css') }}">
 </head>
 <body>
 <main id="main">
 <section class="sec bg-ink center" style="min-height:100vh;display:grid;place-items:center">
   <span class="orb orb-soft" aria-hidden="true"></span>
   <div class="container narrow-2" style="margin-inline:auto">
-    <a class="brand" href="{{ url('/') }}" aria-label="We Are Morocco, home" style="justify-content:center;margin-bottom:2.5rem"><svg viewBox="0 0 32 32" aria-hidden="true" class="star"><path fill="currentColor" d="M16 2.5 18.4 12.2 28.5 14.5 18.4 16.8 16 26.5 13.6 16.8 3.5 14.5 13.6 12.2Z"/></svg><span class="word">weare<i>morocco</i></span></a>
+    <a class="brand brand-logo brand-full" href="{{ url('/') }}" aria-label="We Are Morocco DMC, home" style="justify-content:center;margin-bottom:2.5rem;display:flex"><picture><source type="image/webp" srcset="{{ asset('assets/img/logo/wearemorocco-gold.webp') }}"><img src="{{ asset('assets/img/logo/wearemorocco-gold.png') }}" alt="We Are Morocco DMC" width="800" height="168" fetchpriority="high" decoding="async"></picture></a>
     <p class="eyebrow">Error 500</p>
     <h1 class="h2 big" style="margin-top:1rem">Something went wrong <span class="it">on our side.</span></h1>
     <p class="lead" style="margin-top:1.25rem;color:rgba(239,230,214,.78)">We have been notified. Please try again in a moment, or write to us at <a href="mailto:info@wearemoroccotravel.com" style="color:var(--gold-light)">info@wearemoroccotravel.com</a>.</p>

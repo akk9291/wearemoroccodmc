@@ -1,7 +1,7 @@
 <footer class="site-footer">
   <div class="container f-top">
     <div>
-      <a class="brand" href="{{ route('home') }}" aria-label="We Are Morocco, home"><svg viewBox="0 0 32 32" aria-hidden="true" class="star"><path fill="currentColor" d="M16 2.5 18.4 12.2 28.5 14.5 18.4 16.8 16 26.5 13.6 16.8 3.5 14.5 13.6 12.2Z"/></svg><span class="word">weare<i>morocco</i></span></a>
+      <a class="brand brand-logo brand-full" href="{{ route('home') }}" aria-label="We Are Morocco DMC, home"><picture><source type="image/webp" srcset="{{ asset('assets/img/logo/wearemorocco-gold.webp') }}"><img src="{{ asset('assets/img/logo/wearemorocco-gold.png') }}" alt="We Are Morocco DMC" width="800" height="168" loading="lazy" decoding="async"></picture></a>
       <p class="f-blurb">{{ $site['footer_blurb'] }}</p>
       @include('partials.newsletter')
     </div>

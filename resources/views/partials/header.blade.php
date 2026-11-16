@@ -1,6 +1,6 @@
 <header class="site-header">
   <div class="container bar">
-    <a class="brand" href="{{ route('home') }}" aria-label="We Are Morocco, home"><svg viewBox="0 0 32 32" aria-hidden="true" class="star"><path fill="currentColor" d="M16 2.5 18.4 12.2 28.5 14.5 18.4 16.8 16 26.5 13.6 16.8 3.5 14.5 13.6 12.2Z"/></svg><span class="word">weare<i>morocco</i></span></a>
+    <a class="brand brand-logo" href="{{ route('home') }}" aria-label="We Are Morocco DMC, home"><picture><source type="image/webp" srcset="{{ asset('assets/img/logo/wearemorocco-wordmark-ivory.webp') }}"><img src="{{ asset('assets/img/logo/wearemorocco-wordmark-ivory.png') }}" alt="We Are Morocco DMC" width="520" height="69" fetchpriority="high" decoding="async"></picture></a>
     <nav class="main-nav" aria-label="Main">@foreach($menus['main'] as $item)<a href="{{ $item->href() }}"@if($item->isActive()) aria-current="page"@endif>{{ $item->label }}</a>@endforeach</nav>
     <div class="hdr-right">
       <a class="hdr-phone" href="tel:{{ $site['phone'] }}">{{ $site['phone_display'] }}</a>
