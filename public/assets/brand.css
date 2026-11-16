@@ -1,7 +1,12 @@
-/* Wordmark logo (replaces the star + text logo). arena.css .brand still sets layout. */
+/* Wordmark logo (antique gold). arena.css .brand still sets layout.
+   Header: name-only crop below 1440px; full logo with tagline from 1440px. */
 .brand-logo { line-height: 0; }
 .brand-logo picture, .brand-logo img { display: block; }
-.site-header .brand-logo img { height: 22px; width: auto; }
-@media (min-width: 1024px) { .site-header .brand-logo img { height: 25px; } }
+.site-header .brand-logo img { height: 24px; width: auto; }
+.main-nav a { white-space: nowrap; }
+@media (min-width: 1440px) {
+  .site-header .brand-logo img { height: 54px; transition: height .5s; }
+  .site-header.is-scrolled .brand-logo img { height: 48px; }
+}
 .brand-full img { width: 300px; max-width: 100%; height: auto; }
 @media (min-width: 768px) { .brand-full img { width: 340px; } }
