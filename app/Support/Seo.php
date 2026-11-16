@@ -209,7 +209,7 @@ class Seo
     /** The FAQs shown on the page: the groups of its <!--wam:faqs group="..."--> blocks, each question once. */
     private function faqPage(Page $page): array
     {
-        $html = collect($page->sections ?? [])->pluck('html')->filter()->implode("\n");
+        $html = collect($page->sections ?? [])->reject(fn ($b) => ! empty($b['hidden']))->pluck('html')->filter()->implode("\n");
         preg_match_all('/<!--wam:faqs group="([^"]+)"/', $html, $m);
         $groups = array_values(array_unique($m[1]));
         $faqs = Faq::published()->whereIn('group', $groups)->ordered()->get()

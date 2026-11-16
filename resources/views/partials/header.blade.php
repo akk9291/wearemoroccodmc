@@ -1,6 +1,6 @@
 <header class="site-header">
   <div class="container bar">
-    <a class="brand brand-logo" href="{{ route('home') }}" aria-label="We Are Morocco DMC, home"><picture><source media="(min-width: 1440px)" type="image/webp" srcset="{{ asset('assets/img/logo/wearemorocco-gold.webp') }}" width="800" height="168"><source media="(min-width: 1440px)" srcset="{{ asset('assets/img/logo/wearemorocco-gold.png') }}" width="800" height="168"><source type="image/webp" srcset="{{ asset('assets/img/logo/wearemorocco-wordmark-gold.webp') }}"><img src="{{ asset('assets/img/logo/wearemorocco-wordmark-gold.png') }}" alt="We Are Morocco DMC" width="520" height="72" fetchpriority="high" decoding="async"></picture></a>
+    <a class="brand brand-logo brand-header" href="{{ route('home') }}" aria-label="We Are Morocco – Destination Management Company, home"><picture><source type="image/webp" srcset="{{ asset('assets/img/logo/wearemorocco-wordmark-gold.webp') }}"><img src="{{ asset('assets/img/logo/wearemorocco-wordmark-gold.png') }}" alt="We Are Morocco – Destination Management Company" width="520" height="72" fetchpriority="high" decoding="async"></picture><span class="brand-tag" aria-hidden="true">Destination Management Company</span></a>
     <nav class="main-nav" aria-label="Main">@foreach($menus['main'] as $item)<a href="{{ $item->href() }}"@if($item->isActive()) aria-current="page"@endif>{{ $item->label }}</a>@endforeach</nav>
     <div class="hdr-right">
       <a class="hdr-phone" href="tel:{{ $site['phone'] }}">{{ $site['phone_display'] }}</a>

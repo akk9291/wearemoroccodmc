@@ -26,7 +26,7 @@ trait ConvertsSections
     {
         return collect($items ?? [])
             ->map(fn ($item) => ['type' => $item['type']] + array_filter($item['data'] ?? [],
-                fn ($v, $k) => $v !== null && ! str_contains((string) $k, '__'), ARRAY_FILTER_USE_BOTH))
+                fn ($v, $k) => $v !== null && ! str_contains((string) $k, '__') && ! ($k === 'hidden' && ! $v), ARRAY_FILTER_USE_BOTH))
             ->values()->all();
     }
 

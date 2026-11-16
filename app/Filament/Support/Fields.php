@@ -143,17 +143,25 @@ class Fields
         return Builder::make($name)->label('Page sections')
             ->blocks([
                 Block::make('html')->label(fn (?array $state) => $state === null ? 'HTML section' : self::blockLabel(['type' => 'html', 'data' => $state]))->icon('heroicon-o-code-bracket')
-                    ->schema([self::code('html', 'HTML', 18)]),
+                    ->schema([self::code('html', 'HTML', 18), self::hiddenToggle()]),
                 Block::make('cta')->label(fn (?array $state) => $state === null ? 'Call to action (closing banner)' : self::blockLabel(['type' => 'cta', 'data' => $state]))->icon('heroicon-o-megaphone')
-                    ->schema(self::ctaFields()),
+                    ->schema([...self::ctaFields(), self::hiddenToggle()]),
                 Block::make('script')->label(fn (?array $state) => $state === null ? 'Data script' : self::blockLabel(['type' => 'script', 'data' => $state]))->icon('heroicon-o-bolt')
                     ->schema([
                         Select::make('name')->options(['journeys' => 'Signature journeys (WAM_JOURNEYS)', 'stories' => 'Guest letters (WAM_STORIES)'])->required()->live(),
                         Select::make('placement')->options(['guests' => 'Guests', 'services' => 'Services (sample)'])
                             ->visible(fn (Get $get) => $get('name') === 'stories'),
+                        self::hiddenToggle(),
                     ]),
             ])
             ->blockPreviews(false)->collapsible()->collapsed()->reorderable()->cloneable();
+    }
+
+    /** Keeps a block in the page but leaves it off the website (e.g. content waiting for approval). */
+    public static function hiddenToggle(): \Filament\Forms\Components\Toggle
+    {
+        return \Filament\Forms\Components\Toggle::make('hidden')->label('Hide this section on the website')
+            ->helperText('The section is kept here and can be shown again by turning this off.')->default(false);
     }
 
     public static function ctaFields(): array
@@ -179,11 +187,12 @@ class Fields
             return 'Data script: '.($data['name'] ?? '');
         }
         $html = (string) ($data['html'] ?? '');
+        $prefix = ! empty($data['hidden']) ? '[Hidden] HTML: ' : 'HTML: ';
         if (preg_match('/class="(?:eyebrow|label|kicker)">([^<]+)/', $html, $m)) {
-            return 'HTML: '.html_entity_decode($m[1]);
+            return $prefix.html_entity_decode($m[1]);
         }
 
-        return 'HTML: '.Str::limit(trim(strip_tags($html)), 60);
+        return $prefix.Str::limit(trim(strip_tags($html)), 60);
     }
 
     /** Repeater of plain strings, stored as a JSON list. */

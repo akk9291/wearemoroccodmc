@@ -1,12 +1,20 @@
-/* Wordmark logo (antique gold). arena.css .brand still sets layout.
-   Header: name-only crop below 1440px; full logo with tagline from 1440px. */
+/* Gold wordmark logo. arena.css .brand still sets layout.
+   Header: wordmark image + the tagline as real text (crisp at small sizes, readable by search engines),
+   letter-spaced to the wordmark's width at each breakpoint. */
 .brand-logo { line-height: 0; }
 .brand-logo picture, .brand-logo img { display: block; }
-.site-header .brand-logo img { height: 24px; width: auto; }
+.brand-header { flex-direction: column; align-items: stretch; gap: 5px; }
+.brand-header img { height: 30px; width: auto; }
+.brand-tag { display: block; font: 500 8.5px/1 var(--font-sans); letter-spacing: .225em; margin-right: -.225em; text-transform: uppercase; white-space: nowrap; text-align: center; color: #d6b27c; }
 .main-nav a { white-space: nowrap; }
+@media (min-width: 1024px) {
+  .brand-header img { height: 26px; }
+  .brand-tag { font-size: 7.5px; letter-spacing: .21em; margin-right: -.21em; }
+}
 @media (min-width: 1440px) {
-  .site-header .brand-logo img { height: 54px; transition: height .5s; }
-  .site-header.is-scrolled .brand-logo img { height: 48px; }
+  .brand-header { gap: 6px; }
+  .brand-header img { height: 34px; }
+  .brand-tag { font-size: 9.5px; letter-spacing: .234em; margin-right: -.234em; }
 }
 .brand-full img { width: 300px; max-width: 100%; height: auto; }
 @media (min-width: 768px) { .brand-full img { width: 340px; } }

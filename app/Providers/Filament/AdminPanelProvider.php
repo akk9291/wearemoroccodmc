@@ -29,7 +29,7 @@ class AdminPanelProvider extends PanelProvider
             ->login()
             ->brandName('We Are Morocco DMC')
             // gold wordmark on a small dark plate so it reads on the light admin theme too
-            ->brandLogo(fn () => new \Illuminate\Support\HtmlString('<span style="display:inline-flex;align-items:center;background:#0e0c0a;padding:.45rem .8rem;border-radius:.6rem"><img src="'.e(asset('assets/img/logo/wearemorocco-wordmark-gold.png')).'" alt="We Are Morocco DMC" style="height:1.35rem;width:auto;display:block"></span>'))
+            ->brandLogo(fn () => new \Illuminate\Support\HtmlString('<span style="display:inline-flex;align-items:center;background:#0e0c0a;padding:.45rem .8rem;border-radius:.6rem"><img src="'.e(asset('assets/img/logo/wearemorocco-wordmark-gold.png')).'" alt="We Are Morocco – Destination Management Company" style="height:1.35rem;width:auto;display:block"></span>'))
             ->brandLogoHeight('2.25rem')
             ->favicon(asset('assets/favicon.svg'))
             ->colors([
