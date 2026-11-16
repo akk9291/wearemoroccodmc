@@ -18,3 +18,5 @@
 }
 .brand-full img { width: 300px; max-width: 100%; height: auto; }
 @media (min-width: 768px) { .brand-full img { width: 340px; } }
+/* About page team with two people: keep the cards at the size they had in the four-column grid */
+.team-duo { max-width: 40rem; }
