@@ -15,7 +15,7 @@ class Itinerary extends Model
     use HasHero, Publishable, SoftDeletes;
 
     protected $fillable = ['title', 'slug', 'number', 'tagline', 'days', 'nights', 'duration_label', 'price_from', 'currency',
-        'theme', 'route', 'card_route', 'route_stops', 'summary', 'character', 'highlights', 'includes', 'excludes', 'gallery',
+        'theme', 'route', 'card_route', 'route_stops', 'summary', 'character', 'highlights', 'includes', 'excludes', 'gallery', 'route_map', 'route_map_alt',
         'is_signature', 'inquiry_key', 'filter_type', 'filter_dest', 'filter_len', 'card_image', 'card_image_alt', 'final_cta'];
 
     protected $casts = ['route_stops' => 'array', 'highlights' => 'array', 'includes' => 'array', 'excludes' => 'array',

@@ -94,7 +94,13 @@ class ItineraryResource extends ContentResource
                     Fields::lines('includes', 'Typically included'),
                     Fields::lines('excludes', 'Typically excluded'),
                 ]),
-                Tabs\Tab::make('Gallery')->icon('heroicon-o-squares-2x2')->schema([Fields::gallery()]),
+                Tabs\Tab::make('Gallery')->icon('heroicon-o-squares-2x2')->schema([
+                    Forms\Components\Section::make('Route map')->description('Shown beside the day-by-day route. Use a wide 3:2 image.')->schema([
+                        Fields::image('route_map', 'Route map'),
+                        Forms\Components\TextInput::make('route_map_alt')->label('Route map alt text')->maxLength(255),
+                    ])->collapsible(),
+                    Fields::gallery(),
+                ]),
                 Tabs\Tab::make('Closing banner')->icon('heroicon-o-megaphone')->schema([
                     Forms\Components\Group::make(Fields::ctaFields())->statePath('final_cta'),
                 ]),

@@ -1,0 +1,10 @@
+/* Route map block on itinerary pages. Uses arena.css tokens only. */
+.route-map { margin: 2.5rem 0 0; }
+.route-map-link { position: relative; display: block; overflow: hidden; border-radius: 1.5rem; border: 1px solid rgba(14,12,10,.08); background: var(--parchment); box-shadow: 0 30px 60px -30px rgba(14,12,10,.35); }
+.route-map-link img { display: block; width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; transition: transform 1.2s var(--ease); }
+.route-map-link:hover img { transform: scale(1.02); }
+.route-map-zoom { position: absolute; right: 1rem; bottom: 1rem; display: grid; place-items: center; width: 2.75rem; height: 2.75rem; border-radius: 9999px; background: var(--ink); color: var(--gold-light); transition: background .3s, color .3s; }
+.route-map-zoom svg { width: 1.1rem; height: 1.1rem; transform: rotate(-45deg); }
+.route-map-link:hover .route-map-zoom { background: var(--gold); color: var(--ink); }
+.route-map figcaption { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: .5rem 1rem; margin-top: 1rem; }
+.route-map-hint { font: 400 .8125rem/1.4 var(--font-sans); color: var(--stone); }

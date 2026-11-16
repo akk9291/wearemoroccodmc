@@ -78,6 +78,8 @@
     "alt": "A guest looking out over Marrakech at dusk from a private terrace"
    }
   ],
+  "route_map": "/assets/img/maps/route-map-02-four-routes-2400.jpg",
+  "route_map_alt": "Route map of Imperial Morocco: Casablanca, Rabat, Fes, Marrakech",
   "final_cta": {
    "type": "cta",
    "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
@@ -247,6 +249,8 @@
     "alt": "The earthen kasbah of Aït Benhaddou"
    }
   ],
+  "route_map": "/assets/img/maps/route-map-02-four-routes-2400.jpg",
+  "route_map_alt": "Route map of Magical Morocco: Rabat, Fes, Casablanca, Marrakech",
   "final_cta": {
    "type": "cta",
    "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
@@ -442,6 +446,8 @@
     "alt": "Craft stalls in the Fès medina"
    }
   ],
+  "route_map": "/assets/img/maps/route-map-01-ifrane-midelt-2400.jpg",
+  "route_map_alt": "Route map of The Grand Morocco: Casablanca, Rabat, Fes, Ifrane, Midelt, Erfoud, Merzouga, Ouarzazate, Marrakech",
   "final_cta": {
    "type": "cta",
    "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
@@ -637,6 +643,8 @@
     "alt": "Camels crossing the dunes"
    }
   ],
+  "route_map": null,
+  "route_map_alt": null,
   "final_cta": {
    "type": "cta",
    "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
@@ -777,6 +785,8 @@
     "alt": "Kasbah in the Atlas foothills"
    }
   ],
+  "route_map": null,
+  "route_map_alt": null,
   "final_cta": {
    "type": "cta",
    "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",

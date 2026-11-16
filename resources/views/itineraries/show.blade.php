@@ -11,7 +11,9 @@
 @section('content')
 @include('partials.hero', ['m' => $itinerary, 'extra' => '<div class="ctas">'.$shape.'</div><dl class="facts"><div><span>Length</span><b>'.e($itinerary->duration_label).'</b></div><div><span>Route</span><b>'.$itinerary->route.'</b></div></dl>'])
 <section class="sec bg-ivory"><div class="container cols c-8-4 items-start">
-  <div><div class="reveal"><p class="eyebrow">Day by day</p><h2 class="h2 big">The route, <span class="it">day by day.</span></h2></div><div class="mt-14"><ol class="days">@foreach($itinerary->itineraryDays as $day)<li class="day reveal"><span class="d">{{ str_pad($day->day_no, 2, '0', STR_PAD_LEFT) }}<small>Day</small></span><div><h3>{!! $day->title !!}</h3><p>{!! \App\Support\Content::inline($day->description) !!}</p></div>@if($day->image)<div class="thumb"><img src="{{ \App\Support\Content::img($day->image) }}"{!! \App\Support\ImageVariants::attributes($day->image, '(min-width: 768px) 25vw, 100vw') !!} alt="{{ $day->image_alt }}" loading="lazy" decoding="async"></div>@endif</li>@endforeach</ol></div>
+  <div><div class="reveal"><p class="eyebrow">Day by day</p><h2 class="h2 big">The route, <span class="it">day by day.</span></h2></div>
+  @if($itinerary->route_map)@include('partials.route-map')@endif
+  <div class="mt-14"><ol class="days">@foreach($itinerary->itineraryDays as $day)<li class="day reveal"><span class="d">{{ str_pad($day->day_no, 2, '0', STR_PAD_LEFT) }}<small>Day</small></span><div><h3>{!! $day->title !!}</h3><p>{!! \App\Support\Content::inline($day->description) !!}</p></div>@if($day->image)<div class="thumb"><img src="{{ \App\Support\Content::img($day->image) }}"{!! \App\Support\ImageVariants::attributes($day->image, '(min-width: 768px) 25vw, 100vw') !!} alt="{{ $day->image_alt }}" loading="lazy" decoding="async"></div>@endif</li>@endforeach</ol></div>
   @if($itinerary->character)<p class="lead" style="max-width:44rem;margin-top:2.5rem"><span class="it" style="color:var(--clay)">Journey character.</span> {!! $itinerary->character !!}</p>@endif</div>
   <aside class="sticky reveal-right">
 @if($itinerary->route_stops)
