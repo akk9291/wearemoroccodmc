@@ -41,7 +41,7 @@ Marrakech | We Are Morocco
     <span class="label">We live here</span>
     <h2 class="h2">Planning something in Marrakech? <span class="it block">Ask the people who live here.</span></h2>
     <p class="lead">Share your dates and who is traveling, and we will send houses and a first sketch within days.</p>
-    <div class="ctas"><button type="button" class="btn btn-gold " data-inquiry=""><span>Design your journey</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button><a class="btn btn-ghost" href="mailto:info@wearemoroccotravel.com">info@wearemoroccotravel.com</a></div>
+    <div class="ctas"><button type="button" class="btn btn-gold " data-inquiry=""><span>Design your journey</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button><a class="btn btn-ghost" href="mailto:info@wearemoroccodmc.com">info@wearemoroccodmc.com</a></div>
   </div>
 </section>
 @endsection

@@ -38,7 +38,7 @@ FAQ | We Are Morocco
     <span class="label">Talk to us</span>
     <h2 class="h2">Still have a question? <span class="it block">Ask a person.</span></h2>
     <p class="lead">Our atelier replies within one business day — on your clock.</p>
-    <div class="ctas"><button type="button" class="btn btn-gold " data-inquiry=""><span>Design your journey</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button><a class="btn btn-ghost" href="mailto:info@wearemoroccotravel.com">info@wearemoroccotravel.com</a></div>
+    <div class="ctas"><button type="button" class="btn btn-gold " data-inquiry=""><span>Design your journey</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button><a class="btn btn-ghost" href="mailto:info@wearemoroccodmc.com">info@wearemoroccodmc.com</a></div>
   </div>
 </section>
 @endsection

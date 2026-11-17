@@ -6,10 +6,10 @@ Contact | We Are Morocco
 @endsection
 
 @section('meta')
-<meta name="description" content="Contact our atelier in Marrakech: +212 653 051 512, info@wearemoroccotravel.com. Planning calls on American hours.">
+<meta name="description" content="Contact our atelier in Marrakech: +212 653 051 512, info@wearemoroccodmc.com. Planning calls on American hours.">
 <meta name="theme-color" content="#0e0c0a">
 <meta property="og:title" content="Contact | We Are Morocco">
-<meta property="og:description" content="Contact our atelier in Marrakech: +212 653 051 512, info@wearemoroccotravel.com. Planning calls on American hours.">
+<meta property="og:description" content="Contact our atelier in Marrakech: +212 653 051 512, info@wearemoroccodmc.com. Planning calls on American hours.">
 <meta property="og:image" content="https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400">
 @endsection
 
@@ -27,7 +27,7 @@ Contact | We Are Morocco
 </section>
 <section class="sec bg-parch"><div class="container cols c-5-7 items-start">
   <div class="reveal"><p class="eyebrow">Reach us</p><h2 class="h2 big">Our atelier <span class="it">in Marrakech.</span></h2>
-    <dl class="cblock"><div><dt>Phone & WhatsApp</dt><dd><a href="tel:+212653051512">+212 653 051 512</a></dd></div><div><dt>Email</dt><dd><a href="mailto:info@wearemoroccotravel.com">info@wearemoroccotravel.com</a></dd></div><div><dt>Atelier</dt><dd>Av. Hassan II, Koutoubia Center II, 1er Étage, Bureau N°5, Marrakech</dd></div><div><dt>Hours</dt><dd>Planning calls on Eastern &amp; Pacific time, by appointment</dd></div><div><dt>Guests on a journey</dt><dd>24/7 WhatsApp line</dd></div></dl></div>
+    <dl class="cblock"><div><dt>Phone & WhatsApp</dt><dd><a href="tel:+212653051512">+212 653 051 512</a></dd></div><div><dt>Email</dt><dd><a href="mailto:info@wearemoroccodmc.com">info@wearemoroccodmc.com</a></dd></div><div><dt>Atelier</dt><dd>Av. Hassan II, Koutoubia Center II, 1er Étage, Bureau N°5, Marrakech</dd></div><div><dt>Hours</dt><dd>Planning calls on Eastern &amp; Pacific time, by appointment</dd></div><div><dt>Guests on a journey</dt><dd>24/7 WhatsApp line</dd></div></dl></div>
   <div class="builder reveal-right" style="padding:2rem"><span class="kicker" style="color:var(--gold-light)">General enquiry</span><h3 class="h3" style="color:var(--ivory)">Send us <span class="it">a message.</span></h3>
     <p class="small" style="margin-top:.75rem;color:rgba(239,230,214,.65)">Planning a journey? The <a href="{{ route('quote') }}" style="color:var(--gold-light)">six-question brief</a> gets you a first sketch faster.</p>
     <form class="form-grid" data-simple novalidate style="margin-top:1.75rem">

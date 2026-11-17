@@ -39,7 +39,7 @@ Destinations | We Are Morocco
     <span class="label">Not sure where to start?</span>
     <h2 class="h2">Tell us your dates. <span class="it block">We will suggest the right region.</span></h2>
     <p class="lead">Season, pace and who is traveling decide the route. A producer will propose one within days.</p>
-    <div class="ctas"><button type="button" class="btn btn-gold " data-inquiry=""><span>Design your journey</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button><a class="btn btn-ghost" href="mailto:info@wearemoroccotravel.com">info@wearemoroccotravel.com</a></div>
+    <div class="ctas"><button type="button" class="btn btn-gold " data-inquiry=""><span>Design your journey</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button><a class="btn btn-ghost" href="mailto:info@wearemoroccodmc.com">info@wearemoroccodmc.com</a></div>
   </div>
 </section>
 @endsection

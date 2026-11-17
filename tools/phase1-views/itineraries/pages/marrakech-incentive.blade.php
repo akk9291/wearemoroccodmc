@@ -45,7 +45,7 @@ Marrakech Incentive | Sample itinerary | We Are Morocco
     <span class="label">Your Morocco, your way</span>
     <h2 class="h2">Like the shape of it? <span class="it block">We will fit it to you.</span></h2>
     <p class="lead">Send your dates and who is traveling. A producer replies with a tailored version within days.</p>
-    <div class="ctas"><button type="button" class="btn btn-gold " data-inquiry="incentive"><span>Design your journey</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button><a class="btn btn-ghost" href="mailto:info@wearemoroccotravel.com">info@wearemoroccotravel.com</a></div>
+    <div class="ctas"><button type="button" class="btn btn-gold " data-inquiry="incentive"><span>Design your journey</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button><a class="btn btn-ghost" href="mailto:info@wearemoroccodmc.com">info@wearemoroccodmc.com</a></div>
   </div>
 </section>
 @endsection

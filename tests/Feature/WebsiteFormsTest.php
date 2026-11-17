@@ -110,7 +110,7 @@ class WebsiteFormsTest extends TestCase
         \Illuminate\Support\Facades\Cache::forget('settings');
 
         $this->postJson('/forms/quote', $this->quote(), self::JSON)->assertOk();
-        Mail::assertQueued(LeadReceived::class, fn ($m) => $m->hasTo('info@wearemoroccotravel.com'));
+        Mail::assertQueued(LeadReceived::class, fn ($m) => $m->hasTo('info@wearemoroccodmc.com'));
     }
 
     // ---- contact ----

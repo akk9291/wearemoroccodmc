@@ -24,7 +24,7 @@ use Illuminate\Support\Facades\Mail;
  */
 class FormController extends Controller
 {
-    public const FALLBACK_NOTIFICATION_EMAIL = 'info@wearemoroccotravel.com';
+    public const FALLBACK_NOTIFICATION_EMAIL = 'info@wearemoroccodmc.com';
 
     public function inquiry(InquiryRequest $request): JsonResponse|RedirectResponse
     {

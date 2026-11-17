@@ -20,7 +20,7 @@
     <a class="brand brand-logo brand-full" href="{{ url('/') }}" aria-label="We Are Morocco – Destination Management Company, home" style="justify-content:center;margin-bottom:2.5rem;display:flex"><picture><source type="image/webp" srcset="{{ asset('assets/img/logo/wearemorocco-gold.webp') }}"><img src="{{ asset('assets/img/logo/wearemorocco-gold.png') }}" alt="We Are Morocco – Destination Management Company" width="800" height="168" fetchpriority="high" decoding="async"></picture></a>
     <p class="eyebrow">Error 500</p>
     <h1 class="h2 big" style="margin-top:1rem">Something went wrong <span class="it">on our side.</span></h1>
-    <p class="lead" style="margin-top:1.25rem;color:rgba(239,230,214,.78)">We have been notified. Please try again in a moment, or write to us at <a href="mailto:info@wearemoroccotravel.com" style="color:var(--gold-light)">info@wearemoroccotravel.com</a>.</p>
+    <p class="lead" style="margin-top:1.25rem;color:rgba(239,230,214,.78)">We have been notified. Please try again in a moment, or write to us at <a href="mailto:info@wearemoroccodmc.com" style="color:var(--gold-light)">info@wearemoroccodmc.com</a>.</p>
     <div class="ctas" style="justify-content:center;margin-top:2rem"><a class="btn btn-gold" href="{{ url('/') }}"><span>Back to the homepage</span></a></div>
   </div>
 </section>

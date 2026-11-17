@@ -42,7 +42,7 @@ Case study: an Agafay gala | We Are Morocco
     <span class="label">Planning an incentive?</span>
     <h2 class="h2">We have done this before. <span class="it block">Let us do it for you.</span></h2>
     <p class="lead">A first sketch within days, itemised and honest.</p>
-    <div class="ctas"><button type="button" class="btn btn-gold " data-inquiry="incentive"><span>Design your journey</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button><a class="btn btn-ghost" href="mailto:info@wearemoroccotravel.com">info@wearemoroccotravel.com</a></div>
+    <div class="ctas"><button type="button" class="btn btn-gold " data-inquiry="incentive"><span>Design your journey</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button><a class="btn btn-ghost" href="mailto:info@wearemoroccodmc.com">info@wearemoroccodmc.com</a></div>
   </div>
 </section>
 @endsection

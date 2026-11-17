@@ -47,7 +47,7 @@
     "label": "The next step is a conversation",
     "title": "Tell us how you travel. <span class=\"it block\">We will draw the country around it.</span>",
     "lead": "A producer in Marrakech reads every note and replies within one business day — with a first sketch, not a brochure.",
-    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccodmc.com\">info@wearemoroccodmc.com</a>"
    },
    {
     "type": "script",
@@ -119,7 +119,7 @@
     "label": "Meet the atelier",
     "title": "Want to meet the team? <span class=\"it block\">Start with a conversation.</span>",
     "lead": "Tell us what you are planning and the right producer will reply within one business day.",
-    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccodmc.com\">info@wearemoroccodmc.com</a>"
    }
   ],
   "slug": "about",
@@ -173,7 +173,7 @@
     "label": "Ask for a sketch",
     "title": "See how we would run it. <span class=\"it block\">Ask for a first sketch.</span>",
     "lead": "Itemised and tailored, within days. No obligation.",
-    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccodmc.com\">info@wearemoroccodmc.com</a>"
    },
    {
     "type": "script",
@@ -228,7 +228,7 @@
     "label": "Lower impact",
     "title": "Want a lower-impact journey? <span class=\"it block\">Ask us how.</span>",
     "lead": "We can build sustainability into your brief from the very first sketch.",
-    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccodmc.com\">info@wearemoroccodmc.com</a>"
    }
   ],
   "slug": "sustainability",
@@ -270,7 +270,7 @@
     "label": "Talk to us",
     "title": "Still have a question? <span class=\"it block\">Ask a person.</span>",
     "lead": "Our atelier replies within one business day — on your clock.",
-    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccodmc.com\">info@wearemoroccodmc.com</a>"
    }
   ],
   "slug": "faq",
@@ -412,7 +412,7 @@
  },
  {
   "meta_title": "Contact | We Are Morocco",
-  "meta_description": "Contact our atelier in Marrakech: +212 653 051 512, info@wearemoroccotravel.com. Planning calls on American hours.",
+  "meta_description": "Contact our atelier in Marrakech: +212 653 051 512, info@wearemoroccodmc.com. Planning calls on American hours.",
   "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
   "hero_variant": "short",
   "hero_image": "https://images.pexels.com/photos/27945049/pexels-photo-27945049.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
@@ -435,7 +435,7 @@
   "sections": [
    {
     "type": "html",
-    "html": "<section class=\"sec bg-parch\"><div class=\"container cols c-5-7 items-start\">\n  <div class=\"reveal\"><p class=\"eyebrow\">Reach us</p><h2 class=\"h2 big\">Our atelier <span class=\"it\">in Marrakech.</span></h2>\n    <dl class=\"cblock\"><div><dt>Phone & WhatsApp</dt><dd><a href=\"tel:+212653051512\">+212 653 051 512</a></dd></div><div><dt>Email</dt><dd><a href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a></dd></div><div><dt>Atelier</dt><dd>Av. Hassan II, Koutoubia Center II, 1er Étage, Bureau N°5, Marrakech</dd></div><div><dt>Hours</dt><dd>Planning calls on Eastern &amp; Pacific time, by appointment</dd></div><div><dt>Guests on a journey</dt><dd>24/7 WhatsApp line</dd></div></dl></div>\n  <div class=\"builder reveal-right\" style=\"padding:2rem\"><span class=\"kicker\" style=\"color:var(--gold-light)\">General enquiry</span><h3 class=\"h3\" style=\"color:var(--ivory)\">Send us <span class=\"it\">a message.</span></h3>\n    <p class=\"small\" style=\"margin-top:.75rem;color:rgba(239,230,214,.65)\">Planning a journey? The <a href=\"/quote\" style=\"color:var(--gold-light)\">six-question brief</a> gets you a first sketch faster.</p>\n    <!--wam:contact-form--></div>\n</div></section>"
+    "html": "<section class=\"sec bg-parch\"><div class=\"container cols c-5-7 items-start\">\n  <div class=\"reveal\"><p class=\"eyebrow\">Reach us</p><h2 class=\"h2 big\">Our atelier <span class=\"it\">in Marrakech.</span></h2>\n    <dl class=\"cblock\"><div><dt>Phone & WhatsApp</dt><dd><a href=\"tel:+212653051512\">+212 653 051 512</a></dd></div><div><dt>Email</dt><dd><a href=\"mailto:info@wearemoroccodmc.com\">info@wearemoroccodmc.com</a></dd></div><div><dt>Atelier</dt><dd>Av. Hassan II, Koutoubia Center II, 1er Étage, Bureau N°5, Marrakech</dd></div><div><dt>Hours</dt><dd>Planning calls on Eastern &amp; Pacific time, by appointment</dd></div><div><dt>Guests on a journey</dt><dd>24/7 WhatsApp line</dd></div></dl></div>\n  <div class=\"builder reveal-right\" style=\"padding:2rem\"><span class=\"kicker\" style=\"color:var(--gold-light)\">General enquiry</span><h3 class=\"h3\" style=\"color:var(--ivory)\">Send us <span class=\"it\">a message.</span></h3>\n    <p class=\"small\" style=\"margin-top:.75rem;color:rgba(239,230,214,.65)\">Planning a journey? The <a href=\"/quote\" style=\"color:var(--gold-light)\">six-question brief</a> gets you a first sketch faster.</p>\n    <!--wam:contact-form--></div>\n</div></section>"
    }
   ],
   "slug": "contact",
@@ -509,7 +509,7 @@
     "label": "Start here",
     "title": "Tell us what you are planning. <span class=\"it block\">We will design the rest.</span>",
     "lead": "Proposal within days — itemised, honest about what is possible, and written by a person.",
-    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccodmc.com\">info@wearemoroccodmc.com</a>"
    }
   ],
   "slug": "services",
@@ -559,7 +559,7 @@
     "label": "Not sure where to start?",
     "title": "Tell us your dates. <span class=\"it block\">We will suggest the right region.</span>",
     "lead": "Season, pace and who is traveling decide the route. A producer will propose one within days.",
-    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccodmc.com\">info@wearemoroccodmc.com</a>"
    }
   ],
   "slug": "destinations",
@@ -609,7 +609,7 @@
     "label": "Your Morocco, your way",
     "title": "Luxury is not adding more. <span class=\"it block\">It is choosing the right experiences.</span>",
     "lead": "Leave room for discovery, comfort and genuine connection. Tell us how you travel and we will shape the route around it.",
-    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccodmc.com\">info@wearemoroccodmc.com</a>"
    }
   ],
   "slug": "itineraries",
@@ -651,7 +651,7 @@
     "label": "Add it to your journey",
     "title": "Seen something you like? <span class=\"it block\">We will build it in.</span>",
     "lead": "Mention the experience in your note and your producer will weave it into the route.",
-    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccodmc.com\">info@wearemoroccodmc.com</a>"
    }
   ],
   "slug": "experiences",
@@ -697,7 +697,7 @@
     "label": "Have a program like these?",
     "title": "Let us quote it. <span class=\"it block\">A first sketch within days.</span>",
     "lead": "Tell us the group, dates and the feeling you want guests to leave with.",
-    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"event\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccotravel.com\">info@wearemoroccotravel.com</a>"
+    "ctas": "<button type=\"button\" class=\"btn btn-gold \" data-inquiry=\"event\"><span>Design your journey</span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button><a class=\"btn btn-ghost\" href=\"mailto:info@wearemoroccodmc.com\">info@wearemoroccodmc.com</a>"
    }
   ],
   "slug": "case-studies",
