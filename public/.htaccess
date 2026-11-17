@@ -5,6 +5,11 @@
 
     RewriteEngine On
 
+    # One address: www and the old temporary Hostinger domain go to https://wearemoroccodmc.com, same path
+    # (Hostinger already sends http to https.)
+    RewriteCond %{HTTP_HOST} ^(www\.wearemoroccodmc\.com|palegreen-grasshopper-799202\.hostingersite\.com)$ [NC]
+    RewriteRule ^(.*)$ https://wearemoroccodmc.com/$1 [R=301,L]
+
     # Handle Authorization Header
     RewriteCond %{HTTP:Authorization} .
     RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
