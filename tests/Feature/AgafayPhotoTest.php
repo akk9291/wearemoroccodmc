@@ -35,6 +35,9 @@ class AgafayPhotoTest extends TestCase
         $this->assertStringContainsString('src="'.url(self::NEW).'"', $card);
         $this->assertStringContainsString('agafay-desert-camp-2400.webp 2400w', $card);
         $this->assertStringContainsString('alt="Stony hills of the Agafay desert', $card);
+        // the #slug jump target is the card itself (no empty anchor taking a grid slot); 8rem = header room + the 2rem reveal offset
+        $this->assertStringContainsString('scroll-margin-top:8rem', $card);
+        $this->assertStringNotContainsString('top:-6rem', $this->get('/destinations')->getContent());
 
         $this->assertStringNotContainsString(self::DUNES, $this->get('/case-studies/agafay-gala')->assertOk()->getContent());
 
@@ -73,8 +76,8 @@ class AgafayPhotoTest extends TestCase
 
     private function agafayCard(string $html): string
     {
-        $this->assertMatchesRegularExpression('#<span id="agafay"[^>]*></span><a[^>]*>.*?</a>#s', $html);
-        preg_match('#<span id="agafay"[^>]*></span><a[^>]*>.*?</a>#s', $html, $m);
+        $this->assertMatchesRegularExpression('#<a id="agafay"[^>]*>.*?</a>#s', $html);
+        preg_match('#<a id="agafay"[^>]*>.*?</a>#s', $html, $m);
 
         return $m[0];
     }
