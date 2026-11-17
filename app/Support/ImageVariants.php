@@ -9,6 +9,7 @@ use Illuminate\Support\Facades\Storage;
  *  - Uploads (public disk): on upload a WebP copy plus 800 and 1600 px wide WebP variants are written next to the
  *    original (uploads/abc.jpg -> uploads/abc.webp, abc-800.webp, abc-1600.webp). `php artisan images:variants` backfills.
  *  - Pexels URLs: the CDN resizes on request, so the srcset varies its w= parameter.
+ *  - Bundled photos (/assets/img/photos/<name>-1600.webp): the srcset lists the 800/1600/2400 files that exist.
  */
 class ImageVariants
 {
@@ -81,6 +82,9 @@ class ImageVariants
         if (static::isPexels($value)) {
             return static::pexelsSrcset($value);
         }
+        if ($bundled = static::bundledSrcset($value)) {
+            return $bundled;
+        }
         if (! static::isUpload($value)) {
             return null;
         }
@@ -110,6 +114,27 @@ class ImageVariants
     {
         return ! preg_match('#^(https?:)?//#i', $value) && ! str_starts_with($value, '/')
             && (bool) preg_match('/\.(jpe?g|png|webp|gif)$/i', $value);
+    }
+
+    public const BUNDLED_WIDTHS = [800, 1600, 2400];
+
+    /**
+     * Self-hosted photos in public/assets/img/photos, stored as /assets/img/photos/<name>-<width>.webp:
+     * the srcset lists every <name>-800/1600/2400.webp that exists.
+     */
+    public static function bundledSrcset(string $value): ?string
+    {
+        if (! preg_match('#^/assets/img/photos/([a-z0-9-]+)-\d+\.webp$#', $value, $m)) {
+            return null;
+        }
+        $set = [];
+        foreach (self::BUNDLED_WIDTHS as $w) {
+            if (is_file(public_path("assets/img/photos/{$m[1]}-{$w}.webp"))) {
+                $set[] = asset("assets/img/photos/{$m[1]}-{$w}.webp").' '.$w.'w';
+            }
+        }
+
+        return count($set) > 1 ? implode(', ', $set) : null;
     }
 
     /** Same photo at several widths (dpr=1), up to the width the original URL asked for. */

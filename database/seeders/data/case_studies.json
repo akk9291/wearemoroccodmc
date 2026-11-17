@@ -4,8 +4,8 @@
   "meta_description": "Case study layout: an incentive program and desert gala in Marrakech and Agafay.",
   "og_image": "https://images.pexels.com/photos/38891222/pexels-photo-38891222.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=2400",
   "hero_variant": null,
-  "hero_image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
-  "hero_image_alt": "Golden Sahara dunes at sunset in Merzouga",
+  "hero_image": "/assets/img/photos/agafay-desert-camp-1600.webp",
+  "hero_image_alt": "Stony hills of the Agafay desert with white camp tents and the snow-capped Atlas behind",
   "hero_crumb": "Sample",
   "hero_crumbs": [
    {
@@ -32,12 +32,12 @@
    },
    {
     "type": "html",
-    "html": "<section class=\"sec bg-parch\"><div class=\"container\"><p class=\"eyebrow\">Photos</p><div class=\"mt-6\"><div class=\"gallery\"><figure class=\"reveal-scale\" style=\"transition-delay:0ms\"><img src=\"https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Golden Sahara dunes at sunset in Merzouga\" loading=\"lazy\" decoding=\"async\"></figure><figure class=\"reveal-scale\" style=\"transition-delay:70ms\"><img src=\"https://images.pexels.com/photos/10434667/pexels-photo-10434667.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800\" alt=\"Private desert camp in the Sahara\" loading=\"lazy\" decoding=\"async\"></figure><figure class=\"reveal-scale\" style=\"transition-delay:140ms\"><img src=\"https://images.pexels.com/photos/7391720/pexels-photo-7391720.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Riad lounge with carved plaster and lantern light\" loading=\"lazy\" decoding=\"async\"></figure><figure class=\"reveal-scale\" style=\"transition-delay:210ms\"><img src=\"https://images.pexels.com/photos/27945049/pexels-photo-27945049.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Palace courtyard with fountain and arches\" loading=\"lazy\" decoding=\"async\"></figure><figure class=\"reveal-scale\" style=\"transition-delay:280ms\"><img src=\"https://images.pexels.com/photos/30320422/pexels-photo-30320422.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800\" alt=\"Camels crossing the dunes\" loading=\"lazy\" decoding=\"async\"></figure></div></div></div></section>"
+    "html": "<section class=\"sec bg-parch\"><div class=\"container\"><p class=\"eyebrow\">Photos</p><div class=\"mt-6\"><div class=\"gallery\"><figure class=\"reveal-scale\" style=\"transition-delay:0ms\"><img src=\"/assets/img/photos/agafay-desert-camp-1600.webp\" alt=\"Stony hills of the Agafay desert with white camp tents and the snow-capped Atlas behind\" loading=\"lazy\" decoding=\"async\"></figure><figure class=\"reveal-scale\" style=\"transition-delay:70ms\"><img src=\"https://images.pexels.com/photos/10434667/pexels-photo-10434667.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800\" alt=\"Private desert camp in the Sahara\" loading=\"lazy\" decoding=\"async\"></figure><figure class=\"reveal-scale\" style=\"transition-delay:140ms\"><img src=\"https://images.pexels.com/photos/7391720/pexels-photo-7391720.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Riad lounge with carved plaster and lantern light\" loading=\"lazy\" decoding=\"async\"></figure><figure class=\"reveal-scale\" style=\"transition-delay:210ms\"><img src=\"https://images.pexels.com/photos/27945049/pexels-photo-27945049.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600\" alt=\"Palace courtyard with fountain and arches\" loading=\"lazy\" decoding=\"async\"></figure><figure class=\"reveal-scale\" style=\"transition-delay:280ms\"><img src=\"https://images.pexels.com/photos/30320422/pexels-photo-30320422.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1800\" alt=\"Camels crossing the dunes\" loading=\"lazy\" decoding=\"async\"></figure></div></div></div></section>"
    },
    {
     "type": "cta",
-    "image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
-    "image_alt": "Golden Sahara dunes at sunset in Merzouga",
+    "image": "/assets/img/photos/agafay-desert-camp-1600.webp",
+    "image_alt": "Stony hills of the Agafay desert with white camp tents and the snow-capped Atlas behind",
     "label": "Planning an incentive?",
     "title": "We have done this before. <span class=\"it block\">Let us do it for you.</span>",
     "lead": "A first sketch within days, itemised and honest.",
@@ -54,8 +54,8 @@
   "card_kicker": "Incentive · [120] guests",
   "card_title": "[Client]: an Agafay gala for [120] guests",
   "card_summary": "Marrakech · Agafay · Sample",
-  "card_image": "https://images.pexels.com/photos/29107889/pexels-photo-29107889.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1600",
-  "card_image_alt": "Golden Sahara dunes at sunset in Merzouga",
+  "card_image": "/assets/img/photos/agafay-desert-camp-1600.webp",
+  "card_image_alt": "Stony hills of the Agafay desert with white camp tents and the snow-capped Atlas behind",
   "filter_service": "incentive"
  }
 ]
